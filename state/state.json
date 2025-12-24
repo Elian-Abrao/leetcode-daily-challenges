@@ -1,0 +1,155 @@
+{
+  "completed": [],
+  "failed": [
+    {
+      "timestamp": "2025-12-23T22:26:54.998261",
+      "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyB7drua0UXI7E9H5qdSYZCZ78c0JkLGLog",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:28:45.322184",
+      "error": "404 Client Error: Not Found for url: https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyB7drua0UXI7E9H5qdSYZCZ78c0JkLGLog",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:30:08.843157",
+      "error": "Nenhum modelo valido. Exemplos disponiveis: gemini-2.5-flash, gemini-2.5-pro, gemini-2.0-flash, gemini-2.0-flash-001, gemini-2.0-flash-lite-001",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:31:39.753868",
+      "error": "Resposta Gemini nao e JSON valido: ```json\n{\n  \"readme\": \"## Turtle and Piggy Are Playing a Game\\n\\n### Minha Abordagem\\n\\nO problema pede para encontrar o número máximo de movimentos que a Tartaruga pode fazer. A Tartaruga começa com `L` e a Porquinha com `R`. Ambos podem adicionar `2^k` ao seu número. O",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:33:15.373769",
+      "error": "Resposta Gemini nao e JSON valido: ```json\n{\n  \"readme\": \"Olá! Como o enunciado do problema 'Round Trip' (link: https://codeforces.com/problemset/problem/2161/A) não está disponível ou o link redireciona para outro problema ('Theatre Square'), não foi possível analisar os detalhes específicos do desafio. Portanto, as seções abaixo contêm placeholders e indicações",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:34:21.420696",
+      "error": "400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent?key=AIzaSyB7drua0UXI7E9H5qdSYZCZ78c0JkLGLog",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:35:31.819505",
+      "error": "Erro Gemini: {\n  \"error\": {\n    \"code\": 400,\n    \"message\": \"Invalid JSON payload received. Unknown name \\\"responseMimeType\\\" at 'generation_config': Cannot find field.\",\n    \"status\": \"INVALID_ARGUMENT\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.BadRequest\",\n        \"fieldViolations\": [\n          {\n            \"field\": \"generation_config\",\n            \"description\": \"Invalid JSON payload received. Unknown name \\\"responseMimeType\\\" at 'generation_config': Cannot find field.\"\n          }\n        ]\n      }\n    ]\n  }\n}\n",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:37:04.707916",
+      "error": "Resposta Gemini nao e JSON valido: ```json\n{\n  \"readme\": \"## 2-3 Moves\\n\\nOlá! Para este desafio, meu objetivo é encontrar o número mínimo de movimentos para alcançar um número `n` a partir de `0`, usando apenas movimentos de `+2` ou `+3`. O problema é classificado como de matemática e guloso (greedy), o que sugere que",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:39:30.300395",
+      "error": "Resposta Gemini nao e JSON valido: ```json\n{\n  \"readme\": \"Para o problema \\\"MEX and Array\\\", minha abordagem se baseia em calcular a soma dos valores MEX para todos os subarrays possíveis. Dada a restrição de `N` (tamanho do array) até 100, uma solução com complexidade de tempo `O(N^2)` é perfeitamente aceitável.\\n\\n**Abordagem:**\\nDecidi iterar sobre todos os possíveis subarrays. Um subarray é definido por seus índices de início `l` e fim `r`. Para cada subarray `a[l...r]`, preciso calcular seu MEX (Minimum Excluded value). Para otimizar o cálculo do MEX, percebi que, ao estender um subarray `a[l...r-",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    },
+    {
+      "timestamp": "2025-12-23T22:42:38.999795",
+      "error": "Erro Gemini: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 15.41991916s.\",\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Learn more about Gemini API quotas\",\n            \"url\": \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.QuotaFailure\",\n        \"violations\": [\n          {\n            \"quotaMetric\": \"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\n            \"quotaId\": \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\",\n            \"quotaDimensions\": {\n              \"location\": \"global\",\n              \"model\": \"gemini-2.5-flash\"\n            },\n            \"quotaValue\": \"20\"\n          }\n        ]\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.RetryInfo\",\n        \"retryDelay\": \"15s\"\n      }\n    ]\n  }\n}\n",
+      "job": {
+        "time": "09:00",
+        "difficulty": "easy",
+        "rating_range": null,
+        "tags": [
+          "math",
+          "greedy"
+        ],
+        "language": "python",
+        "commit_message_template": "chore(cf): add {slug} ({difficulty})"
+      }
+    }
+  ]
+}
