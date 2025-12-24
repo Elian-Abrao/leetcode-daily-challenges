@@ -1,5 +1,22 @@
 {
-  "completed": [],
+  "completed": [
+    {
+      "problem_id": "codeforces:1430:C",
+      "source": "codeforces",
+      "contest_id": 1430,
+      "index": "C",
+      "slug": "numbers-on-whiteboard",
+      "timestamp": "2025-12-23T22:44:41.108470"
+    },
+    {
+      "problem_id": "codeforces:1857:B",
+      "source": "codeforces",
+      "contest_id": 1857,
+      "index": "B",
+      "slug": "maximum-rounding",
+      "timestamp": "2025-12-23T22:51:58.430557"
+    }
+  ],
   "failed": [
     {
       "timestamp": "2025-12-23T22:26:54.998261",
