@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-19T21:52:40Z",
+  "updated_at": "2026-02-19T21:54:10Z",
   "items": [
     {
       "question_id": "1",
@@ -66,13 +66,13 @@
       "question_id": "121"
     },
     {
+      "question_id": "125",
       "slug": "valid-palindrome",
       "title": "Valid Palindrome",
       "difficulty": "easy",
-      "path": "problems/easy/0125_valid-palindrome.py",
-      "committed_at": "2026-02-19T14:36:06Z",
-      "source": "manual_migration",
-      "question_id": "125"
+      "path": "problems/easy/125_valid-palindrome.py",
+      "committed_at": "2026-02-19T21:54:10Z",
+      "source": "autofeedr"
     },
     {
       "slug": "maximum-repeating-substring",
