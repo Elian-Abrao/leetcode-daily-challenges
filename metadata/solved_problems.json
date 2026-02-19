@@ -2,20 +2,140 @@
   "repository": "Elian-Abrao/leetcode-daily-challenges",
   "updated_at": "2026-02-19T14:36:06Z",
   "items": [
-    {"frontend_id": "1", "slug": "two-sum", "title": "Two Sum", "difficulty": "easy", "path": "problems/easy/0001_two-sum.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "70", "slug": "climbing-stairs", "title": "Climbing Stairs", "difficulty": "easy", "path": "problems/easy/0070_climbing-stairs.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "101", "slug": "symmetric-tree", "title": "Symmetric Tree", "difficulty": "easy", "path": "problems/easy/0101_symmetric-tree.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "118", "slug": "pascals-triangle", "title": "Pascal's Triangle", "difficulty": "easy", "path": "problems/easy/0118_pascals-triangle.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "119", "slug": "pascals-triangle-ii", "title": "Pascal's Triangle II", "difficulty": "easy", "path": "problems/easy/0119_pascals-triangle-ii.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "121", "slug": "best-time-to-buy-and-sell-stock", "title": "Best Time to Buy and Sell Stock", "difficulty": "easy", "path": "problems/easy/0121_best-time-to-buy-and-sell-stock.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "125", "slug": "valid-palindrome", "title": "Valid Palindrome", "difficulty": "easy", "path": "problems/easy/0125_valid-palindrome.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "338", "slug": "counting-bits", "title": "Counting Bits", "difficulty": "easy", "path": "problems/easy/0338_counting-bits.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "392", "slug": "is-subsequence", "title": "Is Subsequence", "difficulty": "easy", "path": "problems/easy/0392_is-subsequence.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "460", "slug": "lfu-cache", "title": "LFU Cache", "difficulty": "hard", "path": "problems/hard/0460_lfu-cache.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "509", "slug": "fibonacci-number", "title": "Fibonacci Number", "difficulty": "easy", "path": "problems/easy/0509_fibonacci-number.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "746", "slug": "min-cost-climbing-stairs", "title": "Min Cost Climbing Stairs", "difficulty": "easy", "path": "problems/easy/0746_min-cost-climbing-stairs.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "1025", "slug": "divisor-game", "title": "Divisor Game", "difficulty": "easy", "path": "problems/easy/1025_divisor-game.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "1137", "slug": "n-th-tribonacci-number", "title": "N-th Tribonacci Number", "difficulty": "easy", "path": "problems/easy/1137_n-th-tribonacci-number.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"},
-    {"frontend_id": "1668", "slug": "maximum-repeating-substring", "title": "Maximum Repeating Substring", "difficulty": "easy", "path": "problems/easy/1668_maximum-repeating-substring.py", "committed_at": "2026-02-19T14:36:06Z", "source": "manual_migration"}
+    {
+      "slug": "two-sum",
+      "title": "Two Sum",
+      "difficulty": "easy",
+      "path": "problems/easy/0001_two-sum.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1"
+    },
+    {
+      "slug": "climbing-stairs",
+      "title": "Climbing Stairs",
+      "difficulty": "easy",
+      "path": "problems/easy/0070_climbing-stairs.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "70"
+    },
+    {
+      "slug": "symmetric-tree",
+      "title": "Symmetric Tree",
+      "difficulty": "easy",
+      "path": "problems/easy/0101_symmetric-tree.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "101"
+    },
+    {
+      "slug": "pascals-triangle",
+      "title": "Pascal's Triangle",
+      "difficulty": "easy",
+      "path": "problems/easy/0118_pascals-triangle.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "118"
+    },
+    {
+      "slug": "pascals-triangle-ii",
+      "title": "Pascal's Triangle II",
+      "difficulty": "easy",
+      "path": "problems/easy/0119_pascals-triangle-ii.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "119"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stock",
+      "title": "Best Time to Buy and Sell Stock",
+      "difficulty": "easy",
+      "path": "problems/easy/0121_best-time-to-buy-and-sell-stock.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "121"
+    },
+    {
+      "slug": "valid-palindrome",
+      "title": "Valid Palindrome",
+      "difficulty": "easy",
+      "path": "problems/easy/0125_valid-palindrome.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "125"
+    },
+    {
+      "slug": "counting-bits",
+      "title": "Counting Bits",
+      "difficulty": "easy",
+      "path": "problems/easy/0338_counting-bits.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "338"
+    },
+    {
+      "slug": "is-subsequence",
+      "title": "Is Subsequence",
+      "difficulty": "easy",
+      "path": "problems/easy/0392_is-subsequence.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "392"
+    },
+    {
+      "slug": "lfu-cache",
+      "title": "LFU Cache",
+      "difficulty": "hard",
+      "path": "problems/hard/0460_lfu-cache.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "460"
+    },
+    {
+      "slug": "fibonacci-number",
+      "title": "Fibonacci Number",
+      "difficulty": "easy",
+      "path": "problems/easy/0509_fibonacci-number.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "509"
+    },
+    {
+      "slug": "min-cost-climbing-stairs",
+      "title": "Min Cost Climbing Stairs",
+      "difficulty": "easy",
+      "path": "problems/easy/0746_min-cost-climbing-stairs.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "746"
+    },
+    {
+      "slug": "divisor-game",
+      "title": "Divisor Game",
+      "difficulty": "easy",
+      "path": "problems/easy/1025_divisor-game.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1025"
+    },
+    {
+      "slug": "n-th-tribonacci-number",
+      "title": "N-th Tribonacci Number",
+      "difficulty": "easy",
+      "path": "problems/easy/1137_n-th-tribonacci-number.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1137"
+    },
+    {
+      "slug": "maximum-repeating-substring",
+      "title": "Maximum Repeating Substring",
+      "difficulty": "easy",
+      "path": "problems/easy/1668_maximum-repeating-substring.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1668"
+    }
   ]
 }
