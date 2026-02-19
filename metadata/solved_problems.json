@@ -1,24 +1,15 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-19T14:36:06Z",
+  "updated_at": "2026-02-19T21:52:40Z",
   "items": [
     {
+      "question_id": "1",
       "slug": "two-sum",
       "title": "Two Sum",
       "difficulty": "easy",
-      "path": "problems/easy/0001_two-sum.py",
-      "committed_at": "2026-02-19T14:36:06Z",
-      "source": "manual_migration",
-      "question_id": "1"
-    },
-    {
-      "slug": "climbing-stairs",
-      "title": "Climbing Stairs",
-      "difficulty": "easy",
-      "path": "problems/easy/0070_climbing-stairs.py",
-      "committed_at": "2026-02-19T14:36:06Z",
-      "source": "manual_migration",
-      "question_id": "70"
+      "path": "problems/easy/1_two-sum.py",
+      "committed_at": "2026-02-19T21:52:40Z",
+      "source": "autofeedr"
     },
     {
       "slug": "symmetric-tree",
@@ -28,6 +19,24 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "101"
+    },
+    {
+      "slug": "divisor-game",
+      "title": "Divisor Game",
+      "difficulty": "easy",
+      "path": "problems/easy/1025_divisor-game.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1025"
+    },
+    {
+      "slug": "n-th-tribonacci-number",
+      "title": "N-th Tribonacci Number",
+      "difficulty": "easy",
+      "path": "problems/easy/1137_n-th-tribonacci-number.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1137"
     },
     {
       "slug": "pascals-triangle",
@@ -66,6 +75,15 @@
       "question_id": "125"
     },
     {
+      "slug": "maximum-repeating-substring",
+      "title": "Maximum Repeating Substring",
+      "difficulty": "easy",
+      "path": "problems/easy/1668_maximum-repeating-substring.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "1668"
+    },
+    {
       "slug": "counting-bits",
       "title": "Counting Bits",
       "difficulty": "easy",
@@ -84,15 +102,6 @@
       "question_id": "392"
     },
     {
-      "slug": "lfu-cache",
-      "title": "LFU Cache",
-      "difficulty": "hard",
-      "path": "problems/hard/0460_lfu-cache.py",
-      "committed_at": "2026-02-19T14:36:06Z",
-      "source": "manual_migration",
-      "question_id": "460"
-    },
-    {
       "slug": "fibonacci-number",
       "title": "Fibonacci Number",
       "difficulty": "easy",
@@ -100,6 +109,15 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "509"
+    },
+    {
+      "slug": "climbing-stairs",
+      "title": "Climbing Stairs",
+      "difficulty": "easy",
+      "path": "problems/easy/0070_climbing-stairs.py",
+      "committed_at": "2026-02-19T14:36:06Z",
+      "source": "manual_migration",
+      "question_id": "70"
     },
     {
       "slug": "min-cost-climbing-stairs",
@@ -111,31 +129,13 @@
       "question_id": "746"
     },
     {
-      "slug": "divisor-game",
-      "title": "Divisor Game",
-      "difficulty": "easy",
-      "path": "problems/easy/1025_divisor-game.py",
+      "slug": "lfu-cache",
+      "title": "LFU Cache",
+      "difficulty": "hard",
+      "path": "problems/hard/0460_lfu-cache.py",
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
-      "question_id": "1025"
-    },
-    {
-      "slug": "n-th-tribonacci-number",
-      "title": "N-th Tribonacci Number",
-      "difficulty": "easy",
-      "path": "problems/easy/1137_n-th-tribonacci-number.py",
-      "committed_at": "2026-02-19T14:36:06Z",
-      "source": "manual_migration",
-      "question_id": "1137"
-    },
-    {
-      "slug": "maximum-repeating-substring",
-      "title": "Maximum Repeating Substring",
-      "difficulty": "easy",
-      "path": "problems/easy/1668_maximum-repeating-substring.py",
-      "committed_at": "2026-02-19T14:36:06Z",
-      "source": "manual_migration",
-      "question_id": "1668"
+      "question_id": "460"
     }
   ]
 }
