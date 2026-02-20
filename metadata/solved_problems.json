@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:08:36Z",
+  "updated_at": "2026-02-20T20:09:49Z",
   "items": [
     {
       "question_id": "1",
@@ -270,6 +270,15 @@
       "difficulty": "medium",
       "path": "problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py",
       "committed_at": "2026-02-20T19:06:02Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "347",
+      "slug": "top-k-frequent-elements",
+      "title": "Top K Frequent Elements",
+      "difficulty": "medium",
+      "path": "problems/medium/347_top-k-frequent-elements.py",
+      "committed_at": "2026-02-20T20:09:49Z",
       "source": "autofeedr"
     },
     {
