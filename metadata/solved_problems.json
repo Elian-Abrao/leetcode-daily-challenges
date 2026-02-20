@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T15:00:48Z",
+  "updated_at": "2026-02-20T15:01:30Z",
   "items": [
     {
       "question_id": "1",
@@ -162,6 +162,15 @@
       "difficulty": "medium",
       "path": "problems/medium/148_sort-list.py",
       "committed_at": "2026-02-20T14:56:45Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "192",
+      "slug": "word-frequency",
+      "title": "Word Frequency",
+      "difficulty": "medium",
+      "path": "problems/medium/192_word-frequency.py",
+      "committed_at": "2026-02-20T15:01:30Z",
       "source": "autofeedr"
     },
     {
