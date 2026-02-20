@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T18:15:38Z",
+  "updated_at": "2026-02-20T18:46:40Z",
   "items": [
     {
       "question_id": "1",
@@ -189,6 +189,15 @@
       "difficulty": "medium",
       "path": "problems/medium/192_word-frequency.py",
       "committed_at": "2026-02-20T15:01:30Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "2",
+      "slug": "add-two-numbers",
+      "title": "Add Two Numbers",
+      "difficulty": "medium",
+      "path": "problems/medium/2_add-two-numbers.py",
+      "committed_at": "2026-02-20T18:46:40Z",
       "source": "autofeedr"
     },
     {
