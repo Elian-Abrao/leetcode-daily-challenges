@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T18:54:33Z",
+  "updated_at": "2026-02-20T19:00:09Z",
   "items": [
     {
       "question_id": "1",
@@ -261,6 +261,15 @@
       "difficulty": "medium",
       "path": "problems/medium/61_rotate-list.py",
       "committed_at": "2026-02-20T14:59:01Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "74",
+      "slug": "search-a-2d-matrix",
+      "title": "Search a 2D Matrix",
+      "difficulty": "medium",
+      "path": "problems/medium/74_search-a-2d-matrix.py",
+      "committed_at": "2026-02-20T19:00:09Z",
       "source": "autofeedr"
     }
   ]
