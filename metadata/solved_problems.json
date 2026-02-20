@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T18:46:40Z",
+  "updated_at": "2026-02-20T18:54:33Z",
   "items": [
     {
       "question_id": "1",
@@ -154,6 +154,15 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "746"
+    },
+    {
+      "question_id": "220",
+      "slug": "contains-duplicate-iii",
+      "title": "Contains Duplicate III",
+      "difficulty": "hard",
+      "path": "problems/hard/220_contains-duplicate-iii.py",
+      "committed_at": "2026-02-20T18:54:33Z",
+      "source": "autofeedr"
     },
     {
       "slug": "lfu-cache",
