@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T14:59:01Z",
+  "updated_at": "2026-02-20T15:00:05Z",
   "items": [
     {
       "question_id": "1",
@@ -180,6 +180,15 @@
       "difficulty": "medium",
       "path": "problems/medium/39_combination-sum.py",
       "committed_at": "2026-02-20T14:57:34Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "498",
+      "slug": "diagonal-traverse",
+      "title": "Diagonal Traverse",
+      "difficulty": "medium",
+      "path": "problems/medium/498_diagonal-traverse.py",
+      "committed_at": "2026-02-20T15:00:05Z",
       "source": "autofeedr"
     },
     {
