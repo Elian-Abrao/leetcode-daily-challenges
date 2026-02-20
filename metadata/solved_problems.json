@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:02:54Z",
+  "updated_at": "2026-02-20T19:03:35Z",
   "items": [
     {
       "question_id": "1",
@@ -297,6 +297,15 @@
       "difficulty": "medium",
       "path": "problems/medium/74_search-a-2d-matrix.py",
       "committed_at": "2026-02-20T19:00:09Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "8",
+      "slug": "string-to-integer-atoi",
+      "title": "String to Integer (atoi)",
+      "difficulty": "medium",
+      "path": "problems/medium/8_string-to-integer-atoi.py",
+      "committed_at": "2026-02-20T19:03:35Z",
       "source": "autofeedr"
     }
   ]
