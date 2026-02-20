@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:07:00Z",
+  "updated_at": "2026-02-20T19:08:36Z",
   "items": [
     {
       "question_id": "1",
@@ -306,6 +306,15 @@
       "difficulty": "medium",
       "path": "problems/medium/438_find-all-anagrams-in-a-string.py",
       "committed_at": "2026-02-20T18:15:38Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "449",
+      "slug": "serialize-and-deserialize-bst",
+      "title": "Serialize and Deserialize BST",
+      "difficulty": "medium",
+      "path": "problems/medium/449_serialize-and-deserialize-bst.py",
+      "committed_at": "2026-02-20T19:08:36Z",
       "source": "autofeedr"
     },
     {
