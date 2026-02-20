@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:06:02Z",
+  "updated_at": "2026-02-20T19:07:00Z",
   "items": [
     {
       "question_id": "1",
@@ -279,6 +279,15 @@
       "difficulty": "medium",
       "path": "problems/medium/39_combination-sum.py",
       "committed_at": "2026-02-20T14:57:34Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "395",
+      "slug": "longest-substring-with-at-least-k-repeating-characters",
+      "title": "Longest Substring with At Least K Repeating Characters",
+      "difficulty": "medium",
+      "path": "problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py",
+      "committed_at": "2026-02-20T19:07:00Z",
       "source": "autofeedr"
     },
     {
