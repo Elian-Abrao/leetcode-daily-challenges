@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:00:09Z",
+  "updated_at": "2026-02-20T19:00:35Z",
   "items": [
     {
       "question_id": "1",
@@ -81,6 +81,15 @@
       "difficulty": "easy",
       "path": "problems/easy/136_single-number.py",
       "committed_at": "2026-02-20T14:58:13Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "14",
+      "slug": "longest-common-prefix",
+      "title": "Longest Common Prefix",
+      "difficulty": "easy",
+      "path": "problems/easy/14_longest-common-prefix.py",
+      "committed_at": "2026-02-20T19:00:35Z",
       "source": "autofeedr"
     },
     {
