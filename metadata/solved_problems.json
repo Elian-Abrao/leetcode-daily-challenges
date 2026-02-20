@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T14:56:45Z",
+  "updated_at": "2026-02-20T14:57:34Z",
   "items": [
     {
       "question_id": "1",
@@ -162,6 +162,15 @@
       "difficulty": "medium",
       "path": "problems/medium/328_odd-even-linked-list.py",
       "committed_at": "2026-02-20T14:55:52Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "39",
+      "slug": "combination-sum",
+      "title": "Combination Sum",
+      "difficulty": "medium",
+      "path": "problems/medium/39_combination-sum.py",
+      "committed_at": "2026-02-20T14:57:34Z",
       "source": "autofeedr"
     }
   ]
