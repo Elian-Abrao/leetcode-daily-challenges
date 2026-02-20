@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:03:35Z",
+  "updated_at": "2026-02-20T19:04:36Z",
   "items": [
     {
       "question_id": "1",
@@ -100,6 +100,15 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "1668"
+    },
+    {
+      "question_id": "175",
+      "slug": "combine-two-tables",
+      "title": "Combine Two Tables",
+      "difficulty": "easy",
+      "path": "problems/easy/175_combine-two-tables.py",
+      "committed_at": "2026-02-20T19:04:36Z",
+      "source": "autofeedr"
     },
     {
       "question_id": "225",
