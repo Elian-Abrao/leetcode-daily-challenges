@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T20:09:49Z",
+  "updated_at": "2026-02-20T20:55:30Z",
   "items": [
     {
       "question_id": "1",
@@ -181,6 +181,15 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "746"
+    },
+    {
+      "question_id": "135",
+      "slug": "candy",
+      "title": "Candy",
+      "difficulty": "hard",
+      "path": "problems/hard/135_candy.py",
+      "committed_at": "2026-02-20T20:55:30Z",
+      "source": "autofeedr"
     },
     {
       "question_id": "185",
