@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T15:01:30Z",
+  "updated_at": "2026-02-20T15:02:31Z",
   "items": [
     {
       "question_id": "1",
@@ -91,6 +91,15 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "1668"
+    },
+    {
+      "question_id": "225",
+      "slug": "implement-stack-using-queues",
+      "title": "Implement Stack using Queues",
+      "difficulty": "easy",
+      "path": "problems/easy/225_implement-stack-using-queues.py",
+      "committed_at": "2026-02-20T15:02:31Z",
+      "source": "autofeedr"
     },
     {
       "question_id": "257",
