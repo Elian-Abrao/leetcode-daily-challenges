@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T15:03:18Z",
+  "updated_at": "2026-02-20T18:15:38Z",
   "items": [
     {
       "question_id": "1",
@@ -216,6 +216,15 @@
       "difficulty": "medium",
       "path": "problems/medium/402_remove-k-digits.py",
       "committed_at": "2026-02-20T15:00:48Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "438",
+      "slug": "find-all-anagrams-in-a-string",
+      "title": "Find All Anagrams in a String",
+      "difficulty": "medium",
+      "path": "problems/medium/438_find-all-anagrams-in-a-string.py",
+      "committed_at": "2026-02-20T18:15:38Z",
       "source": "autofeedr"
     },
     {
