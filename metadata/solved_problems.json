@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T19:04:36Z",
+  "updated_at": "2026-02-20T19:05:21Z",
   "items": [
     {
       "question_id": "1",
@@ -108,6 +108,15 @@
       "difficulty": "easy",
       "path": "problems/easy/175_combine-two-tables.py",
       "committed_at": "2026-02-20T19:04:36Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "203",
+      "slug": "remove-linked-list-elements",
+      "title": "Remove Linked List Elements",
+      "difficulty": "easy",
+      "path": "problems/easy/203_remove-linked-list-elements.py",
+      "committed_at": "2026-02-20T19:05:21Z",
       "source": "autofeedr"
     },
     {
