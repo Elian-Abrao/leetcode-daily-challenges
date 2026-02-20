@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-20T20:55:30Z",
+  "updated_at": "2026-02-20T21:14:04Z",
   "items": [
     {
       "question_id": "1",
@@ -108,6 +108,15 @@
       "difficulty": "easy",
       "path": "problems/easy/175_combine-two-tables.py",
       "committed_at": "2026-02-20T19:04:36Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "202",
+      "slug": "happy-number",
+      "title": "Happy Number",
+      "difficulty": "easy",
+      "path": "problems/easy/202_happy-number.py",
+      "committed_at": "2026-02-20T21:14:04Z",
       "source": "autofeedr"
     },
     {
