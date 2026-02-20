@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-19T21:54:10Z",
+  "updated_at": "2026-02-20T14:53:36Z",
   "items": [
     {
       "question_id": "1",
@@ -82,6 +82,15 @@
       "committed_at": "2026-02-19T14:36:06Z",
       "source": "manual_migration",
       "question_id": "1668"
+    },
+    {
+      "question_id": "257",
+      "slug": "binary-tree-paths",
+      "title": "Binary Tree Paths",
+      "difficulty": "easy",
+      "path": "problems/easy/257_binary-tree-paths.py",
+      "committed_at": "2026-02-20T14:53:36Z",
+      "source": "autofeedr"
     },
     {
       "slug": "counting-bits",
