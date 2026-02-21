@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:08:51Z",
+  "updated_at": "2026-02-21T15:09:59Z",
   "items": [
     {
       "question_id": "1",
@@ -369,6 +369,15 @@
       "difficulty": "medium",
       "path": "problems/medium/347_top-k-frequent-elements.py",
       "committed_at": "2026-02-20T20:09:49Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "380",
+      "slug": "insert-delete-getrandom-o1",
+      "title": "Insert Delete GetRandom O(1)",
+      "difficulty": "medium",
+      "path": "problems/medium/380_insert-delete-getrandom-o1.py",
+      "committed_at": "2026-02-21T15:09:59Z",
       "source": "autofeedr"
     },
     {
