@@ -5,4 +5,3 @@
 - `problems/easy/`
 - `problems/medium/`
 - `problems/hard/`
-- `metadata/solved_problems.json`
