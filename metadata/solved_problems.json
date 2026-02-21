@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:09:59Z",
+  "updated_at": "2026-02-21T15:11:13Z",
   "items": [
     {
       "question_id": "1",
@@ -144,6 +144,15 @@
       "difficulty": "easy",
       "path": "problems/easy/257_binary-tree-paths.py",
       "committed_at": "2026-02-20T14:53:36Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "326",
+      "slug": "power-of-three",
+      "title": "Power of Three",
+      "difficulty": "easy",
+      "path": "problems/easy/326_power-of-three.py",
+      "committed_at": "2026-02-21T15:11:13Z",
       "source": "autofeedr"
     },
     {
