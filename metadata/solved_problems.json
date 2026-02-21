@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T01:24:57Z",
+  "updated_at": "2026-02-21T15:01:19Z",
   "items": [
     {
       "question_id": "1",
@@ -216,6 +216,15 @@
       "difficulty": "hard",
       "path": "problems/hard/185_department-top-three-salaries.py",
       "committed_at": "2026-02-20T19:01:52Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "1887",
+      "slug": "minimum-degree-of-a-connected-trio-in-a-graph",
+      "title": "Minimum Degree of a Connected Trio in a Graph",
+      "difficulty": "hard",
+      "path": "problems/hard/1761_minimum-degree-of-a-connected-trio-in-a-graph.py",
+      "committed_at": "2026-02-21T15:01:19Z",
       "source": "autofeedr"
     },
     {
