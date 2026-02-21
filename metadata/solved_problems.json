@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T19:30:52Z",
+  "updated_at": "2026-02-21T22:30:30Z",
   "items": [
     {
       "question_id": "1",
@@ -270,6 +270,15 @@
       "difficulty": "hard",
       "path": "problems/hard/2213_longest-substring-of-one-repeating-character.py",
       "committed_at": "2026-02-21T15:02:37Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "239",
+      "slug": "sliding-window-maximum",
+      "title": "Sliding Window Maximum",
+      "difficulty": "hard",
+      "path": "problems/hard/239_sliding-window-maximum.py",
+      "committed_at": "2026-02-21T22:30:30Z",
       "source": "autofeedr"
     },
     {
