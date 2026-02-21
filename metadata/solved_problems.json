@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:12:59Z",
+  "updated_at": "2026-02-21T17:30:55Z",
   "items": [
     {
       "question_id": "1",
@@ -306,6 +306,15 @@
       "difficulty": "hard",
       "path": "problems/hard/827_making-a-large-island.py",
       "committed_at": "2026-02-21T01:24:57Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "877",
+      "slug": "shortest-path-visiting-all-nodes",
+      "title": "Shortest Path Visiting All Nodes",
+      "difficulty": "hard",
+      "path": "problems/hard/847_shortest-path-visiting-all-nodes.py",
+      "committed_at": "2026-02-21T17:30:55Z",
       "source": "autofeedr"
     },
     {
