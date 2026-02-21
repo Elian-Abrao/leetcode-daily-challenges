@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:02:37Z",
+  "updated_at": "2026-02-21T15:03:21Z",
   "items": [
     {
       "question_id": "1",
@@ -360,6 +360,15 @@
       "difficulty": "medium",
       "path": "problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py",
       "committed_at": "2026-02-20T19:07:00Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "400",
+      "slug": "nth-digit",
+      "title": "Nth Digit",
+      "difficulty": "medium",
+      "path": "problems/medium/400_nth-digit.py",
+      "committed_at": "2026-02-21T15:03:21Z",
       "source": "autofeedr"
     },
     {
