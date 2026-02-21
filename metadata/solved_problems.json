@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:01:19Z",
+  "updated_at": "2026-02-21T15:02:37Z",
   "items": [
     {
       "question_id": "1",
@@ -234,6 +234,15 @@
       "difficulty": "hard",
       "path": "problems/hard/220_contains-duplicate-iii.py",
       "committed_at": "2026-02-20T18:54:33Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "2319",
+      "slug": "longest-substring-of-one-repeating-character",
+      "title": "Longest Substring of One Repeating Character",
+      "difficulty": "hard",
+      "path": "problems/hard/2213_longest-substring-of-one-repeating-character.py",
+      "committed_at": "2026-02-21T15:02:37Z",
       "source": "autofeedr"
     },
     {
