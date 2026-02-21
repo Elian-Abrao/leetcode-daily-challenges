@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:06:15Z",
+  "updated_at": "2026-02-21T15:07:31Z",
   "items": [
     {
       "question_id": "1",
@@ -252,6 +252,15 @@
       "difficulty": "hard",
       "path": "problems/hard/273_integer-to-english-words.py",
       "committed_at": "2026-02-20T19:02:54Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "381",
+      "slug": "insert-delete-getrandom-o1-duplicates-allowed",
+      "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+      "difficulty": "hard",
+      "path": "problems/hard/381_insert-delete-getrandom-o1-duplicates-allowed.py",
+      "committed_at": "2026-02-21T15:07:31Z",
       "source": "autofeedr"
     },
     {
