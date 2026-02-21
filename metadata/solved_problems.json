@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-21T15:03:21Z",
+  "updated_at": "2026-02-21T15:04:10Z",
   "items": [
     {
       "question_id": "1",
@@ -297,6 +297,15 @@
       "difficulty": "medium",
       "path": "problems/medium/15_3sum.py",
       "committed_at": "2026-02-20T15:03:18Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "17",
+      "slug": "letter-combinations-of-a-phone-number",
+      "title": "Letter Combinations of a Phone Number",
+      "difficulty": "medium",
+      "path": "problems/medium/17_letter-combinations-of-a-phone-number.py",
+      "committed_at": "2026-02-21T15:04:10Z",
       "source": "autofeedr"
     },
     {
