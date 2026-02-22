@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-22T16:00:54Z",
+  "updated_at": "2026-02-22T18:01:13Z",
   "items": [
     {
       "question_id": "1",
@@ -243,6 +243,15 @@
       "difficulty": "hard",
       "path": "problems/hard/1340_jump-game-v.py",
       "committed_at": "2026-02-21T19:30:52Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "1513",
+      "slug": "find-all-good-strings",
+      "title": "Find All Good Strings",
+      "difficulty": "hard",
+      "path": "problems/hard/1397_find-all-good-strings.py",
+      "committed_at": "2026-02-22T18:01:13Z",
       "source": "autofeedr"
     },
     {
