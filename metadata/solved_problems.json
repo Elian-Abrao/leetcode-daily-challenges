@@ -1,6 +1,6 @@
 {
   "repository": "Elian-Abrao/leetcode-daily-challenges",
-  "updated_at": "2026-02-22T19:31:43Z",
+  "updated_at": "2026-02-22T21:00:37Z",
   "items": [
     {
       "question_id": "1",
@@ -378,6 +378,15 @@
       "difficulty": "medium",
       "path": "problems/medium/117_populating-next-right-pointers-in-each-node-ii.py",
       "committed_at": "2026-02-21T15:08:51Z",
+      "source": "autofeedr"
+    },
+    {
+      "question_id": "12",
+      "slug": "integer-to-roman",
+      "title": "Integer to Roman",
+      "difficulty": "medium",
+      "path": "problems/medium/12_integer-to-roman.py",
+      "committed_at": "2026-02-22T21:00:37Z",
       "source": "autofeedr"
     },
     {
