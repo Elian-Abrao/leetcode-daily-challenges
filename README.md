@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 71
+Total de questoes resolvidas: 72
 
 ### Easy
 
@@ -260,6 +260,11 @@ Total de questoes resolvidas: 71
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
+  - Question ID: 52
+  - Arquivo: `problems/hard/52_n-queens-ii.py`
+  - Resolvido em: 17:31 - 23/02/26
 
 - [#185 Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
   - Question ID: 185
