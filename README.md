@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 72
+Total de questoes resolvidas: 73
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 72
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+  - Question ID: 371
+  - Arquivo: `problems/medium/371_sum-of-two-integers.py`
+  - Resolvido em: 18:18 - 23/02/26
 
 - [#462 Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
   - Question ID: 462
