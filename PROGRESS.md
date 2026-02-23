@@ -4,7 +4,7 @@ Total de questoes resolvidas: 70
 
 ## Easy
 
-- [#268 Missing Number](https://leetcode.com/problems/missing-number/)
+- [#268 Number](https://leetcode.com/problems/missing-number/)
   - Question ID: 268
   - Arquivo: `problems/easy/268_missing-number.py`
   - Resolvido em: 15:30 - 23/02/26
@@ -248,6 +248,11 @@ Total de questoes resolvidas: 70
 
 ## Hard
 
+- [#185 Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)
+  - Question ID: 185
+  - Arquivo: `problems/hard/185_department-top-three-salaries.py`
+  - Resolvido em: 17:01 - 23/02/26
+
 - [#2222 Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/)
   - Question ID: 2222
   - Arquivo: `problems/hard/2117_abbreviating-the-product-of-a-range.py`
@@ -342,11 +347,6 @@ Total de questoes resolvidas: 70
   - Question ID: 273
   - Arquivo: `problems/hard/273_integer-to-english-words.py`
   - Resolvido em: 19:02 - 20/02/26
-
-- [#185 Salaries](https://leetcode.com/problems/department-top-three-salaries/)
-  - Question ID: 185
-  - Arquivo: `problems/hard/185_department-top-three-salaries.py`
-  - Resolvido em: 19:01 - 20/02/26
 
 - [#220 III](https://leetcode.com/problems/contains-duplicate-iii/)
   - Question ID: 220
