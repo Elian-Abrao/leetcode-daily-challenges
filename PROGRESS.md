@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-Total de questoes resolvidas: 68
+Total de questoes resolvidas: 69
 
 ## Easy
 
@@ -243,7 +243,12 @@ Total de questoes resolvidas: 68
 
 ## Hard
 
-- [#980 Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+- [#2222 Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/)
+  - Question ID: 2222
+  - Arquivo: `problems/hard/2117_abbreviating-the-product-of-a-range.py`
+  - Resolvido em: 15:20 - 23/02/26
+
+- [#980 Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
   - Question ID: 980
   - Arquivo: `problems/hard/943_find-the-shortest-superstring.py`
   - Resolvido em: 15:19 - 23/02/26
