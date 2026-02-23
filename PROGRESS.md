@@ -1,8 +1,13 @@
 # LeetCode Progress
 
-Total de questoes resolvidas: 69
+Total de questoes resolvidas: 70
 
 ## Easy
+
+- [#268 Missing Number](https://leetcode.com/problems/missing-number/)
+  - Question ID: 268
+  - Arquivo: `problems/easy/268_missing-number.py`
+  - Resolvido em: 15:30 - 23/02/26
 
 - [#290 Pattern](https://leetcode.com/problems/word-pattern/)
   - Question ID: 290
@@ -243,7 +248,7 @@ Total de questoes resolvidas: 69
 
 ## Hard
 
-- [#2222 Abbreviating the Product of a Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/)
+- [#2222 Range](https://leetcode.com/problems/abbreviating-the-product-of-a-range/)
   - Question ID: 2222
   - Arquivo: `problems/hard/2117_abbreviating-the-product-of-a-range.py`
   - Resolvido em: 15:20 - 23/02/26
