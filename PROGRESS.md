@@ -1,6 +1,6 @@
 # LeetCode Progress
 
-Total de questoes resolvidas: 67
+Total de questoes resolvidas: 68
 
 ## Easy
 
@@ -243,7 +243,12 @@ Total de questoes resolvidas: 67
 
 ## Hard
 
-- [#1963 Find XOR Sum of All Pairs Bitwise AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
+- [#980 Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
+  - Question ID: 980
+  - Arquivo: `problems/hard/943_find-the-shortest-superstring.py`
+  - Resolvido em: 15:19 - 23/02/26
+
+- [#1963 AND](https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/)
   - Question ID: 1963
   - Arquivo: `problems/hard/1835_find-xor-sum-of-all-pairs-bitwise-and.py`
   - Resolvido em: 15:17 - 23/02/26
