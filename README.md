@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 75
+Total de questoes resolvidas: 76
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 75
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#421 Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
+  - Question ID: 421
+  - Arquivo: `problems/medium/421_maximum-xor-of-two-numbers-in-an-array.py`
+  - Resolvido em: 21:00 - 24/02/26
 
 - [#275 H-Index II](https://leetcode.com/problems/h-index-ii/)
   - Question ID: 275
