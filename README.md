@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 73
+Total de questoes resolvidas: 74
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 73
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#447 Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
+  - Question ID: 447
+  - Arquivo: `problems/medium/447_number-of-boomerangs.py`
+  - Resolvido em: 14:00 - 24/02/26
 
 - [#371 Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
   - Question ID: 371
