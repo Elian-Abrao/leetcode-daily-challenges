@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 76
+Total de questoes resolvidas: 77
 
 ### Easy
 
@@ -280,6 +280,11 @@ Total de questoes resolvidas: 76
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
+  - Question ID: 297
+  - Arquivo: `problems/hard/297_serialize-and-deserialize-binary-tree.py`
+  - Resolvido em: 23:21 - 24/02/26
 
 - [#52 N-Queens II](https://leetcode.com/problems/n-queens-ii/)
   - Question ID: 52
