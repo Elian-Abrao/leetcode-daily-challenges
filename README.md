@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 74
+Total de questoes resolvidas: 75
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 74
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#275 H-Index II](https://leetcode.com/problems/h-index-ii/)
+  - Question ID: 275
+  - Arquivo: `problems/medium/275_h-index-ii.py`
+  - Resolvido em: 16:30 - 24/02/26
 
 - [#447 Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/)
   - Question ID: 447
