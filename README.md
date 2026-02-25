@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 77
+Total de questoes resolvidas: 78
 
 ### Easy
 
@@ -280,6 +280,11 @@ Total de questoes resolvidas: 77
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
+  - Question ID: 115
+  - Arquivo: `problems/hard/115_distinct-subsequences.py`
+  - Resolvido em: 12:00 - 25/02/26
 
 - [#297 Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
   - Question ID: 297
