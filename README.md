@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 78
+Total de questoes resolvidas: 79
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 78
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#209 Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+  - Question ID: 209
+  - Arquivo: `problems/medium/209_minimum-size-subarray-sum.py`
+  - Resolvido em: 16:00 - 25/02/26
 
 - [#421 Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)
   - Question ID: 421
