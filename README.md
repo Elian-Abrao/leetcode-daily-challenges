@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 79
+Total de questoes resolvidas: 80
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 79
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#306 Additive Number](https://leetcode.com/problems/additive-number/)
+  - Question ID: 306
+  - Arquivo: `problems/medium/306_additive-number.py`
+  - Resolvido em: 19:01 - 25/02/26
 
 - [#209 Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
   - Question ID: 209
