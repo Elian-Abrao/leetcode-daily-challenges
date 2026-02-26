@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 80
+Total de questoes resolvidas: 81
 
 ### Easy
 
@@ -138,6 +138,11 @@ Total de questoes resolvidas: 80
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#475 Heaters](https://leetcode.com/problems/heaters/)
+  - Question ID: 475
+  - Arquivo: `problems/medium/475_heaters.py`
+  - Resolvido em: 12:30 - 26/02/26
 
 - [#306 Additive Number](https://leetcode.com/problems/additive-number/)
   - Question ID: 306
