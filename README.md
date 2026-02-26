@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 83
+Total de questoes resolvidas: 84
 
 ### Easy
+
+- [#263 Ugly Number](https://leetcode.com/problems/ugly-number/)
+  - Question ID: 263
+  - Arquivo: `problems/easy/263_ugly-number.py`
+  - Resolvido em: 18:04 - 26/02/26
 
 - [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
   - Question ID: 231
