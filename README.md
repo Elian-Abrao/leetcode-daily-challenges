@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 82
+Total de questoes resolvidas: 83
 
 ### Easy
 
@@ -300,6 +300,11 @@ Total de questoes resolvidas: 82
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#884 K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
+  - Question ID: 884
+  - Arquivo: `problems/hard/854_k-similar-strings.py`
+  - Resolvido em: 15:46 - 26/02/26
 
 - [#115 Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
   - Question ID: 115
