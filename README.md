@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 81
+Total de questoes resolvidas: 82
 
 ### Easy
+
+- [#231 Power of Two](https://leetcode.com/problems/power-of-two/)
+  - Question ID: 231
+  - Arquivo: `problems/easy/231_power-of-two.py`
+  - Resolvido em: 15:00 - 26/02/26
 
 - [#268 Number](https://leetcode.com/problems/missing-number/)
   - Question ID: 268
