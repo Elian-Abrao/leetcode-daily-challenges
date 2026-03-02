@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 87
+Total de questoes resolvidas: 88
 
 ### Easy
+
+- [#1302 Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)
+  - Question ID: 1302
+  - Arquivo: `problems/easy/1957_delete-characters-to-make-fancy-string.py`
+  - Resolvido em: 17:25 - 02/03/26
 
 - [#1 Two Sum](https://leetcode.com/problems/two-sum/)
   - Question ID: 1
