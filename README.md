@@ -12,6 +12,11 @@ Total de questoes resolvidas: 84
 
 ### Easy
 
+- [#1 Two Sum](https://leetcode.com/problems/two-sum/)
+  - Question ID: 1
+  - Arquivo: `problems/easy/1_two-sum.py`
+  - Resolvido em: 15:32 - 02/03/26
+
 - [#263 Ugly Number](https://leetcode.com/problems/ugly-number/)
   - Question ID: 263
   - Arquivo: `problems/easy/263_ugly-number.py`
@@ -81,11 +86,6 @@ Total de questoes resolvidas: 84
   - Question ID: 125
   - Arquivo: `problems/easy/125_valid-palindrome.py`
   - Resolvido em: 21:54 - 19/02/26
-
-- [#1 Sum](https://leetcode.com/problems/two-sum/)
-  - Question ID: 1
-  - Arquivo: `problems/easy/1_two-sum.py`
-  - Resolvido em: 21:52 - 19/02/26
 
 - [#1668 Substring](https://leetcode.com/problems/maximum-repeating-substring/)
   - Question ID: 1668
