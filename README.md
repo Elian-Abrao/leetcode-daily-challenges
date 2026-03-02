@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 88
+Total de questoes resolvidas: 89
 
 ### Easy
+
+- [#680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+  - Question ID: 680
+  - Arquivo: `problems/easy/680_valid-palindrome-ii.py`
+  - Resolvido em: 17:26 - 02/03/26
 
 - [#1302 Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)
   - Question ID: 1302
