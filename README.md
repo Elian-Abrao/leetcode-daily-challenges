@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 84
+Total de questoes resolvidas: 85
 
 ### Easy
 
@@ -148,6 +148,11 @@ Total de questoes resolvidas: 84
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#936 RLE Iterator](https://leetcode.com/problems/rle-iterator/)
+  - Question ID: 936
+  - Arquivo: `problems/medium/900_rle-iterator.py`
+  - Resolvido em: 17:23 - 02/03/26
 
 - [#475 Heaters](https://leetcode.com/problems/heaters/)
   - Question ID: 475
