@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 86
+Total de questoes resolvidas: 87
 
 ### Easy
 
@@ -148,6 +148,11 @@ Total de questoes resolvidas: 86
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)
+  - Question ID: 133
+  - Arquivo: `problems/medium/133_clone-graph.py`
+  - Resolvido em: 17:24 - 02/03/26
 
 - [#936 RLE Iterator](https://leetcode.com/problems/rle-iterator/)
   - Question ID: 936
