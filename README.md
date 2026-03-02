@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 85
+Total de questoes resolvidas: 86
 
 ### Easy
 
@@ -310,6 +310,11 @@ Total de questoes resolvidas: 85
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#10 Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+  - Question ID: 10
+  - Arquivo: `problems/hard/10_regular-expression-matching.py`
+  - Resolvido em: 17:24 - 02/03/26
 
 - [#884 K-Similar Strings](https://leetcode.com/problems/k-similar-strings/)
   - Question ID: 884
