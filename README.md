@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 90
+Total de questoes resolvidas: 91
 
 ### Easy
+
+- [#455 Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+  - Question ID: 455
+  - Arquivo: `problems/easy/455_assign-cookies.py`
+  - Resolvido em: 16:30 - 03/03/26
 
 - [#680 Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
   - Question ID: 680
