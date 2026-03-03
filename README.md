@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 92
+Total de questoes resolvidas: 93
 
 ### Easy
 
@@ -163,6 +163,11 @@ Total de questoes resolvidas: 92
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#109 Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+  - Question ID: 109
+  - Arquivo: `problems/medium/109_convert-sorted-list-to-binary-search-tree.py`
+  - Resolvido em: 21:01 - 03/03/26
 
 - [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
   - Question ID: 393
