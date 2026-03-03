@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 91
+Total de questoes resolvidas: 92
 
 ### Easy
 
@@ -163,6 +163,11 @@ Total de questoes resolvidas: 91
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#393 UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)
+  - Question ID: 393
+  - Arquivo: `problems/medium/393_utf-8-validation.py`
+  - Resolvido em: 18:17 - 03/03/26
 
 - [#300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
   - Question ID: 300
