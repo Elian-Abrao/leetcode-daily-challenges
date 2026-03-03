@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 89
+Total de questoes resolvidas: 90
 
 ### Easy
 
@@ -158,6 +158,11 @@ Total de questoes resolvidas: 89
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#300 Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+  - Question ID: 300
+  - Arquivo: `problems/medium/300_longest-increasing-subsequence.py`
+  - Resolvido em: 14:00 - 03/03/26
 
 - [#133 Clone Graph](https://leetcode.com/problems/clone-graph/)
   - Question ID: 133
