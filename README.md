@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 95
+Total de questoes resolvidas: 96
 
 ### Easy
 
@@ -355,6 +355,11 @@ Total de questoes resolvidas: 95
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+  - Question ID: 132
+  - Arquivo: `problems/hard/132_palindrome-partitioning-ii.py`
+  - Resolvido em: 19:04 - 04/03/26
 
 - [#10 Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
   - Question ID: 10
