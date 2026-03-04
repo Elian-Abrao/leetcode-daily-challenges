@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 94
+Total de questoes resolvidas: 95
 
 ### Easy
+
+- [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+  - Question ID: 242
+  - Arquivo: `problems/easy/242_valid-anagram.py`
+  - Resolvido em: 16:00 - 04/03/26
 
 - [#455 Assign Cookies](https://leetcode.com/problems/assign-cookies/)
   - Question ID: 455
