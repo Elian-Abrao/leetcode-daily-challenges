@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 93
+Total de questoes resolvidas: 94
 
 ### Easy
 
@@ -163,6 +163,11 @@ Total de questoes resolvidas: 93
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#75 Sort Colors](https://leetcode.com/problems/sort-colors/)
+  - Question ID: 75
+  - Arquivo: `problems/medium/75_sort-colors.py`
+  - Resolvido em: 12:00 - 04/03/26
 
 - [#109 Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
   - Question ID: 109
