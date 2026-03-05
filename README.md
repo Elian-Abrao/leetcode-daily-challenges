@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 97
+Total de questoes resolvidas: 98
 
 ### Easy
 
@@ -360,6 +360,11 @@ Total de questoes resolvidas: 97
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
+  - Question ID: 87
+  - Arquivo: `problems/hard/87_scramble-string.py`
+  - Resolvido em: 15:01 - 05/03/26
 
 - [#132 Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
   - Question ID: 132
