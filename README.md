@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 96
+Total de questoes resolvidas: 97
 
 ### Easy
 
@@ -168,6 +168,11 @@ Total de questoes resolvidas: 96
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+  - Question ID: 113
+  - Arquivo: `problems/medium/113_path-sum-ii.py`
+  - Resolvido em: 12:35 - 05/03/26
 
 - [#75 Sort Colors](https://leetcode.com/problems/sort-colors/)
   - Question ID: 75
