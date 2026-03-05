@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 98
+Total de questoes resolvidas: 99
 
 ### Easy
 
@@ -168,6 +168,11 @@ Total de questoes resolvidas: 98
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#40 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+  - Question ID: 40
+  - Arquivo: `problems/medium/40_combination-sum-ii.py`
+  - Resolvido em: 18:01 - 05/03/26
 
 - [#113 Path Sum II](https://leetcode.com/problems/path-sum-ii/)
   - Question ID: 113
