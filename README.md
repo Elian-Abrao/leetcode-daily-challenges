@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 99
+Total de questoes resolvidas: 100
 
 ### Easy
+
+- [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
+  - Question ID: 342
+  - Arquivo: `problems/easy/342_power-of-four.py`
+  - Resolvido em: 13:00 - 06/03/26
 
 - [#242 Valid Anagram](https://leetcode.com/problems/valid-anagram/)
   - Question ID: 242
