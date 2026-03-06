@@ -174,6 +174,11 @@ Total de questoes resolvidas: 101
 
 ### Medium
 
+- [#438 Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  - Question ID: 438
+  - Arquivo: `problems/medium/438_find-all-anagrams-in-a-string.py`
+  - Resolvido em: 18:30 - 06/03/26
+
 - [#40 Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
   - Question ID: 40
   - Arquivo: `problems/medium/40_combination-sum-ii.py`
@@ -323,11 +328,6 @@ Total de questoes resolvidas: 101
   - Question ID: 2
   - Arquivo: `problems/medium/2_add-two-numbers.py`
   - Resolvido em: 18:46 - 20/02/26
-
-- [#438 String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
-  - Question ID: 438
-  - Arquivo: `problems/medium/438_find-all-anagrams-in-a-string.py`
-  - Resolvido em: 18:15 - 20/02/26
 
 - [#15 3Sum](https://leetcode.com/problems/3sum/)
   - Question ID: 15
