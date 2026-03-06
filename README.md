@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 100
+Total de questoes resolvidas: 101
 
 ### Easy
 
@@ -370,6 +370,11 @@ Total de questoes resolvidas: 100
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2286 Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/)
+  - Question ID: 2286
+  - Arquivo: `problems/hard/2167_minimum-time-to-remove-all-cars-containing-illegal-goods.py`
+  - Resolvido em: 15:31 - 06/03/26
 
 - [#87 Scramble String](https://leetcode.com/problems/scramble-string/)
   - Question ID: 87
