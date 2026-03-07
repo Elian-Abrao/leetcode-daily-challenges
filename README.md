@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 104
+Total de questoes resolvidas: 105
 
 ### Easy
 
@@ -375,6 +375,11 @@ Total de questoes resolvidas: 104
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2147 The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
+  - Question ID: 2147
+  - Arquivo: `problems/hard/2019_the-score-of-students-solving-math-expression.py`
+  - Resolvido em: 22:32 - 07/03/26
 
 - [#68 Text Justification](https://leetcode.com/problems/text-justification/)
   - Question ID: 68
