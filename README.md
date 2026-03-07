@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 103
+Total de questoes resolvidas: 104
 
 ### Easy
 
@@ -375,6 +375,11 @@ Total de questoes resolvidas: 103
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#68 Text Justification](https://leetcode.com/problems/text-justification/)
+  - Question ID: 68
+  - Arquivo: `problems/hard/68_text-justification.py`
+  - Resolvido em: 19:31 - 07/03/26
 
 - [#1322 Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/)
   - Question ID: 1322
