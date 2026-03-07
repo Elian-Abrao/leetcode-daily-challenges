@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 101
+Total de questoes resolvidas: 102
 
 ### Easy
 
@@ -173,6 +173,11 @@ Total de questoes resolvidas: 101
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#654 Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
+  - Question ID: 654
+  - Arquivo: `problems/medium/654_maximum-binary-tree.py`
+  - Resolvido em: 14:30 - 07/03/26
 
 - [#438 Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
   - Question ID: 438
