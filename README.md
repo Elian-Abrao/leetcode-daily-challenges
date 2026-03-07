@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 102
+Total de questoes resolvidas: 103
 
 ### Easy
 
@@ -375,6 +375,11 @@ Total de questoes resolvidas: 102
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1322 Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/)
+  - Question ID: 1322
+  - Arquivo: `problems/hard/1210_minimum-moves-to-reach-target-with-rotations.py`
+  - Resolvido em: 17:31 - 07/03/26
 
 - [#2286 Minimum Time to Remove All Cars Containing Illegal Goods](https://leetcode.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods/)
   - Question ID: 2286
