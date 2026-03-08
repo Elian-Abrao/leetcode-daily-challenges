@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 109
+Total de questoes resolvidas: 110
 
 ### Easy
 
@@ -385,6 +385,11 @@ Total de questoes resolvidas: 109
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1577 Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/)
+  - Question ID: 1577
+  - Arquivo: `problems/hard/1467_probability-of-a-two-boxes-having-the-same-number-of-distinct-balls.py`
+  - Resolvido em: 19:31 - 08/03/26
 
 - [#989 Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
   - Question ID: 989
