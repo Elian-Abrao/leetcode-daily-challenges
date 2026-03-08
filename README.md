@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 108
+Total de questoes resolvidas: 109
 
 ### Easy
 
@@ -385,6 +385,11 @@ Total de questoes resolvidas: 108
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#989 Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)
+  - Question ID: 989
+  - Arquivo: `problems/hard/952_largest-component-size-by-common-factor.py`
+  - Resolvido em: 18:03 - 08/03/26
 
 - [#420 Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
   - Question ID: 420
