@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 107
+Total de questoes resolvidas: 108
 
 ### Easy
 
@@ -173,6 +173,11 @@ Total de questoes resolvidas: 107
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+  - Question ID: 98
+  - Arquivo: `problems/medium/98_validate-binary-search-tree.py`
+  - Resolvido em: 16:05 - 08/03/26
 
 - [#413 Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
   - Question ID: 413
