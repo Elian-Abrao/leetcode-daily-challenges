@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 105
+Total de questoes resolvidas: 106
 
 ### Easy
 
@@ -173,6 +173,11 @@ Total de questoes resolvidas: 105
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#413 Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+  - Question ID: 413
+  - Arquivo: `problems/medium/413_arithmetic-slices.py`
+  - Resolvido em: 12:01 - 08/03/26
 
 - [#654 Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)
   - Question ID: 654
