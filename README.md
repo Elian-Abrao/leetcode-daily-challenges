@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 110
+Total de questoes resolvidas: 111
 
 ### Easy
 
@@ -385,6 +385,11 @@ Total de questoes resolvidas: 110
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#301 Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
+  - Question ID: 301
+  - Arquivo: `problems/hard/301_remove-invalid-parentheses.py`
+  - Resolvido em: 21:01 - 08/03/26
 
 - [#1577 Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/)
   - Question ID: 1577
