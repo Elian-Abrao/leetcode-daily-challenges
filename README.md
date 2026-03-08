@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 106
+Total de questoes resolvidas: 107
 
 ### Easy
 
@@ -380,6 +380,11 @@ Total de questoes resolvidas: 106
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#420 Strong Password Checker](https://leetcode.com/problems/strong-password-checker/)
+  - Question ID: 420
+  - Arquivo: `problems/hard/420_strong-password-checker.py`
+  - Resolvido em: 13:30 - 08/03/26
 
 - [#2147 The Score of Students Solving Math Expression](https://leetcode.com/problems/the-score-of-students-solving-math-expression/)
   - Question ID: 2147
