@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 113
+Total de questoes resolvidas: 114
 
 ### Easy
+
+- [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+  - Question ID: 58
+  - Arquivo: `problems/easy/58_length-of-last-word.py`
+  - Resolvido em: 17:00 - 09/03/26
 
 - [#342 Power of Four](https://leetcode.com/problems/power-of-four/)
   - Question ID: 342
