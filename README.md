@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 112
+Total de questoes resolvidas: 113
 
 ### Easy
 
@@ -385,6 +385,11 @@ Total de questoes resolvidas: 112
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+  - Question ID: 76
+  - Arquivo: `problems/hard/76_minimum-window-substring.py`
+  - Resolvido em: 15:30 - 09/03/26
 
 - [#440 K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
   - Question ID: 440
