@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 111
+Total de questoes resolvidas: 112
 
 ### Easy
 
@@ -385,6 +385,11 @@ Total de questoes resolvidas: 111
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#440 K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/)
+  - Question ID: 440
+  - Arquivo: `problems/hard/440_k-th-smallest-in-lexicographical-order.py`
+  - Resolvido em: 13:30 - 09/03/26
 
 - [#301 Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)
   - Question ID: 301
