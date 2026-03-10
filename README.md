@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 114
+Total de questoes resolvidas: 115
 
 ### Easy
 
@@ -178,6 +178,11 @@ Total de questoes resolvidas: 114
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#284 Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
+  - Question ID: 284
+  - Arquivo: `problems/medium/284_peeking-iterator.py`
+  - Resolvido em: 14:01 - 10/03/26
 
 - [#98 Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
   - Question ID: 98
