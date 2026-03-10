@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 116
+Total de questoes resolvidas: 117
 
 ### Easy
+
+- [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
+  - Question ID: 434
+  - Arquivo: `problems/easy/434_number-of-segments-in-a-string.py`
+  - Resolvido em: 21:00 - 10/03/26
 
 - [#58 Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
   - Question ID: 58
