@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 115
+Total de questoes resolvidas: 116
 
 ### Easy
 
@@ -178,6 +178,11 @@ Total de questoes resolvidas: 115
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#137 Single Number II](https://leetcode.com/problems/single-number-ii/)
+  - Question ID: 137
+  - Arquivo: `problems/medium/137_single-number-ii.py`
+  - Resolvido em: 16:32 - 10/03/26
 
 - [#284 Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)
   - Question ID: 284
