@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 117
+Total de questoes resolvidas: 118
 
 ### Easy
+
+- [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+  - Question ID: 20
+  - Arquivo: `problems/easy/20_valid-parentheses.py`
+  - Resolvido em: 12:00 - 11/03/26
 
 - [#434 Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)
   - Question ID: 434
