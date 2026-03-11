@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 118
+Total de questoes resolvidas: 119
 
 ### Easy
 
@@ -410,6 +410,11 @@ Total de questoes resolvidas: 118
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
+  - Question ID: 321
+  - Arquivo: `problems/hard/321_create-maximum-number.py`
+  - Resolvido em: 19:00 - 11/03/26
 
 - [#76 Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
   - Question ID: 76
