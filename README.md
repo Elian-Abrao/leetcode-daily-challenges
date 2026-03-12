@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 121
+Total de questoes resolvidas: 122
 
 ### Easy
 
@@ -193,6 +193,11 @@ Total de questoes resolvidas: 121
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
+  - Question ID: 279
+  - Arquivo: `problems/medium/279_perfect-squares.py`
+  - Resolvido em: 18:00 - 12/03/26
 
 - [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
   - Question ID: 319
