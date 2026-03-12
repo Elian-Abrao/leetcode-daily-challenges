@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 119
+Total de questoes resolvidas: 120
 
 ### Easy
 
@@ -188,6 +188,11 @@ Total de questoes resolvidas: 119
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#319 Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)
+  - Question ID: 319
+  - Arquivo: `problems/medium/319_bulb-switcher.py`
+  - Resolvido em: 12:30 - 12/03/26
 
 - [#137 Single Number II](https://leetcode.com/problems/single-number-ii/)
   - Question ID: 137
