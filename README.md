@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 120
+Total de questoes resolvidas: 121
 
 ### Easy
+
+- [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  - Question ID: 141
+  - Arquivo: `problems/easy/141_linked-list-cycle.py`
+  - Resolvido em: 15:00 - 12/03/26
 
 - [#20 Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
   - Question ID: 20
