@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 122
+Total de questoes resolvidas: 123
 
 ### Easy
+
+- [#13 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+  - Question ID: 13
+  - Arquivo: `problems/easy/13_roman-to-integer.py`
+  - Resolvido em: 13:00 - 13/03/26
 
 - [#141 Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
   - Question ID: 141
