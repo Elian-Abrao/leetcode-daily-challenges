@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 123
+Total de questoes resolvidas: 124
 
 ### Easy
 
@@ -430,6 +430,11 @@ Total de questoes resolvidas: 123
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+  - Question ID: 37
+  - Arquivo: `problems/hard/37_sudoku-solver.py`
+  - Resolvido em: 15:00 - 19/03/26
 
 - [#321 Create Maximum Number](https://leetcode.com/problems/create-maximum-number/)
   - Question ID: 321
