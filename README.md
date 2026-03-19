@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 124
+Total de questoes resolvidas: 125
 
 ### Easy
+
+- [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
+  - Question ID: 409
+  - Arquivo: `problems/easy/409_longest-palindrome.py`
+  - Resolvido em: 18:00 - 19/03/26
 
 - [#13 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
   - Question ID: 13
