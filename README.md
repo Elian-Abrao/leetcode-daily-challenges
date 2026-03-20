@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 126
+Total de questoes resolvidas: 127
 
 ### Easy
 
@@ -440,6 +440,11 @@ Total de questoes resolvidas: 126
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#973 Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
+  - Question ID: 973
+  - Arquivo: `problems/hard/936_stamping-the-sequence.py`
+  - Resolvido em: 15:31 - 20/03/26
 
 - [#37 Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
   - Question ID: 37
