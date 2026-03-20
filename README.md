@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 125
+Total de questoes resolvidas: 126
 
 ### Easy
+
+- [#171 Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
+  - Question ID: 171
+  - Arquivo: `problems/easy/171_excel-sheet-column-number.py`
+  - Resolvido em: 13:00 - 20/03/26
 
 - [#409 Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
   - Question ID: 409
