@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 127
+Total de questoes resolvidas: 128
 
 ### Easy
 
@@ -208,6 +208,11 @@ Total de questoes resolvidas: 127
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+  - Question ID: 128
+  - Arquivo: `problems/medium/128_longest-consecutive-sequence.py`
+  - Resolvido em: 18:30 - 20/03/26
 
 - [#279 Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - Question ID: 279
