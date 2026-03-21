@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 130
+Total de questoes resolvidas: 131
 
 ### Easy
 
@@ -455,6 +455,11 @@ Total de questoes resolvidas: 130
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#715 Range Module](https://leetcode.com/problems/range-module/)
+  - Question ID: 715
+  - Arquivo: `problems/hard/715_range-module.py`
+  - Resolvido em: 17:31 - 21/03/26
 
 - [#973 Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)
   - Question ID: 973
