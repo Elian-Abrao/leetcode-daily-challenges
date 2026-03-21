@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 132
+Total de questoes resolvidas: 133
 
 ### Easy
 
@@ -455,6 +455,11 @@ Total de questoes resolvidas: 132
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1336 Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/)
+  - Question ID: 1336
+  - Arquivo: `problems/hard/1960_maximum-product-of-the-length-of-two-palindromic-substrings.py`
+  - Resolvido em: 22:30 - 21/03/26
 
 - [#2311 Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
   - Question ID: 2311
