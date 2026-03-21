@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 131
+Total de questoes resolvidas: 132
 
 ### Easy
 
@@ -455,6 +455,11 @@ Total de questoes resolvidas: 131
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2311 Minimum White Tiles After Covering With Carpets](https://leetcode.com/problems/minimum-white-tiles-after-covering-with-carpets/)
+  - Question ID: 2311
+  - Arquivo: `problems/hard/2209_minimum-white-tiles-after-covering-with-carpets.py`
+  - Resolvido em: 19:31 - 21/03/26
 
 - [#715 Range Module](https://leetcode.com/problems/range-module/)
   - Question ID: 715
