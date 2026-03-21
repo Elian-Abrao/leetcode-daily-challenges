@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 128
+Total de questoes resolvidas: 129
 
 ### Easy
+
+- [#108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+  - Question ID: 108
+  - Arquivo: `problems/easy/108_convert-sorted-array-to-binary-search-tree.py`
+  - Resolvido em: 11:00 - 21/03/26
 
 - [#171 Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
   - Question ID: 171
