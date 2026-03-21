@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 129
+Total de questoes resolvidas: 130
 
 ### Easy
 
@@ -213,6 +213,11 @@ Total de questoes resolvidas: 129
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#692 Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+  - Question ID: 692
+  - Arquivo: `problems/medium/692_top-k-frequent-words.py`
+  - Resolvido em: 14:30 - 21/03/26
 
 - [#128 Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
   - Question ID: 128
