@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 134
+Total de questoes resolvidas: 135
 
 ### Easy
 
@@ -460,6 +460,11 @@ Total de questoes resolvidas: 134
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+  - Question ID: 329
+  - Arquivo: `problems/hard/329_longest-increasing-path-in-a-matrix.py`
+  - Resolvido em: 13:31 - 22/03/26
 
 - [#1336 Maximum Product of the Length of Two Palindromic Substrings](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/)
   - Question ID: 1336
