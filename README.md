@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 135
+Total de questoes resolvidas: 136
 
 ### Easy
 
@@ -460,6 +460,11 @@ Total de questoes resolvidas: 135
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#65 Valid Number](https://leetcode.com/problems/valid-number/)
+  - Question ID: 65
+  - Arquivo: `problems/hard/65_valid-number.py`
+  - Resolvido em: 16:00 - 22/03/26
 
 - [#329 Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
   - Question ID: 329
