@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 136
+Total de questoes resolvidas: 137
 
 ### Easy
 
@@ -460,6 +460,11 @@ Total de questoes resolvidas: 136
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#863 Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)
+  - Question ID: 863
+  - Arquivo: `problems/hard/834_sum-of-distances-in-tree.py`
+  - Resolvido em: 18:00 - 22/03/26
 
 - [#65 Valid Number](https://leetcode.com/problems/valid-number/)
   - Question ID: 65
