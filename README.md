@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 138
+Total de questoes resolvidas: 139
 
 ### Easy
 
@@ -213,6 +213,11 @@ Total de questoes resolvidas: 138
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
+  - Question ID: 316
+  - Arquivo: `problems/medium/316_remove-duplicate-letters.py`
+  - Resolvido em: 21:03 - 22/03/26
 
 - [#386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
   - Question ID: 386
