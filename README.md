@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 133
+Total de questoes resolvidas: 134
 
 ### Easy
 
@@ -213,6 +213,11 @@ Total de questoes resolvidas: 133
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#386 Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)
+  - Question ID: 386
+  - Arquivo: `problems/medium/386_lexicographical-numbers.py`
+  - Resolvido em: 12:00 - 22/03/26
 
 - [#692 Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
   - Question ID: 692
