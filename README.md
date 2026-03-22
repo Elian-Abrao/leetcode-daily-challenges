@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 137
+Total de questoes resolvidas: 138
 
 ### Easy
 
@@ -460,6 +460,11 @@ Total de questoes resolvidas: 137
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1093 Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+  - Question ID: 1093
+  - Arquivo: `problems/hard/1028_recover-a-tree-from-preorder-traversal.py`
+  - Resolvido em: 19:30 - 22/03/26
 
 - [#863 Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)
   - Question ID: 863
