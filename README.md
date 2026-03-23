@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 139
+Total de questoes resolvidas: 140
 
 ### Easy
+
+- [#414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+  - Question ID: 414
+  - Arquivo: `problems/easy/414_third-maximum-number.py`
+  - Resolvido em: 13:30 - 23/03/26
 
 - [#108 Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
   - Question ID: 108
