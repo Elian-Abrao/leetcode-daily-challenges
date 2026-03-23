@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 141
+Total de questoes resolvidas: 142
 
 ### Easy
 
@@ -218,6 +218,11 @@ Total de questoes resolvidas: 141
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#310 Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+  - Question ID: 310
+  - Arquivo: `problems/medium/310_minimum-height-trees.py`
+  - Resolvido em: 17:00 - 23/03/26
 
 - [#91 Decode Ways](https://leetcode.com/problems/decode-ways/)
   - Question ID: 91
