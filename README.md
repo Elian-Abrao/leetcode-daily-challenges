@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 140
+Total de questoes resolvidas: 141
 
 ### Easy
 
@@ -218,6 +218,11 @@ Total de questoes resolvidas: 140
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#91 Decode Ways](https://leetcode.com/problems/decode-ways/)
+  - Question ID: 91
+  - Arquivo: `problems/medium/91_decode-ways.py`
+  - Resolvido em: 15:30 - 23/03/26
 
 - [#316 Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
   - Question ID: 316
