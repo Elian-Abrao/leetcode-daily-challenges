@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 144
+Total de questoes resolvidas: 145
 
 ### Easy
 
@@ -490,6 +490,11 @@ Total de questoes resolvidas: 144
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#51 N-Queens](https://leetcode.com/problems/n-queens/)
+  - Question ID: 51
+  - Arquivo: `problems/hard/51_n-queens.py`
+  - Resolvido em: 21:00 - 24/03/26
 
 - [#1093 Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
   - Question ID: 1093
