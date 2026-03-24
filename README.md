@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 143
+Total de questoes resolvidas: 144
 
 ### Easy
 
@@ -223,6 +223,11 @@ Total de questoes resolvidas: 143
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#179 Largest Number](https://leetcode.com/problems/largest-number/)
+  - Question ID: 179
+  - Arquivo: `problems/medium/179_largest-number.py`
+  - Resolvido em: 16:30 - 24/03/26
 
 - [#310 Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
   - Question ID: 310
