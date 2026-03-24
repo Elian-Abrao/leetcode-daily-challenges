@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 142
+Total de questoes resolvidas: 143
 
 ### Easy
+
+- [#389 Find the Difference](https://leetcode.com/problems/find-the-difference/)
+  - Question ID: 389
+  - Arquivo: `problems/easy/389_find-the-difference.py`
+  - Resolvido em: 14:00 - 24/03/26
 
 - [#414 Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
   - Question ID: 414
