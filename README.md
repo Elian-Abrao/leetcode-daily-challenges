@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 146
+Total de questoes resolvidas: 147
 
 ### Easy
 
@@ -223,6 +223,11 @@ Total de questoes resolvidas: 146
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+  - Question ID: 130
+  - Arquivo: `problems/medium/130_surrounded-regions.py`
+  - Resolvido em: 16:01 - 25/03/26
 
 - [#200 Number of Islands](https://leetcode.com/problems/number-of-islands/)
   - Question ID: 200
