@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 145
+Total de questoes resolvidas: 146
 
 ### Easy
 
@@ -223,6 +223,11 @@ Total de questoes resolvidas: 145
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#200 Number of Islands](https://leetcode.com/problems/number-of-islands/)
+  - Question ID: 200
+  - Arquivo: `problems/medium/200_number-of-islands.py`
+  - Resolvido em: 12:00 - 25/03/26
 
 - [#179 Largest Number](https://leetcode.com/problems/largest-number/)
   - Question ID: 179
