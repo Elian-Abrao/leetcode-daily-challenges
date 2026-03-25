@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 147
+Total de questoes resolvidas: 148
 
 ### Easy
 
@@ -223,6 +223,11 @@ Total de questoes resolvidas: 147
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#264 Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+  - Question ID: 264
+  - Arquivo: `problems/medium/264_ugly-number-ii.py`
+  - Resolvido em: 19:00 - 25/03/26
 
 - [#130 Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
   - Question ID: 130
