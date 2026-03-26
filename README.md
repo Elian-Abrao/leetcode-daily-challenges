@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 149
+Total de questoes resolvidas: 150
 
 ### Easy
 
@@ -223,6 +223,11 @@ Total de questoes resolvidas: 149
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#419 Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
+  - Question ID: 419
+  - Arquivo: `problems/medium/419_battleships-in-a-board.py`
+  - Resolvido em: 15:00 - 26/03/26
 
 - [#204 Count Primes](https://leetcode.com/problems/count-primes/)
   - Question ID: 204
