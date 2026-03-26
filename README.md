@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 148
+Total de questoes resolvidas: 149
 
 ### Easy
 
@@ -223,6 +223,11 @@ Total de questoes resolvidas: 148
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#204 Count Primes](https://leetcode.com/problems/count-primes/)
+  - Question ID: 204
+  - Arquivo: `problems/medium/204_count-primes.py`
+  - Resolvido em: 12:30 - 26/03/26
 
 - [#264 Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
   - Question ID: 264
