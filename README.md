@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 150
+Total de questoes resolvidas: 151
 
 ### Easy
 
@@ -515,6 +515,11 @@ Total de questoes resolvidas: 150
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
+  - Question ID: 126
+  - Arquivo: `problems/hard/126_word-ladder-ii.py`
+  - Resolvido em: 18:00 - 26/03/26
 
 - [#51 N-Queens](https://leetcode.com/problems/n-queens/)
   - Question ID: 51
