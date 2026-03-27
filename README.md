@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 152
+Total de questoes resolvidas: 153
 
 ### Easy
 
@@ -520,6 +520,11 @@ Total de questoes resolvidas: 152
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1535 Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)
+  - Question ID: 1535
+  - Arquivo: `problems/hard/1420_build-array-where-you-can-find-the-maximum-exactly-k-comparisons.py`
+  - Resolvido em: 15:33 - 27/03/26
 
 - [#126 Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)
   - Question ID: 126
