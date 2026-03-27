@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 151
+Total de questoes resolvidas: 152
 
 ### Easy
+
+- [#27 Remove Element](https://leetcode.com/problems/remove-element/)
+  - Question ID: 27
+  - Arquivo: `problems/easy/27_remove-element.py`
+  - Resolvido em: 13:00 - 27/03/26
 
 - [#389 Find the Difference](https://leetcode.com/problems/find-the-difference/)
   - Question ID: 389
