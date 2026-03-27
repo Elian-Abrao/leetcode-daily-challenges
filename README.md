@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 153
+Total de questoes resolvidas: 154
 
 ### Easy
 
@@ -228,6 +228,11 @@ Total de questoes resolvidas: 153
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+  - Question ID: 451
+  - Arquivo: `problems/medium/451_sort-characters-by-frequency.py`
+  - Resolvido em: 18:31 - 27/03/26
 
 - [#419 Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)
   - Question ID: 419
