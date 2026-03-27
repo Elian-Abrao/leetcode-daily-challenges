@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 154
+Total de questoes resolvidas: 155
 
 ### Easy
 
@@ -525,6 +525,11 @@ Total de questoes resolvidas: 154
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1234 Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)
+  - Question ID: 1234
+  - Arquivo: `problems/hard/1301_number-of-paths-with-max-score.py`
+  - Resolvido em: 23:04 - 27/03/26
 
 - [#1535 Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/)
   - Question ID: 1535
