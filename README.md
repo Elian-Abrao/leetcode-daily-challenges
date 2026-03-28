@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 157
+Total de questoes resolvidas: 158
 
 ### Easy
 
@@ -535,6 +535,11 @@ Total de questoes resolvidas: 157
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2276 Groups of Strings](https://leetcode.com/problems/groups-of-strings/)
+  - Question ID: 2276
+  - Arquivo: `problems/hard/2157_groups-of-strings.py`
+  - Resolvido em: 17:30 - 28/03/26
 
 - [#1234 Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/)
   - Question ID: 1234
