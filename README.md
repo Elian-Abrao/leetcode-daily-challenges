@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 159
+Total de questoes resolvidas: 160
 
 ### Easy
 
@@ -535,6 +535,11 @@ Total de questoes resolvidas: 159
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#869 Similar String Groups](https://leetcode.com/problems/similar-string-groups/)
+  - Question ID: 869
+  - Arquivo: `problems/hard/839_similar-string-groups.py`
+  - Resolvido em: 22:35 - 28/03/26
 
 - [#1778 Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)
   - Question ID: 1778
