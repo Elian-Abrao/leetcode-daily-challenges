@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 158
+Total de questoes resolvidas: 159
 
 ### Easy
 
@@ -535,6 +535,11 @@ Total de questoes resolvidas: 158
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1778 Maximize Grid Happiness](https://leetcode.com/problems/maximize-grid-happiness/)
+  - Question ID: 1778
+  - Arquivo: `problems/hard/1659_maximize-grid-happiness.py`
+  - Resolvido em: 19:31 - 28/03/26
 
 - [#2276 Groups of Strings](https://leetcode.com/problems/groups-of-strings/)
   - Question ID: 2276
