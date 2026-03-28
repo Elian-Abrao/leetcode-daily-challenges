@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 156
+Total de questoes resolvidas: 157
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 156
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#535 Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
+  - Question ID: 535
+  - Arquivo: `problems/medium/535_encode-and-decode-tinyurl.py`
+  - Resolvido em: 14:31 - 28/03/26
 
 - [#451 Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
   - Question ID: 451
