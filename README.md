@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 155
+Total de questoes resolvidas: 156
 
 ### Easy
+
+- [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+  - Question ID: 88
+  - Arquivo: `problems/easy/88_merge-sorted-array.py`
+  - Resolvido em: 11:00 - 28/03/26
 
 - [#27 Remove Element](https://leetcode.com/problems/remove-element/)
   - Question ID: 27
