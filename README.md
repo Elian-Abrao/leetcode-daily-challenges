@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 162
+Total de questoes resolvidas: 163
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 162
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#221 Maximal Square](https://leetcode.com/problems/maximal-square/)
+  - Question ID: 221
+  - Arquivo: `problems/medium/221_maximal-square.py`
+  - Resolvido em: 16:01 - 29/03/26
 
 - [#491 Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
   - Question ID: 491
