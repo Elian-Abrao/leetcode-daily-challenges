@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 164
+Total de questoes resolvidas: 165
 
 ### Easy
 
@@ -550,6 +550,11 @@ Total de questoes resolvidas: 164
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1583 Paint House III](https://leetcode.com/problems/paint-house-iii/)
+  - Question ID: 1583
+  - Arquivo: `problems/hard/1473_paint-house-iii.py`
+  - Resolvido em: 19:31 - 29/03/26
 
 - [#956 Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
   - Question ID: 956
