@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 161
+Total de questoes resolvidas: 162
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 161
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#491 Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/)
+  - Question ID: 491
+  - Arquivo: `problems/medium/491_non-decreasing-subsequences.py`
+  - Resolvido em: 13:30 - 29/03/26
 
 - [#198 House Robber](https://leetcode.com/problems/house-robber/)
   - Question ID: 198
