@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 160
+Total de questoes resolvidas: 161
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 160
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#198 House Robber](https://leetcode.com/problems/house-robber/)
+  - Question ID: 198
+  - Arquivo: `problems/medium/198_house-robber.py`
+  - Resolvido em: 12:00 - 29/03/26
 
 - [#535 Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
   - Question ID: 535
