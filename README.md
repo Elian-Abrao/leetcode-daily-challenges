@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 163
+Total de questoes resolvidas: 164
 
 ### Easy
 
@@ -550,6 +550,11 @@ Total de questoes resolvidas: 163
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#956 Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/)
+  - Question ID: 956
+  - Arquivo: `problems/hard/920_number-of-music-playlists.py`
+  - Resolvido em: 18:00 - 29/03/26
 
 - [#869 Similar String Groups](https://leetcode.com/problems/similar-string-groups/)
   - Question ID: 869
