@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 165
+Total de questoes resolvidas: 166
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 165
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#437 Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+  - Question ID: 437
+  - Arquivo: `problems/medium/437_path-sum-iii.py`
+  - Resolvido em: 21:00 - 29/03/26
 
 - [#221 Maximal Square](https://leetcode.com/problems/maximal-square/)
   - Question ID: 221
