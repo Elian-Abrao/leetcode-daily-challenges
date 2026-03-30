@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 169
+Total de questoes resolvidas: 170
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 169
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#398 Random Pick Index](https://leetcode.com/problems/random-pick-index/)
+  - Question ID: 398
+  - Arquivo: `problems/medium/398_random-pick-index.py`
+  - Resolvido em: 21:31 - 30/03/26
 
 - [#72 Edit Distance](https://leetcode.com/problems/edit-distance/)
   - Question ID: 72
