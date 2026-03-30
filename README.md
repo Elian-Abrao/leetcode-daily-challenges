@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 167
+Total de questoes resolvidas: 168
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 167
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#213 House Robber II](https://leetcode.com/problems/house-robber-ii/)
+  - Question ID: 213
+  - Arquivo: `problems/medium/213_house-robber-ii.py`
+  - Resolvido em: 15:30 - 30/03/26
 
 - [#86 Partition List](https://leetcode.com/problems/partition-list/)
   - Question ID: 86
