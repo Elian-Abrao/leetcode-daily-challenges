@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 168
+Total de questoes resolvidas: 169
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 168
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#72 Edit Distance](https://leetcode.com/problems/edit-distance/)
+  - Question ID: 72
+  - Arquivo: `problems/medium/72_edit-distance.py`
+  - Resolvido em: 17:00 - 30/03/26
 
 - [#213 House Robber II](https://leetcode.com/problems/house-robber-ii/)
   - Question ID: 213
