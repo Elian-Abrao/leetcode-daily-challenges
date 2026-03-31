@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 170
+Total de questoes resolvidas: 171
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 170
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
+  - Question ID: 377
+  - Arquivo: `problems/medium/377_combination-sum-iv.py`
+  - Resolvido em: 14:04 - 31/03/26
 
 - [#398 Random Pick Index](https://leetcode.com/problems/random-pick-index/)
   - Question ID: 398
