@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 172
+Total de questoes resolvidas: 173
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 172
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#236 Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+  - Question ID: 236
+  - Arquivo: `problems/medium/236_lowest-common-ancestor-of-a-binary-tree.py`
+  - Resolvido em: 21:00 - 31/03/26
 
 - [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
   - Question ID: 416
