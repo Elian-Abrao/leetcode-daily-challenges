@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 171
+Total de questoes resolvidas: 172
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 171
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#416 Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+  - Question ID: 416
+  - Arquivo: `problems/medium/416_partition-equal-subset-sum.py`
+  - Resolvido em: 16:31 - 31/03/26
 
 - [#377 Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
   - Question ID: 377
