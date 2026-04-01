@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 173
+Total de questoes resolvidas: 174
 
 ### Easy
 
@@ -590,6 +590,11 @@ Total de questoes resolvidas: 173
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+  - Question ID: 493
+  - Arquivo: `problems/hard/493_reverse-pairs.py`
+  - Resolvido em: 12:01 - 01/04/26
 
 - [#1583 Paint House III](https://leetcode.com/problems/paint-house-iii/)
   - Question ID: 1583
