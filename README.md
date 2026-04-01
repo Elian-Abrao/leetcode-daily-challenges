@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 174
+Total de questoes resolvidas: 175
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 174
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+  - Question ID: 215
+  - Arquivo: `problems/medium/215_kth-largest-element-in-an-array.py`
+  - Resolvido em: 16:01 - 01/04/26
 
 - [#236 Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
   - Question ID: 236
