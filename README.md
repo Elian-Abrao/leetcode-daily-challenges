@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 175
+Total de questoes resolvidas: 176
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 175
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+  - Question ID: 64
+  - Arquivo: `problems/medium/64_minimum-path-sum.py`
+  - Resolvido em: 19:00 - 01/04/26
 
 - [#215 Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
   - Question ID: 215
