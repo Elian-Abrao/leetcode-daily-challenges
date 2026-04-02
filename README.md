@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 176
+Total de questoes resolvidas: 177
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 176
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+  - Question ID: 424
+  - Arquivo: `problems/medium/424_longest-repeating-character-replacement.py`
+  - Resolvido em: 12:30 - 02/04/26
 
 - [#64 Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
   - Question ID: 64
