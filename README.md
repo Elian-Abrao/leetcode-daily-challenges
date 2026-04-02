@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 177
+Total de questoes resolvidas: 178
 
 ### Easy
 
@@ -233,6 +233,11 @@ Total de questoes resolvidas: 177
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+  - Question ID: 81
+  - Arquivo: `problems/medium/81_search-in-rotated-sorted-array-ii.py`
+  - Resolvido em: 15:00 - 02/04/26
 
 - [#424 Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
   - Question ID: 424
