@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 178
+Total de questoes resolvidas: 179
 
 ### Easy
+
+- [#258 Add Digits](https://leetcode.com/problems/add-digits/)
+  - Question ID: 258
+  - Arquivo: `problems/easy/258_add-digits.py`
+  - Resolvido em: 18:00 - 02/04/26
 
 - [#88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
   - Question ID: 88
