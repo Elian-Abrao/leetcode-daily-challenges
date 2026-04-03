@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 181
+Total de questoes resolvidas: 182
 
 ### Easy
+
+- [#219 Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
+  - Question ID: 219
+  - Arquivo: `problems/easy/219_contains-duplicate-ii.py`
+  - Resolvido em: 18:32 - 03/04/26
 
 - [#258 Add Digits](https://leetcode.com/problems/add-digits/)
   - Question ID: 258
