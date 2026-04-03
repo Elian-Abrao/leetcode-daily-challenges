@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 179
+Total de questoes resolvidas: 180
 
 ### Easy
 
@@ -615,6 +615,11 @@ Total de questoes resolvidas: 179
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+  - Question ID: 42
+  - Arquivo: `problems/hard/42_trapping-rain-water.py`
+  - Resolvido em: 13:00 - 03/04/26
 
 - [#493 Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
   - Question ID: 493
