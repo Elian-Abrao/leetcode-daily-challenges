@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 180
+Total de questoes resolvidas: 181
 
 ### Easy
 
@@ -615,6 +615,11 @@ Total de questoes resolvidas: 180
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2360 Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)
+  - Question ID: 2360
+  - Arquivo: `problems/hard/2272_substring-with-largest-variance.py`
+  - Resolvido em: 15:31 - 03/04/26
 
 - [#42 Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
   - Question ID: 42
