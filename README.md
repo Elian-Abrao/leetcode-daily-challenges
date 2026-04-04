@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 186
+Total de questoes resolvidas: 187
 
 ### Easy
 
@@ -630,6 +630,11 @@ Total de questoes resolvidas: 186
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1372 Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
+  - Question ID: 1372
+  - Arquivo: `problems/hard/1250_check-if-it-is-a-good-array.py`
+  - Resolvido em: 22:30 - 04/04/26
 
 - [#685 Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
   - Question ID: 685
