@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 182
+Total de questoes resolvidas: 183
 
 ### Easy
+
+- [#278 First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - Question ID: 278
+  - Arquivo: `problems/easy/278_first-bad-version.py`
+  - Resolvido em: 11:00 - 04/04/26
 
 - [#219 Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
   - Question ID: 219
