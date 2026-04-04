@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 183
+Total de questoes resolvidas: 184
 
 ### Easy
 
@@ -248,6 +248,11 @@ Total de questoes resolvidas: 183
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#744 Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+  - Question ID: 744
+  - Arquivo: `problems/medium/743_network-delay-time.py`
+  - Resolvido em: 14:30 - 04/04/26
 
 - [#81 Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
   - Question ID: 81
