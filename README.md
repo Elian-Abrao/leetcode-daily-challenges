@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 184
+Total de questoes resolvidas: 185
 
 ### Easy
 
@@ -630,6 +630,11 @@ Total de questoes resolvidas: 184
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1996 Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
+  - Question ID: 1996
+  - Arquivo: `problems/hard/1866_number-of-ways-to-rearrange-sticks-with-k-sticks-visible.py`
+  - Resolvido em: 17:30 - 04/04/26
 
 - [#2360 Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/)
   - Question ID: 2360
