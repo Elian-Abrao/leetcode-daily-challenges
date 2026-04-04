@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 185
+Total de questoes resolvidas: 186
 
 ### Easy
 
@@ -630,6 +630,11 @@ Total de questoes resolvidas: 185
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#685 Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/)
+  - Question ID: 685
+  - Arquivo: `problems/hard/685_redundant-connection-ii.py`
+  - Resolvido em: 19:30 - 04/04/26
 
 - [#1996 Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/)
   - Question ID: 1996
