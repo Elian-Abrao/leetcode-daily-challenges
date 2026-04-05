@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 189
+Total de questoes resolvidas: 190
 
 ### Easy
+
+- [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+  - Question ID: 168
+  - Arquivo: `problems/easy/168_excel-sheet-column-title.py`
+  - Resolvido em: 16:00 - 05/04/26
 
 - [#278 First Bad Version](https://leetcode.com/problems/first-bad-version/)
   - Question ID: 278
