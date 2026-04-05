@@ -254,6 +254,11 @@ Total de questoes resolvidas: 192
 
 ### Medium
 
+- [#498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+  - Question ID: 498
+  - Arquivo: `problems/medium/498_diagonal-traverse.py`
+  - Resolvido em: 21:00 - 05/04/26
+
 - [#368 Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
   - Question ID: 368
   - Arquivo: `problems/medium/368_largest-divisible-subset.py`
@@ -613,11 +618,6 @@ Total de questoes resolvidas: 192
   - Question ID: 192
   - Arquivo: `problems/medium/192_word-frequency.py`
   - Resolvido em: 15:01 - 20/02/26
-
-- [#498 Traverse](https://leetcode.com/problems/diagonal-traverse/)
-  - Question ID: 498
-  - Arquivo: `problems/medium/498_diagonal-traverse.py`
-  - Resolvido em: 15:00 - 20/02/26
 
 - [#402 Digits](https://leetcode.com/problems/remove-k-digits/)
   - Question ID: 402
