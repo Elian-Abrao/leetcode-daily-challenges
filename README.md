@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 191
+Total de questoes resolvidas: 192
 
 ### Easy
 
@@ -645,6 +645,11 @@ Total de questoes resolvidas: 191
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#964 Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
+  - Question ID: 964
+  - Arquivo: `problems/hard/928_minimize-malware-spread-ii.py`
+  - Resolvido em: 19:32 - 05/04/26
 
 - [#993 Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
   - Question ID: 993
