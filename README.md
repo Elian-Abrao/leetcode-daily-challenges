@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 187
+Total de questoes resolvidas: 188
 
 ### Easy
 
@@ -248,6 +248,11 @@ Total de questoes resolvidas: 187
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
+  - Question ID: 397
+  - Arquivo: `problems/medium/397_integer-replacement.py`
+  - Resolvido em: 12:00 - 05/04/26
 
 - [#744 Network Delay Time](https://leetcode.com/problems/network-delay-time/)
   - Question ID: 744
