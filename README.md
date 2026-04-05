@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 188
+Total de questoes resolvidas: 189
 
 ### Easy
 
@@ -248,6 +248,11 @@ Total de questoes resolvidas: 188
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#368 Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
+  - Question ID: 368
+  - Arquivo: `problems/medium/368_largest-divisible-subset.py`
+  - Resolvido em: 13:30 - 05/04/26
 
 - [#397 Integer Replacement](https://leetcode.com/problems/integer-replacement/)
   - Question ID: 397
