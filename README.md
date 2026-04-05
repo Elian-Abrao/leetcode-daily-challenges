@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 190
+Total de questoes resolvidas: 191
 
 ### Easy
 
@@ -645,6 +645,11 @@ Total de questoes resolvidas: 190
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#993 Tallest Billboard](https://leetcode.com/problems/tallest-billboard/)
+  - Question ID: 993
+  - Arquivo: `problems/hard/956_tallest-billboard.py`
+  - Resolvido em: 18:00 - 05/04/26
 
 - [#1372 Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
   - Question ID: 1372
