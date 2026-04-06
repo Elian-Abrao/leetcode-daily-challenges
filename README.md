@@ -254,6 +254,11 @@ Total de questoes resolvidas: 192
 
 ### Medium
 
+- [#8 String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+  - Question ID: 8
+  - Arquivo: `problems/medium/8_string-to-integer-atoi.py`
+  - Resolvido em: 13:30 - 06/04/26
+
 - [#498 Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
   - Question ID: 498
   - Arquivo: `problems/medium/498_diagonal-traverse.py`
@@ -593,11 +598,6 @@ Total de questoes resolvidas: 192
   - Question ID: 331
   - Arquivo: `problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py`
   - Resolvido em: 19:06 - 20/02/26
-
-- [#8 (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-  - Question ID: 8
-  - Arquivo: `problems/medium/8_string-to-integer-atoi.py`
-  - Resolvido em: 19:03 - 20/02/26
 
 - [#74 Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   - Question ID: 74
