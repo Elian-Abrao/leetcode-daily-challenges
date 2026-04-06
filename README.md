@@ -259,6 +259,11 @@ Total de questoes resolvidas: 193
 
 ### Medium
 
+- [#449 Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
+  - Question ID: 449
+  - Arquivo: `problems/medium/449_serialize-and-deserialize-bst.py`
+  - Resolvido em: 17:01 - 06/04/26
+
 - [#8 String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
   - Question ID: 8
   - Arquivo: `problems/medium/8_string-to-integer-atoi.py`
@@ -588,11 +593,6 @@ Total de questoes resolvidas: 193
   - Question ID: 347
   - Arquivo: `problems/medium/347_top-k-frequent-elements.py`
   - Resolvido em: 20:09 - 20/02/26
-
-- [#449 BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
-  - Question ID: 449
-  - Arquivo: `problems/medium/449_serialize-and-deserialize-bst.py`
-  - Resolvido em: 19:08 - 20/02/26
 
 - [#395 Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - Question ID: 395
