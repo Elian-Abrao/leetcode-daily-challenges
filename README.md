@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 192
+Total de questoes resolvidas: 193
 
 ### Easy
+
+- [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+  - Question ID: 463
+  - Arquivo: `problems/easy/463_island-perimeter.py`
+  - Resolvido em: 15:31 - 06/04/26
 
 - [#168 Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
   - Question ID: 168
