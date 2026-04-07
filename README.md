@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 193
+Total de questoes resolvidas: 194
 
 ### Easy
 
@@ -258,6 +258,11 @@ Total de questoes resolvidas: 193
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+  - Question ID: 24
+  - Arquivo: `problems/medium/24_swap-nodes-in-pairs.py`
+  - Resolvido em: 14:00 - 07/04/26
 
 - [#449 Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)
   - Question ID: 449
