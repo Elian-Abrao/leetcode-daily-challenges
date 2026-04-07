@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 195
+Total de questoes resolvidas: 196
 
 ### Easy
 
@@ -258,6 +258,11 @@ Total de questoes resolvidas: 195
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#90 Subsets II](https://leetcode.com/problems/subsets-ii/)
+  - Question ID: 90
+  - Arquivo: `problems/medium/90_subsets-ii.py`
+  - Resolvido em: 21:00 - 07/04/26
 
 - [#114 Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
   - Question ID: 114
