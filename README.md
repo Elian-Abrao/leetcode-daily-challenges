@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 194
+Total de questoes resolvidas: 195
 
 ### Easy
 
@@ -258,6 +258,11 @@ Total de questoes resolvidas: 194
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#114 Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+  - Question ID: 114
+  - Arquivo: `problems/medium/114_flatten-binary-tree-to-linked-list.py`
+  - Resolvido em: 16:30 - 07/04/26
 
 - [#24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
   - Question ID: 24
