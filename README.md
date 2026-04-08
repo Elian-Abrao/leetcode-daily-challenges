@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 197
+Total de questoes resolvidas: 198
 
 ### Easy
+
+- [#496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+  - Question ID: 496
+  - Arquivo: `problems/easy/496_next-greater-element-i.py`
+  - Resolvido em: 16:00 - 08/04/26
 
 - [#463 Island Perimeter](https://leetcode.com/problems/island-perimeter/)
   - Question ID: 463
