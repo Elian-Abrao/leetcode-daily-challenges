@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 196
+Total de questoes resolvidas: 197
 
 ### Easy
 
@@ -258,6 +258,11 @@ Total de questoes resolvidas: 196
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#322 Coin Change](https://leetcode.com/problems/coin-change/)
+  - Question ID: 322
+  - Arquivo: `problems/medium/322_coin-change.py`
+  - Resolvido em: 12:00 - 08/04/26
 
 - [#90 Subsets II](https://leetcode.com/problems/subsets-ii/)
   - Question ID: 90
