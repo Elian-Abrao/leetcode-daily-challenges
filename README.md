@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 198
+Total de questoes resolvidas: 199
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 198
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#31 Next Permutation](https://leetcode.com/problems/next-permutation/)
+  - Question ID: 31
+  - Arquivo: `problems/medium/31_next-permutation.py`
+  - Resolvido em: 19:00 - 08/04/26
 
 - [#322 Coin Change](https://leetcode.com/problems/coin-change/)
   - Question ID: 322
