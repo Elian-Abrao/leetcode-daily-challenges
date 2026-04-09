@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 201
+Total de questoes resolvidas: 202
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 201
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#138 Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+  - Question ID: 138
+  - Arquivo: `problems/medium/138_copy-list-with-random-pointer.py`
+  - Resolvido em: 18:00 - 09/04/26
 
 - [#95 Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
   - Question ID: 95
