@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 199
+Total de questoes resolvidas: 200
 
 ### Easy
 
@@ -680,6 +680,11 @@ Total de questoes resolvidas: 199
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#123 Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+  - Question ID: 123
+  - Arquivo: `problems/hard/123_best-time-to-buy-and-sell-stock-iii.py`
+  - Resolvido em: 12:30 - 09/04/26
 
 - [#964 Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/)
   - Question ID: 964
