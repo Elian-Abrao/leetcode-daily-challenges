@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 200
+Total de questoes resolvidas: 201
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 200
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#95 Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+  - Question ID: 95
+  - Arquivo: `problems/medium/95_unique-binary-search-trees-ii.py`
+  - Resolvido em: 15:00 - 09/04/26
 
 - [#31 Next Permutation](https://leetcode.com/problems/next-permutation/)
   - Question ID: 31
