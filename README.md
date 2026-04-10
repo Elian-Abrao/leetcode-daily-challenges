@@ -12,6 +12,11 @@ Total de questoes resolvidas: 204
 
 ### Easy
 
+- [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+  - Question ID: 392
+  - Arquivo: `problems/easy/392_is-subsequence.py`
+  - Resolvido em: 20:34 - 10/04/26
+
 - [#119 Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
   - Question ID: 119
   - Arquivo: `problems/easy/119_pascals-triangle-ii.py`
@@ -230,11 +235,6 @@ Total de questoes resolvidas: 204
 - [#509 Number](https://leetcode.com/problems/fibonacci-number/)
   - Question ID: 509
   - Arquivo: `problems/easy/0509_fibonacci-number.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#392 Subsequence](https://leetcode.com/problems/is-subsequence/)
-  - Question ID: 392
-  - Arquivo: `problems/easy/0392_is-subsequence.py`
   - Resolvido em: 14:36 - 19/02/26
 
 - [#338 Bits](https://leetcode.com/problems/counting-bits/)
