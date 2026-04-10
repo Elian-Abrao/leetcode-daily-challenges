@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 204
+Total de questoes resolvidas: 205
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 204
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#46 Permutations](https://leetcode.com/problems/permutations/)
+  - Question ID: 46
+  - Arquivo: `problems/medium/46_permutations.py`
+  - Resolvido em: 20:52 - 10/04/26
 
 - [#453 Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
   - Question ID: 453
