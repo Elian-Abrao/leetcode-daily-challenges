@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 203
+Total de questoes resolvidas: 204
 
 ### Easy
 
@@ -695,6 +695,11 @@ Total de questoes resolvidas: 203
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2008 Minimum Cost to Change the Final Value of Expression](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/)
+  - Question ID: 2008
+  - Arquivo: `problems/hard/1896_minimum-cost-to-change-the-final-value-of-expression.py`
+  - Resolvido em: 15:31 - 10/04/26
 
 - [#123 Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
   - Question ID: 123
