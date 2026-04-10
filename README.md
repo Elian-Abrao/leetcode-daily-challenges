@@ -12,6 +12,11 @@ Total de questoes resolvidas: 204
 
 ### Easy
 
+- [#119 Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+  - Question ID: 119
+  - Arquivo: `problems/easy/119_pascals-triangle-ii.py`
+  - Resolvido em: 18:30 - 10/04/26
+
 - [#496 Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
   - Question ID: 496
   - Arquivo: `problems/easy/496_next-greater-element-i.py`
@@ -240,11 +245,6 @@ Total de questoes resolvidas: 204
 - [#121 Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
   - Arquivo: `problems/easy/0121_best-time-to-buy-and-sell-stock.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#119 II](https://leetcode.com/problems/pascals-triangle-ii/)
-  - Question ID: 119
-  - Arquivo: `problems/easy/0119_pascals-triangle-ii.py`
   - Resolvido em: 14:36 - 19/02/26
 
 - [#118 Triangle](https://leetcode.com/problems/pascals-triangle/)
