@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 205
+Total de questoes resolvidas: 206
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 205
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
+  - Question ID: 173
+  - Arquivo: `problems/medium/173_binary-search-tree-iterator.py`
+  - Resolvido em: 11:00 - 11/04/26
 
 - [#46 Permutations](https://leetcode.com/problems/permutations/)
   - Question ID: 46
