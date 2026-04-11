@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 207
+Total de questoes resolvidas: 208
 
 ### Easy
 
@@ -710,6 +710,11 @@ Total de questoes resolvidas: 207
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#855 Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
+  - Question ID: 855
+  - Arquivo: `problems/hard/828_count-unique-characters-of-all-substrings-of-a-given-string.py`
+  - Resolvido em: 17:34 - 11/04/26
 
 - [#2008 Minimum Cost to Change the Final Value of Expression](https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/)
   - Question ID: 2008
