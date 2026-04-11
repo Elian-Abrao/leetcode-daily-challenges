@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 209
+Total de questoes resolvidas: 210
 
 ### Easy
 
@@ -710,6 +710,11 @@ Total de questoes resolvidas: 209
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1645 Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)
+  - Question ID: 1645
+  - Arquivo: `problems/hard/1521_find-a-value-of-a-mysterious-function-closest-to-target.py`
+  - Resolvido em: 22:30 - 11/04/26
 
 - [#1825 Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/)
   - Question ID: 1825
