@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 206
+Total de questoes resolvidas: 207
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 206
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#650 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
+  - Question ID: 650
+  - Arquivo: `problems/medium/650_2-keys-keyboard.py`
+  - Resolvido em: 14:31 - 11/04/26
 
 - [#173 Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
   - Question ID: 173
