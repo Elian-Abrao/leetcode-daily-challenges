@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 208
+Total de questoes resolvidas: 209
 
 ### Easy
 
@@ -710,6 +710,11 @@ Total de questoes resolvidas: 208
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1825 Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/)
+  - Question ID: 1825
+  - Arquivo: `problems/hard/1723_find-minimum-time-to-finish-all-jobs.py`
+  - Resolvido em: 19:30 - 11/04/26
 
 - [#855 Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)
   - Question ID: 855
