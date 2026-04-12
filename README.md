@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 211
+Total de questoes resolvidas: 212
 
 ### Easy
 
@@ -715,6 +715,11 @@ Total de questoes resolvidas: 211
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
+  - Question ID: 458
+  - Arquivo: `problems/hard/458_poor-pigs.py`
+  - Resolvido em: 13:30 - 12/04/26
 
 - [#1645 Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/)
   - Question ID: 1645
