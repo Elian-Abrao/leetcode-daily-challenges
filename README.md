@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 215
+Total de questoes resolvidas: 216
 
 ### Easy
+
+- [#459 Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
+  - Question ID: 459
+  - Arquivo: `problems/easy/459_repeated-substring-pattern.py`
+  - Resolvido em: 21:00 - 12/04/26
 
 - [#66 Plus One](https://leetcode.com/problems/plus-one/)
   - Question ID: 66
