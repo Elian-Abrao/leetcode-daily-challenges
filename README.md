@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 212
+Total de questoes resolvidas: 213
 
 ### Easy
+
+- [#66 Plus One](https://leetcode.com/problems/plus-one/)
+  - Question ID: 66
+  - Arquivo: `problems/easy/66_plus-one.py`
+  - Resolvido em: 16:00 - 12/04/26
 
 - [#392 Is Subsequence](https://leetcode.com/problems/is-subsequence/)
   - Question ID: 392
