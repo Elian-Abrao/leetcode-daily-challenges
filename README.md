@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 210
+Total de questoes resolvidas: 211
 
 ### Easy
 
@@ -263,6 +263,11 @@ Total de questoes resolvidas: 210
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#450 Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
+  - Question ID: 450
+  - Arquivo: `problems/medium/450_delete-node-in-a-bst.py`
+  - Resolvido em: 12:01 - 12/04/26
 
 - [#650 2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)
   - Question ID: 650
