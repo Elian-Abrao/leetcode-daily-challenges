@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 214
+Total de questoes resolvidas: 215
 
 ### Easy
 
@@ -720,6 +720,11 @@ Total de questoes resolvidas: 214
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#918 Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
+  - Question ID: 918
+  - Arquivo: `problems/hard/882_reachable-nodes-in-subdivided-graph.py`
+  - Resolvido em: 19:31 - 12/04/26
 
 - [#1924 Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/)
   - Question ID: 1924
