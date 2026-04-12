@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 213
+Total de questoes resolvidas: 214
 
 ### Easy
 
@@ -720,6 +720,11 @@ Total de questoes resolvidas: 213
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1924 Maximum Number of Groups Getting Fresh Donuts](https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/)
+  - Question ID: 1924
+  - Arquivo: `problems/hard/1815_maximum-number-of-groups-getting-fresh-donuts.py`
+  - Resolvido em: 18:01 - 12/04/26
 
 - [#458 Poor Pigs](https://leetcode.com/problems/poor-pigs/)
   - Question ID: 458
