@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 218
+Total de questoes resolvidas: 219
 
 ### Easy
 
@@ -273,6 +273,11 @@ Total de questoes resolvidas: 218
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#211 Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+  - Question ID: 211
+  - Arquivo: `problems/medium/211_design-add-and-search-words-data-structure.py`
+  - Resolvido em: 17:04 - 13/04/26
 
 - [#77 Combinations](https://leetcode.com/problems/combinations/)
   - Question ID: 77
