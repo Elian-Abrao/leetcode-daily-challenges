@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 217
+Total de questoes resolvidas: 218
 
 ### Easy
 
@@ -273,6 +273,11 @@ Total de questoes resolvidas: 217
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#77 Combinations](https://leetcode.com/problems/combinations/)
+  - Question ID: 77
+  - Arquivo: `problems/medium/77_combinations.py`
+  - Resolvido em: 15:30 - 13/04/26
 
 - [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
   - Question ID: 147
