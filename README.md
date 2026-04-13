@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 216
+Total de questoes resolvidas: 217
 
 ### Easy
 
@@ -273,6 +273,11 @@ Total de questoes resolvidas: 216
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#147 Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)
+  - Question ID: 147
+  - Arquivo: `problems/medium/147_insertion-sort-list.py`
+  - Resolvido em: 13:30 - 13/04/26
 
 - [#450 Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)
   - Question ID: 450
