@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 219
+Total de questoes resolvidas: 220
 
 ### Easy
+
+- [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - Question ID: 383
+  - Arquivo: `problems/easy/383_ransom-note.py`
+  - Resolvido em: 14:04 - 14/04/26
 
 - [#459 Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
   - Question ID: 459
