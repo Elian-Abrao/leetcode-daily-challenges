@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 220
+Total de questoes resolvidas: 221
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 220
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
+  - Question ID: 45
+  - Arquivo: `problems/medium/45_jump-game-ii.py`
+  - Resolvido em: 16:30 - 14/04/26
 
 - [#211 Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
   - Question ID: 211
