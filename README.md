@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 221
+Total de questoes resolvidas: 222
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 221
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+  - Question ID: 102
+  - Arquivo: `problems/medium/102_binary-tree-level-order-traversal.py`
+  - Resolvido em: 21:00 - 14/04/26
 
 - [#45 Jump Game II](https://leetcode.com/problems/jump-game-ii/)
   - Question ID: 45
