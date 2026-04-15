@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 223
+Total de questoes resolvidas: 224
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 223
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#184 Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+  - Question ID: 184
+  - Arquivo: `problems/medium/184_department-highest-salary.py`
+  - Resolvido em: 16:01 - 15/04/26
 
 - [#468 Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
   - Question ID: 468
