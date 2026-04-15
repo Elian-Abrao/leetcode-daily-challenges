@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 224
+Total de questoes resolvidas: 225
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 224
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#378 Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+  - Question ID: 378
+  - Arquivo: `problems/medium/378_kth-smallest-element-in-a-sorted-matrix.py`
+  - Resolvido em: 19:00 - 15/04/26
 
 - [#184 Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
   - Question ID: 184
