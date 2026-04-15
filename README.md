@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 222
+Total de questoes resolvidas: 223
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 222
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#468 Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+  - Question ID: 468
+  - Arquivo: `problems/medium/468_validate-ip-address.py`
+  - Resolvido em: 12:03 - 15/04/26
 
 - [#102 Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
   - Question ID: 102
