@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 226
+Total de questoes resolvidas: 227
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 226
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#474 Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+  - Question ID: 474
+  - Arquivo: `problems/medium/474_ones-and-zeroes.py`
+  - Resolvido em: 15:01 - 16/04/26
 
 - [#442 Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
   - Question ID: 442
