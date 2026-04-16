@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 225
+Total de questoes resolvidas: 226
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 225
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#442 Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+  - Question ID: 442
+  - Arquivo: `problems/medium/442_find-all-duplicates-in-an-array.py`
+  - Resolvido em: 12:30 - 16/04/26
 
 - [#378 Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
   - Question ID: 378
