@@ -12,6 +12,11 @@ Total de questoes resolvidas: 229
 
 ### Easy
 
+- [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+  - Question ID: 125
+  - Arquivo: `problems/easy/125_valid-palindrome.py`
+  - Resolvido em: 18:30 - 17/04/26
+
 - [#383 Ransom Note](https://leetcode.com/problems/ransom-note/)
   - Question ID: 383
   - Arquivo: `problems/easy/383_ransom-note.py`
@@ -221,11 +226,6 @@ Total de questoes resolvidas: 229
   - Question ID: 257
   - Arquivo: `problems/easy/257_binary-tree-paths.py`
   - Resolvido em: 14:53 - 20/02/26
-
-- [#125 Palindrome](https://leetcode.com/problems/valid-palindrome/)
-  - Question ID: 125
-  - Arquivo: `problems/easy/125_valid-palindrome.py`
-  - Resolvido em: 21:54 - 19/02/26
 
 - [#1668 Substring](https://leetcode.com/problems/maximum-repeating-substring/)
   - Question ID: 1668
