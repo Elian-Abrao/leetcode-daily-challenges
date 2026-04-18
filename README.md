@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 232
+Total de questoes resolvidas: 233
 
 ### Easy
 
@@ -800,6 +800,11 @@ Total de questoes resolvidas: 232
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#754 Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
+  - Question ID: 754
+  - Arquivo: `problems/hard/753_cracking-the-safe.py`
+  - Resolvido em: 19:31 - 18/04/26
 
 - [#2301 Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)
   - Question ID: 2301
