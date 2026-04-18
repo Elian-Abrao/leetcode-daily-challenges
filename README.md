@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 229
+Total de questoes resolvidas: 230
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 229
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+  - Question ID: 299
+  - Arquivo: `problems/medium/299_bulls-and-cows.py`
+  - Resolvido em: 11:00 - 18/04/26
 
 - [#384 Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)
   - Question ID: 384
