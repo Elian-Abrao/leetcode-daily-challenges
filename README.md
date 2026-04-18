@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 233
+Total de questoes resolvidas: 234
 
 ### Easy
 
@@ -800,6 +800,11 @@ Total de questoes resolvidas: 233
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#432 All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
+  - Question ID: 432
+  - Arquivo: `problems/hard/432_all-oone-data-structure.py`
+  - Resolvido em: 22:31 - 18/04/26
 
 - [#754 Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/)
   - Question ID: 754
