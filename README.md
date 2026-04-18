@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 231
+Total de questoes resolvidas: 232
 
 ### Easy
 
@@ -800,6 +800,11 @@ Total de questoes resolvidas: 231
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2301 Count Array Pairs Divisible by K](https://leetcode.com/problems/count-array-pairs-divisible-by-k/)
+  - Question ID: 2301
+  - Arquivo: `problems/hard/2183_count-array-pairs-divisible-by-k.py`
+  - Resolvido em: 17:30 - 18/04/26
 
 - [#918 Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/)
   - Question ID: 918
