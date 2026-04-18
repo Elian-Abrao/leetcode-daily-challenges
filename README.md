@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 230
+Total de questoes resolvidas: 231
 
 ### Easy
 
@@ -278,6 +278,11 @@ Total de questoes resolvidas: 230
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#886 Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
+  - Question ID: 886
+  - Arquivo: `problems/medium/856_score-of-parentheses.py`
+  - Resolvido em: 14:30 - 18/04/26
 
 - [#299 Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
   - Question ID: 299
