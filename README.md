@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 238
+Total de questoes resolvidas: 239
 
 ### Easy
 
@@ -815,6 +815,11 @@ Total de questoes resolvidas: 238
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#630 Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
+  - Question ID: 630
+  - Arquivo: `problems/hard/630_course-schedule-iii.py`
+  - Resolvido em: 19:30 - 19/04/26
 
 - [#1587 Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)
   - Question ID: 1587
