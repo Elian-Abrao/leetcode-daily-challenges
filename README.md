@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 237
+Total de questoes resolvidas: 238
 
 ### Easy
 
@@ -815,6 +815,11 @@ Total de questoes resolvidas: 237
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1587 Parallel Courses II](https://leetcode.com/problems/parallel-courses-ii/)
+  - Question ID: 1587
+  - Arquivo: `problems/hard/1494_parallel-courses-ii.py`
+  - Resolvido em: 18:04 - 19/04/26
 
 - [#432 All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/)
   - Question ID: 432
