@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 239
+Total de questoes resolvidas: 240
 
 ### Easy
+
+- [#205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
+  - Question ID: 205
+  - Arquivo: `problems/easy/205_isomorphic-strings.py`
+  - Resolvido em: 21:00 - 19/04/26
 
 - [#28 Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
   - Question ID: 28
