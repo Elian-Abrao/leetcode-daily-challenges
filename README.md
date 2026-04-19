@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 236
+Total de questoes resolvidas: 237
 
 ### Easy
 
@@ -288,6 +288,11 @@ Total de questoes resolvidas: 236
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#55 Jump Game](https://leetcode.com/problems/jump-game/)
+  - Question ID: 55
+  - Arquivo: `problems/medium/55_jump-game.py`
+  - Resolvido em: 16:01 - 19/04/26
 
 - [#886 Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)
   - Question ID: 886
