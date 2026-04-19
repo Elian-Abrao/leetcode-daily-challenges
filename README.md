@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 235
+Total de questoes resolvidas: 236
 
 ### Easy
+
+- [#28 Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+  - Question ID: 28
+  - Arquivo: `problems/easy/28_find-the-index-of-the-first-occurrence-in-a-string.py`
+  - Resolvido em: 13:34 - 19/04/26
 
 - [#83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   - Question ID: 83
