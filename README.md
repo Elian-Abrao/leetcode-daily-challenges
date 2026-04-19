@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 234
+Total de questoes resolvidas: 235
 
 ### Easy
+
+- [#83 Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+  - Question ID: 83
+  - Arquivo: `problems/easy/83_remove-duplicates-from-sorted-list.py`
+  - Resolvido em: 12:04 - 19/04/26
 
 - [#125 Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
   - Question ID: 125
