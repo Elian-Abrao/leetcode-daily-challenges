@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 241
+Total de questoes resolvidas: 242
 
 ### Easy
 
@@ -825,6 +825,11 @@ Total de questoes resolvidas: 241
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#410 Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+  - Question ID: 410
+  - Arquivo: `problems/hard/410_split-array-largest-sum.py`
+  - Resolvido em: 15:30 - 20/04/26
 
 - [#630 Course Schedule III](https://leetcode.com/problems/course-schedule-iii/)
   - Question ID: 630
