@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 240
+Total de questoes resolvidas: 241
 
 ### Easy
 
@@ -293,6 +293,11 @@ Total de questoes resolvidas: 240
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#134 Gas Station](https://leetcode.com/problems/gas-station/)
+  - Question ID: 134
+  - Arquivo: `problems/medium/134_gas-station.py`
+  - Resolvido em: 13:34 - 20/04/26
 
 - [#55 Jump Game](https://leetcode.com/problems/jump-game/)
   - Question ID: 55
