@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 242
+Total de questoes resolvidas: 243
 
 ### Easy
 
@@ -293,6 +293,11 @@ Total de questoes resolvidas: 242
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#324 Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+  - Question ID: 324
+  - Arquivo: `problems/medium/324_wiggle-sort-ii.py`
+  - Resolvido em: 16:31 - 21/04/26
 
 - [#134 Gas Station](https://leetcode.com/problems/gas-station/)
   - Question ID: 134
