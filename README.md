@@ -12,6 +12,11 @@ Total de questoes resolvidas: 242
 
 ### Easy
 
+- [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+  - Question ID: 118
+  - Arquivo: `problems/easy/118_pascals-triangle.py`
+  - Resolvido em: 14:00 - 21/04/26
+
 - [#205 Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
   - Question ID: 205
   - Arquivo: `problems/easy/205_isomorphic-strings.py`
@@ -275,11 +280,6 @@ Total de questoes resolvidas: 242
 - [#121 Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
   - Arquivo: `problems/easy/0121_best-time-to-buy-and-sell-stock.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#118 Triangle](https://leetcode.com/problems/pascals-triangle/)
-  - Question ID: 118
-  - Arquivo: `problems/easy/0118_pascals-triangle.py`
   - Resolvido em: 14:36 - 19/02/26
 
 - [#101 Tree](https://leetcode.com/problems/symmetric-tree/)
