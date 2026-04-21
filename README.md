@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 243
+Total de questoes resolvidas: 244
 
 ### Easy
+
+- [#344 Reverse String](https://leetcode.com/problems/reverse-string/)
+  - Question ID: 344
+  - Arquivo: `problems/easy/344_reverse-string.py`
+  - Resolvido em: 21:00 - 21/04/26
 
 - [#118 Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
   - Question ID: 118
