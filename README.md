@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 244
+Total de questoes resolvidas: 245
 
 ### Easy
 
@@ -835,6 +835,11 @@ Total de questoes resolvidas: 244
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#282 Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)
+  - Question ID: 282
+  - Arquivo: `problems/hard/282_expression-add-operators.py`
+  - Resolvido em: 12:00 - 22/04/26
 
 - [#410 Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
   - Question ID: 410
