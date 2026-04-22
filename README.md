@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 245
+Total de questoes resolvidas: 246
 
 ### Easy
+
+- [#169 Majority Element](https://leetcode.com/problems/majority-element/)
+  - Question ID: 169
+  - Arquivo: `problems/easy/169_majority-element.py`
+  - Resolvido em: 16:00 - 22/04/26
 
 - [#344 Reverse String](https://leetcode.com/problems/reverse-string/)
   - Question ID: 344
