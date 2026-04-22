@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 246
+Total de questoes resolvidas: 247
 
 ### Easy
+
+- [#111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+  - Question ID: 111
+  - Arquivo: `problems/easy/111_minimum-depth-of-binary-tree.py`
+  - Resolvido em: 19:00 - 22/04/26
 
 - [#169 Majority Element](https://leetcode.com/problems/majority-element/)
   - Question ID: 169
