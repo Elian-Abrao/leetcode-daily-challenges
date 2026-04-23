@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 249
+Total de questoes resolvidas: 250
 
 ### Easy
 
@@ -850,6 +850,11 @@ Total de questoes resolvidas: 249
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
+  - Question ID: 354
+  - Arquivo: `problems/hard/354_russian-doll-envelopes.py`
+  - Resolvido em: 18:00 - 23/04/26
 
 - [#312 Burst Balloons](https://leetcode.com/problems/burst-balloons/)
   - Question ID: 312
