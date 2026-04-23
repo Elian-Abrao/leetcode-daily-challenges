@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 247
+Total de questoes resolvidas: 248
 
 ### Easy
+
+- [#405 Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
+  - Question ID: 405
+  - Arquivo: `problems/easy/405_convert-a-number-to-hexadecimal.py`
+  - Resolvido em: 12:30 - 23/04/26
 
 - [#111 Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
   - Question ID: 111
