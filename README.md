@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 252
+Total de questoes resolvidas: 253
 
 ### Easy
+
+- [#67 Add Binary](https://leetcode.com/problems/add-binary/)
+  - Question ID: 67
+  - Arquivo: `problems/easy/67_add-binary.py`
+  - Resolvido em: 21:08 - 24/04/26
 
 - [#405 Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)
   - Question ID: 405
