@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 251
+Total de questoes resolvidas: 252
 
 ### Easy
 
@@ -855,6 +855,11 @@ Total de questoes resolvidas: 251
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1037 Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
+  - Question ID: 1037
+  - Arquivo: `problems/hard/995_minimum-number-of-k-consecutive-bit-flips.py`
+  - Resolvido em: 15:30 - 24/04/26
 
 - [#354 Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
   - Question ID: 354
