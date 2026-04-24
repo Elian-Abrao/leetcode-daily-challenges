@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 250
+Total de questoes resolvidas: 251
 
 ### Easy
 
@@ -313,6 +313,11 @@ Total de questoes resolvidas: 250
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#481 Magical String](https://leetcode.com/problems/magical-string/)
+  - Question ID: 481
+  - Arquivo: `problems/medium/481_magical-string.py`
+  - Resolvido em: 13:04 - 24/04/26
 
 - [#324 Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
   - Question ID: 324
