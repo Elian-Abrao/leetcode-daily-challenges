@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 255
+Total de questoes resolvidas: 256
 
 ### Easy
 
@@ -865,6 +865,11 @@ Total de questoes resolvidas: 255
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2295 Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/)
+  - Question ID: 2295
+  - Arquivo: `problems/hard/2188_minimum-time-to-finish-the-race.py`
+  - Resolvido em: 17:30 - 25/04/26
 
 - [#483 Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)
   - Question ID: 483
