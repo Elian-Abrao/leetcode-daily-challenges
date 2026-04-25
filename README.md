@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 254
+Total de questoes resolvidas: 255
 
 ### Easy
 
@@ -318,6 +318,11 @@ Total de questoes resolvidas: 254
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#229 Majority Element II](https://leetcode.com/problems/majority-element-ii/)
+  - Question ID: 229
+  - Arquivo: `problems/medium/229_majority-element-ii.py`
+  - Resolvido em: 14:33 - 25/04/26
 
 - [#481 Magical String](https://leetcode.com/problems/magical-string/)
   - Question ID: 481
