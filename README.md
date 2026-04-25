@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 253
+Total de questoes resolvidas: 254
 
 ### Easy
 
@@ -860,6 +860,11 @@ Total de questoes resolvidas: 253
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#483 Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)
+  - Question ID: 483
+  - Arquivo: `problems/hard/483_smallest-good-base.py`
+  - Resolvido em: 11:00 - 25/04/26
 
 - [#1037 Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/)
   - Question ID: 1037
