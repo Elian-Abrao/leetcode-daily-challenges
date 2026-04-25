@@ -866,6 +866,11 @@ Total de questoes resolvidas: 256
 
 ### Hard
 
+- [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
+  - Question ID: 460
+  - Arquivo: `problems/hard/460_lfu-cache.py`
+  - Resolvido em: 19:33 - 25/04/26
+
 - [#2295 Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/)
   - Question ID: 2295
   - Arquivo: `problems/hard/2188_minimum-time-to-finish-the-race.py`
@@ -1290,8 +1295,3 @@ Total de questoes resolvidas: 256
   - Question ID: 220
   - Arquivo: `problems/hard/220_contains-duplicate-iii.py`
   - Resolvido em: 18:54 - 20/02/26
-
-- [#460 Cache](https://leetcode.com/problems/lfu-cache/)
-  - Question ID: 460
-  - Arquivo: `problems/hard/0460_lfu-cache.py`
-  - Resolvido em: 14:36 - 19/02/26
