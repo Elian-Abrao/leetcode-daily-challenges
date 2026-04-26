@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 257
+Total de questoes resolvidas: 258
 
 ### Easy
+
+- [#110 Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+  - Question ID: 110
+  - Arquivo: `problems/easy/110_balanced-binary-tree.py`
+  - Resolvido em: 13:30 - 26/04/26
 
 - [#67 Add Binary](https://leetcode.com/problems/add-binary/)
   - Question ID: 67
