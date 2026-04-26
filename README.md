@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 256
+Total de questoes resolvidas: 257
 
 ### Easy
 
@@ -865,6 +865,11 @@ Total de questoes resolvidas: 256
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#188 Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
+  - Question ID: 188
+  - Arquivo: `problems/hard/188_best-time-to-buy-and-sell-stock-iv.py`
+  - Resolvido em: 12:03 - 26/04/26
 
 - [#460 LFU Cache](https://leetcode.com/problems/lfu-cache/)
   - Question ID: 460
