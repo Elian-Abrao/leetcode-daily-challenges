@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 258
+Total de questoes resolvidas: 259
 
 ### Easy
 
@@ -870,6 +870,11 @@ Total de questoes resolvidas: 258
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1723 Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
+  - Question ID: 1723
+  - Arquivo: `problems/hard/1601_maximum-number-of-achievable-transfer-requests.py`
+  - Resolvido em: 19:33 - 26/04/26
 
 - [#188 Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
   - Question ID: 188
