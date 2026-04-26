@@ -12,6 +12,11 @@ Total de questoes resolvidas: 258
 
 ### Easy
 
+- [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
+  - Question ID: 338
+  - Arquivo: `problems/easy/338_counting-bits.py`
+  - Resolvido em: 16:00 - 26/04/26
+
 - [#110 Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
   - Question ID: 110
   - Arquivo: `problems/easy/110_balanced-binary-tree.py`
@@ -300,11 +305,6 @@ Total de questoes resolvidas: 258
 - [#509 Number](https://leetcode.com/problems/fibonacci-number/)
   - Question ID: 509
   - Arquivo: `problems/easy/0509_fibonacci-number.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#338 Bits](https://leetcode.com/problems/counting-bits/)
-  - Question ID: 338
-  - Arquivo: `problems/easy/0338_counting-bits.py`
   - Resolvido em: 14:36 - 19/02/26
 
 - [#121 Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
