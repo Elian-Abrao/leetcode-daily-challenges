@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 259
+Total de questoes resolvidas: 260
 
 ### Easy
 
@@ -323,6 +323,11 @@ Total de questoes resolvidas: 259
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+  - Question ID: 165
+  - Arquivo: `problems/medium/165_compare-version-numbers.py`
+  - Resolvido em: 21:00 - 26/04/26
 
 - [#229 Majority Element II](https://leetcode.com/problems/majority-element-ii/)
   - Question ID: 229
