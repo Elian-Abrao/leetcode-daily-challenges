@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 262
+Total de questoes resolvidas: 263
 
 ### Easy
+
+- [#415 Add Strings](https://leetcode.com/problems/add-strings/)
+  - Question ID: 415
+  - Arquivo: `problems/easy/415_add-strings.py`
+  - Resolvido em: 17:00 - 27/04/26
 
 - [#338 Counting Bits](https://leetcode.com/problems/counting-bits/)
   - Question ID: 338
