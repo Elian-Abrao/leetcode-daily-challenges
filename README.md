@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 260
+Total de questoes resolvidas: 261
 
 ### Easy
 
@@ -875,6 +875,11 @@ Total de questoes resolvidas: 260
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#32 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
+  - Question ID: 32
+  - Arquivo: `problems/hard/32_longest-valid-parentheses.py`
+  - Resolvido em: 13:33 - 27/04/26
 
 - [#1723 Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
   - Question ID: 1723
