@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 261
+Total de questoes resolvidas: 262
 
 ### Easy
 
@@ -323,6 +323,11 @@ Total de questoes resolvidas: 261
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#433 Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
+  - Question ID: 433
+  - Arquivo: `problems/medium/433_minimum-genetic-mutation.py`
+  - Resolvido em: 15:30 - 27/04/26
 
 - [#165 Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
   - Question ID: 165
