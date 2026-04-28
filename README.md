@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 263
+Total de questoes resolvidas: 264
 
 ### Easy
 
@@ -328,6 +328,11 @@ Total de questoes resolvidas: 263
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+  - Question ID: 22
+  - Arquivo: `problems/medium/22_generate-parentheses.py`
+  - Resolvido em: 14:03 - 28/04/26
 
 - [#433 Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/)
   - Question ID: 433
