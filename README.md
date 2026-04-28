@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 265
+Total de questoes resolvidas: 266
 
 ### Easy
 
@@ -328,6 +328,11 @@ Total de questoes resolvidas: 265
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#307 Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
+  - Question ID: 307
+  - Arquivo: `problems/medium/307_range-sum-query-mutable.py`
+  - Resolvido em: 16:30 - 28/04/26
 
 - [#22 Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
   - Question ID: 22
