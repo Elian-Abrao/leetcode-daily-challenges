@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 264
+Total de questoes resolvidas: 265
 
 ### Easy
 
@@ -890,6 +890,11 @@ Total de questoes resolvidas: 264
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#873 Guess the Word](https://leetcode.com/problems/guess-the-word/)
+  - Question ID: 873
+  - Arquivo: `problems/hard/843_guess-the-word.py`
+  - Resolvido em: 14:13 - 28/04/26
 
 - [#32 Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
   - Question ID: 32
