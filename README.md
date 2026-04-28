@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 266
+Total de questoes resolvidas: 267
 
 ### Easy
 
@@ -328,6 +328,11 @@ Total de questoes resolvidas: 266
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
+  - Question ID: 915
+  - Arquivo: `problems/medium/478_generate-random-point-in-a-circle.py`
+  - Resolvido em: 21:03 - 28/04/26
 
 - [#307 Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)
   - Question ID: 307
