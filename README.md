@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 267
+Total de questoes resolvidas: 268
 
 ### Easy
 
@@ -328,6 +328,11 @@ Total de questoes resolvidas: 267
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#216 Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)
+  - Question ID: 216
+  - Arquivo: `problems/medium/216_combination-sum-iii.py`
+  - Resolvido em: 12:00 - 29/04/26
 
 - [#915 Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)
   - Question ID: 915
