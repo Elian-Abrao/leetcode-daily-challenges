@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 272
+Total de questoes resolvidas: 273
 
 ### Easy
 
@@ -333,6 +333,11 @@ Total de questoes resolvidas: 272
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#122 Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  - Question ID: 122
+  - Arquivo: `problems/medium/122_best-time-to-buy-and-sell-stock-ii.py`
+  - Resolvido em: 18:00 - 30/04/26
 
 - [#96 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
   - Question ID: 96
