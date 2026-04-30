@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 270
+Total de questoes resolvidas: 271
 
 ### Easy
+
+- [#404 Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+  - Question ID: 404
+  - Arquivo: `problems/easy/404_sum-of-left-leaves.py`
+  - Resolvido em: 12:30 - 30/04/26
 
 - [#415 Add Strings](https://leetcode.com/problems/add-strings/)
   - Question ID: 415
