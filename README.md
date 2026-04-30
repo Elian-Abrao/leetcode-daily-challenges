@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 271
+Total de questoes resolvidas: 272
 
 ### Easy
 
@@ -333,6 +333,11 @@ Total de questoes resolvidas: 271
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#96 Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+  - Question ID: 96
+  - Arquivo: `problems/medium/96_unique-binary-search-trees.py`
+  - Resolvido em: 15:00 - 30/04/26
 
 - [#452 Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)
   - Question ID: 452
