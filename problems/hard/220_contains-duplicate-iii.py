@@ -2,34 +2,42 @@ from typing import List
 
 class Solution:
     def containsNearbyAlmostDuplicate(self, nums: List[int], indexDiff: int, valueDiff: int) -> bool:
-        if valueDiff < 0:
+        # Bucket sort approach: group numbers into buckets of size (valueDiff + 1)
+        # If two numbers are in the same bucket, their difference is <= valueDiff
+        # If they're in adjacent buckets, we need to check explicitly
+        
+        # Edge case: if valueDiff is 0 and indexDiff is large enough,
+        # we're looking for exact duplicates within a window
+        if indexDiff <= 0 or valueDiff < 0:
             return False
-        n = len(nums)
-        if n < 2 or indexDiff <= 0:
-            return False
-
-        w = valueDiff + 1  # bucket size
+        
+        # Bucket size: valueDiff + 1 ensures numbers in same bucket differ by <= valueDiff
+        bucket_size = valueDiff + 1
         buckets = {}
-
+        
         for i, num in enumerate(nums):
-            b = num // w
-            # Check current bucket
-            if b in buckets:
+            # Determine which bucket this number belongs to
+            # Use floor division to handle negative numbers correctly
+            bucket_id = num // bucket_size
+            
+            # Check if the same bucket already has a number (within indexDiff window)
+            if bucket_id in buckets:
                 return True
-            # Check neighbor buckets
-            left = b - 1
-            right = b + 1
-            if left in buckets and abs(num - buckets[left]) <= valueDiff:
+            
+            # Check adjacent buckets (left and right)
+            # Numbers in adjacent buckets might differ by <= valueDiff
+            if bucket_id - 1 in buckets and abs(num - buckets[bucket_id - 1]) <= valueDiff:
                 return True
-            if right in buckets and abs(num - buckets[right]) <= valueDiff:
+            if bucket_id + 1 in buckets and abs(num - buckets[bucket_id + 1]) <= valueDiff:
                 return True
-            # Insert current
-            buckets[b] = num
-            # Maintain window of size indexDiff
+            
+            # Add current number to its bucket
+            buckets[bucket_id] = num
+            
+            # Maintain sliding window: remove the element that's now outside indexDiff range
             if i >= indexDiff:
-                old = nums[i - indexDiff]
-                old_b = old // w
-                # Remove the old bucket entry
-                if old_b in buckets:
-                    del buckets[old_b]
+                old_num = nums[i - indexDiff]
+                old_bucket_id = old_num // bucket_size
+                del buckets[old_bucket_id]
+        
         return False

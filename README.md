@@ -926,6 +926,11 @@ Total de questoes resolvidas: 273
 
 ### Hard
 
+- [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+  - Question ID: 220
+  - Arquivo: `problems/hard/220_contains-duplicate-iii.py`
+  - Resolvido em: 13:02 - 01/05/26
+
 - [#295 Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
   - Question ID: 295
   - Arquivo: `problems/hard/295_find-median-from-data-stream.py`
@@ -1375,8 +1380,3 @@ Total de questoes resolvidas: 273
   - Question ID: 273
   - Arquivo: `problems/hard/273_integer-to-english-words.py`
   - Resolvido em: 19:02 - 20/02/26
-
-- [#220 III](https://leetcode.com/problems/contains-duplicate-iii/)
-  - Question ID: 220
-  - Arquivo: `problems/hard/220_contains-duplicate-iii.py`
-  - Resolvido em: 18:54 - 20/02/26
