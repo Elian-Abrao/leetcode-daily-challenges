@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 273
+Total de questoes resolvidas: 274
 
 ### Easy
+
+- [#160 Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+  - Question ID: 160
+  - Arquivo: `problems/easy/160_intersection-of-two-linked-lists.py`
+  - Resolvido em: 18:30 - 01/05/26
 
 - [#404 Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
   - Question ID: 404
