@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 275
+Total de questoes resolvidas: 276
 
 ### Easy
 
@@ -935,6 +935,11 @@ Total de questoes resolvidas: 275
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#2162 Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+  - Question ID: 2162
+  - Arquivo: `problems/hard/2035_partition-array-into-two-arrays-to-minimize-sum-difference.py`
+  - Resolvido em: 17:33 - 02/05/26
 
 - [#220 Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
   - Question ID: 220
