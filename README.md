@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 276
+Total de questoes resolvidas: 277
 
 ### Easy
 
@@ -935,6 +935,11 @@ Total de questoes resolvidas: 276
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#763 Special Binary String](https://leetcode.com/problems/special-binary-string/)
+  - Question ID: 763
+  - Arquivo: `problems/hard/761_special-binary-string.py`
+  - Resolvido em: 22:33 - 02/05/26
 
 - [#2162 Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
   - Question ID: 2162
