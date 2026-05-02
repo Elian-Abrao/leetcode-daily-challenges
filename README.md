@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 274
+Total de questoes resolvidas: 275
 
 ### Easy
+
+- [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - Question ID: 283
+  - Arquivo: `problems/easy/283_move-zeroes.py`
+  - Resolvido em: 11:03 - 02/05/26
 
 - [#160 Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
   - Question ID: 160
