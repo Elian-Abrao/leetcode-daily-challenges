@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 277
+Total de questoes resolvidas: 278
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 277
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
+  - Question ID: 318
+  - Arquivo: `problems/medium/318_maximum-product-of-word-lengths.py`
+  - Resolvido em: 12:00 - 03/05/26
 
 - [#122 Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
   - Question ID: 122
