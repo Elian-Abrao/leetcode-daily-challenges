@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 278
+Total de questoes resolvidas: 279
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 278
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - Question ID: 53
+  - Arquivo: `problems/medium/53_maximum-subarray.py`
+  - Resolvido em: 13:30 - 03/05/26
 
 - [#318 Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)
   - Question ID: 318
