@@ -344,6 +344,11 @@ Total de questoes resolvidas: 280
 
 ### Medium
 
+- [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+  - Question ID: 331
+  - Arquivo: `problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py`
+  - Resolvido em: 21:00 - 03/05/26
+
 - [#53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
   - Question ID: 53
   - Arquivo: `problems/medium/53_maximum-subarray.py`
@@ -893,11 +898,6 @@ Total de questoes resolvidas: 280
   - Question ID: 395
   - Arquivo: `problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py`
   - Resolvido em: 19:07 - 20/02/26
-
-- [#331 Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
-  - Question ID: 331
-  - Arquivo: `problems/medium/331_verify-preorder-serialization-of-a-binary-tree.py`
-  - Resolvido em: 19:06 - 20/02/26
 
 - [#74 Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   - Question ID: 74
