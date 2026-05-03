@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 279
+Total de questoes resolvidas: 280
 
 ### Easy
 
@@ -945,6 +945,11 @@ Total de questoes resolvidas: 279
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#127 Word Ladder](https://leetcode.com/problems/word-ladder/)
+  - Question ID: 127
+  - Arquivo: `problems/hard/127_word-ladder.py`
+  - Resolvido em: 18:03 - 03/05/26
 
 - [#763 Special Binary String](https://leetcode.com/problems/special-binary-string/)
   - Question ID: 763
