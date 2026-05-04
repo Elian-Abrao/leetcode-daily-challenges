@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 280
+Total de questoes resolvidas: 281
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 280
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+  - Question ID: 36
+  - Arquivo: `problems/medium/36_valid-sudoku.py`
+  - Resolvido em: 13:30 - 04/05/26
 
 - [#331 Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/)
   - Question ID: 331
