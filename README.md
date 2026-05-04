@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 282
+Total de questoes resolvidas: 283
 
 ### Easy
 
@@ -955,6 +955,11 @@ Total de questoes resolvidas: 282
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+  - Question ID: 4
+  - Arquivo: `problems/hard/4_median-of-two-sorted-arrays.py`
+  - Resolvido em: 17:01 - 04/05/26
 
 - [#127 Word Ladder](https://leetcode.com/problems/word-ladder/)
   - Question ID: 127
