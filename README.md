@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 281
+Total de questoes resolvidas: 282
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 281
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#89 Gray Code](https://leetcode.com/problems/gray-code/)
+  - Question ID: 89
+  - Arquivo: `problems/medium/89_gray-code.py`
+  - Resolvido em: 15:30 - 04/05/26
 
 - [#36 Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
   - Question ID: 36
