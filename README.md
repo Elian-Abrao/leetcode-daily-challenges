@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 284
+Total de questoes resolvidas: 285
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 284
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+  - Question ID: 11
+  - Arquivo: `problems/medium/11_container-with-most-water.py`
+  - Resolvido em: 21:00 - 05/05/26
 
 - [#39 Combination Sum](https://leetcode.com/problems/combination-sum/)
   - Question ID: 39
