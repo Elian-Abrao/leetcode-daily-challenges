@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 283
+Total de questoes resolvidas: 284
 
 ### Easy
 
@@ -955,6 +955,11 @@ Total de questoes resolvidas: 283
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#403 Frog Jump](https://leetcode.com/problems/frog-jump/)
+  - Question ID: 403
+  - Arquivo: `problems/hard/403_frog-jump.py`
+  - Resolvido em: 14:10 - 05/05/26
 
 - [#4 Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
   - Question ID: 4
