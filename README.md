@@ -344,6 +344,11 @@ Total de questoes resolvidas: 284
 
 ### Medium
 
+- [#39 Combination Sum](https://leetcode.com/problems/combination-sum/)
+  - Question ID: 39
+  - Arquivo: `problems/medium/39_combination-sum.py`
+  - Resolvido em: 16:30 - 05/05/26
+
 - [#89 Gray Code](https://leetcode.com/problems/gray-code/)
   - Question ID: 89
   - Arquivo: `problems/medium/89_gray-code.py`
@@ -938,11 +943,6 @@ Total de questoes resolvidas: 284
   - Question ID: 61
   - Arquivo: `problems/medium/61_rotate-list.py`
   - Resolvido em: 14:59 - 20/02/26
-
-- [#39 Sum](https://leetcode.com/problems/combination-sum/)
-  - Question ID: 39
-  - Arquivo: `problems/medium/39_combination-sum.py`
-  - Resolvido em: 14:57 - 20/02/26
 
 - [#148 List](https://leetcode.com/problems/sort-list/)
   - Question ID: 148
