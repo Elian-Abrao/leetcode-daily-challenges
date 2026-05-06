@@ -344,6 +344,11 @@ Total de questoes resolvidas: 286
 
 ### Medium
 
+- [#15 3Sum](https://leetcode.com/problems/3sum/)
+  - Question ID: 15
+  - Arquivo: `problems/medium/15_3sum.py`
+  - Resolvido em: 16:01 - 06/05/26
+
 - [#313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
   - Question ID: 313
   - Arquivo: `problems/medium/313_super-ugly-number.py`
@@ -933,11 +938,6 @@ Total de questoes resolvidas: 286
   - Question ID: 2
   - Arquivo: `problems/medium/2_add-two-numbers.py`
   - Resolvido em: 18:46 - 20/02/26
-
-- [#15 3Sum](https://leetcode.com/problems/3sum/)
-  - Question ID: 15
-  - Arquivo: `problems/medium/15_3sum.py`
-  - Resolvido em: 15:03 - 20/02/26
 
 - [#192 Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192
