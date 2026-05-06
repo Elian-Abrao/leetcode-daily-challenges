@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 285
+Total de questoes resolvidas: 286
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 285
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#313 Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)
+  - Question ID: 313
+  - Arquivo: `problems/medium/313_super-ugly-number.py`
+  - Resolvido em: 12:01 - 06/05/26
 
 - [#11 Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
   - Question ID: 11
