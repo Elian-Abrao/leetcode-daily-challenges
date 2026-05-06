@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 286
+Total de questoes resolvidas: 287
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 286
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#207 Course Schedule](https://leetcode.com/problems/course-schedule/)
+  - Question ID: 207
+  - Arquivo: `problems/medium/207_course-schedule.py`
+  - Resolvido em: 19:00 - 06/05/26
 
 - [#15 3Sum](https://leetcode.com/problems/3sum/)
   - Question ID: 15
