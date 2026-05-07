@@ -12,6 +12,11 @@ Total de questoes resolvidas: 288
 
 ### Easy
 
+- [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+  - Question ID: 225
+  - Arquivo: `problems/easy/225_implement-stack-using-queues.py`
+  - Resolvido em: 15:03 - 07/05/26
+
 - [#283 Move Zeroes](https://leetcode.com/problems/move-zeroes/)
   - Question ID: 283
   - Arquivo: `problems/easy/283_move-zeroes.py`
@@ -286,11 +291,6 @@ Total de questoes resolvidas: 288
   - Question ID: 14
   - Arquivo: `problems/easy/14_longest-common-prefix.py`
   - Resolvido em: 19:00 - 20/02/26
-
-- [#225 Queues](https://leetcode.com/problems/implement-stack-using-queues/)
-  - Question ID: 225
-  - Arquivo: `problems/easy/225_implement-stack-using-queues.py`
-  - Resolvido em: 15:02 - 20/02/26
 
 - [#136 Number](https://leetcode.com/problems/single-number/)
   - Question ID: 136

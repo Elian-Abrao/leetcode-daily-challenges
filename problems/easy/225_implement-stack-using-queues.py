@@ -1,25 +1,32 @@
 from collections import deque
 
 class MyStack:
+
     def __init__(self):
-        self.q1 = deque()
-        self.q2 = deque()
+        # Use a single queue to simulate stack behavior
+        # We'll rotate elements during push to maintain LIFO order
+        self.queue = deque()
 
     def push(self, x: int) -> None:
-        # enqueue new element to q2, then pour all from q1 to q2, swap
-        self.q2.append(x)
-        while self.q1:
-            self.q2.append(self.q1.popleft())
-        self.q1, self.q2 = self.q2, self.q1
+        # Add the new element to the back of the queue
+        self.queue.append(x)
+        
+        # Rotate all elements that were added before this one
+        # This ensures the newest element ends up at the front
+        # After rotation, the queue front acts as the stack top
+        for _ in range(len(self.queue) - 1):
+            self.queue.append(self.queue.popleft())
 
     def pop(self) -> int:
-        return self.q1.popleft()
+        # Since push maintains LIFO order with newest at front,
+        # we can simply pop from the front (standard queue operation)
+        return self.queue.popleft()
 
     def top(self) -> int:
-        return self.q1[0]
+        # Peek at the front element without removing it
+        # This is the most recently pushed element due to our push strategy
+        return self.queue[0]
 
     def empty(self) -> bool:
-        return not self.q1
-
-# Provide a symbol named Solution for the test harness compatibility
-Solution = MyStack
+        # Check if queue has no elements
+        return len(self.queue) == 0
