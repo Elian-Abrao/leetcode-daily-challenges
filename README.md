@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 288
+Total de questoes resolvidas: 289
 
 ### Easy
 
@@ -343,6 +343,11 @@ Total de questoes resolvidas: 288
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#210 Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+  - Question ID: 210
+  - Arquivo: `problems/medium/210_course-schedule-ii.py`
+  - Resolvido em: 18:00 - 07/05/26
 
 - [#396 Rotate Function](https://leetcode.com/problems/rotate-function/)
   - Question ID: 396
