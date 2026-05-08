@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 291
+Total de questoes resolvidas: 292
 
 ### Easy
+
+- [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+  - Question ID: 69
+  - Arquivo: `problems/easy/69_sqrtx.py`
+  - Resolvido em: 18:30 - 08/05/26
 
 - [#225 Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
   - Question ID: 225
