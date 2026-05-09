@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 296
+Total de questoes resolvidas: 297
 
 ### Easy
 
@@ -1000,6 +1000,11 @@ Total de questoes resolvidas: 296
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1122 Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
+  - Question ID: 1122
+  - Arquivo: `problems/hard/1044_longest-duplicate-substring.py`
+  - Resolvido em: 22:33 - 09/05/26
 
 - [#1429 Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/)
   - Question ID: 1429
