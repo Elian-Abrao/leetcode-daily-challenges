@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 295
+Total de questoes resolvidas: 296
 
 ### Easy
 
@@ -1000,6 +1000,11 @@ Total de questoes resolvidas: 295
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#1429 Verbal Arithmetic Puzzle](https://leetcode.com/problems/verbal-arithmetic-puzzle/)
+  - Question ID: 1429
+  - Arquivo: `problems/hard/1307_verbal-arithmetic-puzzle.py`
+  - Resolvido em: 19:34 - 09/05/26
 
 - [#963 Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)
   - Question ID: 963
