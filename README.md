@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 294
+Total de questoes resolvidas: 295
 
 ### Easy
 
@@ -1000,6 +1000,11 @@ Total de questoes resolvidas: 294
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#963 Three Equal Parts](https://leetcode.com/problems/three-equal-parts/)
+  - Question ID: 963
+  - Arquivo: `problems/hard/927_three-equal-parts.py`
+  - Resolvido em: 17:34 - 09/05/26
 
 - [#781 Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/)
   - Question ID: 781
