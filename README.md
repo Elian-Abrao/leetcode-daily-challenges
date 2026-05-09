@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 292
+Total de questoes resolvidas: 293
 
 ### Easy
 
@@ -348,6 +348,11 @@ Total de questoes resolvidas: 292
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#56 Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+  - Question ID: 56
+  - Arquivo: `problems/medium/56_merge-intervals.py`
+  - Resolvido em: 11:00 - 09/05/26
 
 - [#34 Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
   - Question ID: 34
