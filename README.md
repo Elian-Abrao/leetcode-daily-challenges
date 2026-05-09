@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 293
+Total de questoes resolvidas: 294
 
 ### Easy
 
@@ -348,6 +348,11 @@ Total de questoes resolvidas: 293
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#155 Min Stack](https://leetcode.com/problems/min-stack/)
+  - Question ID: 155
+  - Arquivo: `problems/medium/155_min-stack.py`
+  - Resolvido em: 14:31 - 09/05/26
 
 - [#56 Merge Intervals](https://leetcode.com/problems/merge-intervals/)
   - Question ID: 56
