@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 298
+Total de questoes resolvidas: 299
 
 ### Easy
 
@@ -1005,6 +1005,11 @@ Total de questoes resolvidas: 298
   - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
+
+- [#30 Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
+  - Question ID: 30
+  - Arquivo: `problems/hard/30_substring-with-concatenation-of-all-words.py`
+  - Resolvido em: 13:30 - 10/05/26
 
 - [#1122 Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)
   - Question ID: 1122
