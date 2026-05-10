@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 301
+Total de questoes resolvidas: 302
 
 ### Easy
 
@@ -348,6 +348,11 @@ Total de questoes resolvidas: 301
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#436 Find Right Interval](https://leetcode.com/problems/find-right-interval/)
+  - Question ID: 436
+  - Arquivo: `problems/medium/436_find-right-interval.py`
+  - Resolvido em: 21:09 - 10/05/26
 
 - [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
   - Question ID: 328
