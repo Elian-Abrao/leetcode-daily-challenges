@@ -349,6 +349,11 @@ Total de questoes resolvidas: 299
 
 ### Medium
 
+- [#328 Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+  - Question ID: 328
+  - Arquivo: `problems/medium/328_odd-even-linked-list.py`
+  - Resolvido em: 16:00 - 10/05/26
+
 - [#903 Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
   - Question ID: 903
   - Arquivo: `problems/medium/470_implement-rand10-using-rand7.py`
@@ -998,11 +1003,6 @@ Total de questoes resolvidas: 299
   - Question ID: 148
   - Arquivo: `problems/medium/148_sort-list.py`
   - Resolvido em: 14:56 - 20/02/26
-
-- [#328 List](https://leetcode.com/problems/odd-even-linked-list/)
-  - Question ID: 328
-  - Arquivo: `problems/medium/328_odd-even-linked-list.py`
-  - Resolvido em: 14:55 - 20/02/26
 
 ### Hard
 
