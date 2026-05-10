@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 300
+Total de questoes resolvidas: 301
 
 ### Easy
 
@@ -1005,6 +1005,11 @@ Total de questoes resolvidas: 300
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1224 Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
+  - Question ID: 1224
+  - Arquivo: `problems/hard/1289_minimum-falling-path-sum-ii.py`
+  - Resolvido em: 19:30 - 10/05/26
 
 - [#1471 Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)
   - Question ID: 1471
