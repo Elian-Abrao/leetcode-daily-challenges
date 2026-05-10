@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 299
+Total de questoes resolvidas: 300
 
 ### Easy
 
@@ -1005,6 +1005,11 @@ Total de questoes resolvidas: 299
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1471 Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)
+  - Question ID: 1471
+  - Arquivo: `problems/hard/1349_maximum-students-taking-exam.py`
+  - Resolvido em: 18:00 - 10/05/26
 
 - [#30 Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
   - Question ID: 30
