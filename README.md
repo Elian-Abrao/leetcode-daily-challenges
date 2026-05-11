@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 303
+Total de questoes resolvidas: 304
 
 ### Easy
 
@@ -353,6 +353,11 @@ Total de questoes resolvidas: 303
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+  - Question ID: 208
+  - Arquivo: `problems/medium/208_implement-trie-prefix-tree.py`
+  - Resolvido em: 15:33 - 11/05/26
 
 - [#436 Find Right Interval](https://leetcode.com/problems/find-right-interval/)
   - Question ID: 436
