@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 302
+Total de questoes resolvidas: 303
 
 ### Easy
+
+- [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+  - Question ID: 26
+  - Arquivo: `problems/easy/26_remove-duplicates-from-sorted-array.py`
+  - Resolvido em: 13:30 - 11/05/26
 
 - [#69 Sqrt(x)](https://leetcode.com/problems/sqrtx/)
   - Question ID: 69
