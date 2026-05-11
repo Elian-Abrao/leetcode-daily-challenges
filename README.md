@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 304
+Total de questoes resolvidas: 305
 
 ### Easy
 
@@ -353,6 +353,11 @@ Total de questoes resolvidas: 304
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#456 132 Pattern](https://leetcode.com/problems/132-pattern/)
+  - Question ID: 456
+  - Arquivo: `problems/medium/456_132-pattern.py`
+  - Resolvido em: 17:16 - 11/05/26
 
 - [#208 Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
   - Question ID: 208
