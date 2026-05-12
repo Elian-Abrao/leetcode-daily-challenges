@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 306
+Total de questoes resolvidas: 307
 
 ### Easy
 
@@ -353,6 +353,11 @@ Total de questoes resolvidas: 306
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#164 Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+  - Question ID: 164
+  - Arquivo: `problems/medium/164_maximum-gap.py`
+  - Resolvido em: 21:00 - 12/05/26
 
 - [#240 Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
   - Question ID: 240
