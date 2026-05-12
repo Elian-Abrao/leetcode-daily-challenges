@@ -354,6 +354,11 @@ Total de questoes resolvidas: 305
 
 ### Medium
 
+- [#2 Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+  - Question ID: 2
+  - Arquivo: `problems/medium/2_add-two-numbers.py`
+  - Resolvido em: 14:01 - 12/05/26
+
 - [#456 132 Pattern](https://leetcode.com/problems/132-pattern/)
   - Question ID: 456
   - Arquivo: `problems/medium/456_132-pattern.py`
@@ -998,11 +1003,6 @@ Total de questoes resolvidas: 305
   - Question ID: 74
   - Arquivo: `problems/medium/74_search-a-2d-matrix.py`
   - Resolvido em: 19:00 - 20/02/26
-
-- [#2 Numbers](https://leetcode.com/problems/add-two-numbers/)
-  - Question ID: 2
-  - Arquivo: `problems/medium/2_add-two-numbers.py`
-  - Resolvido em: 18:46 - 20/02/26
 
 - [#192 Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192

@@ -1,27 +1,38 @@
 from __future__ import annotations
 from typing import Optional
 
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
 
 class Solution:
-    def addTwoNumbers(self, l1: Optional["ListNode"], l2: Optional["ListNode"]) -> Optional["ListNode"]:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        # Create a dummy head to simplify result list construction
         dummy = ListNode(0)
-        curr = dummy
-        p, q = l1, l2
+        current = dummy
         carry = 0
-        while p or q or carry:
-            x = p.val if p else 0
-            y = q.val if q else 0
-            total = x + y + carry
+        
+        # Traverse both lists simultaneously, handling carry propagation
+        while l1 or l2 or carry:
+            # Get current digit values (0 if list is exhausted)
+            val1 = l1.val if l1 else 0
+            val2 = l2.val if l2 else 0
+            
+            # Compute sum of current digits plus carry from previous position
+            total = val1 + val2 + carry
+            
+            # Extract the digit to store (0-9) and new carry (0 or 1)
             carry = total // 10
-            curr.next = ListNode(total % 10)
-            curr = curr.next
-            if p:
-                p = p.next
-            if q:
-                q = q.next
+            digit = total % 10
+            
+            # Append new node with the computed digit
+            current.next = ListNode(digit)
+            current = current.next
+            
+            # Advance pointers in input lists if they exist
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+        
+        # Return the actual result, skipping the dummy head
         return dummy.next
