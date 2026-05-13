@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 309
+Total de questoes resolvidas: 310
 
 ### Easy
+
+- [#190 Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+  - Question ID: 190
+  - Arquivo: `problems/easy/190_reverse-bits.py`
+  - Resolvido em: 19:03 - 13/05/26
 
 - [#94 Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
   - Question ID: 94
