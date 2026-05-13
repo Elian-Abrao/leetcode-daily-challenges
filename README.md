@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 307
+Total de questoes resolvidas: 308
 
 ### Easy
 
@@ -353,6 +353,11 @@ Total de questoes resolvidas: 307
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - Question ID: 33
+  - Arquivo: `problems/medium/33_search-in-rotated-sorted-array.py`
+  - Resolvido em: 12:00 - 13/05/26
 
 - [#164 Maximum Gap](https://leetcode.com/problems/maximum-gap/)
   - Question ID: 164
