@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 308
+Total de questoes resolvidas: 309
 
 ### Easy
+
+- [#94 Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+  - Question ID: 94
+  - Arquivo: `problems/easy/94_binary-tree-inorder-traversal.py`
+  - Resolvido em: 16:00 - 13/05/26
 
 - [#26 Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
   - Question ID: 26
