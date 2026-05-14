@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 311
+Total de questoes resolvidas: 312
 
 ### Easy
 
@@ -363,6 +363,11 @@ Total de questoes resolvidas: 311
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#394 Decode String](https://leetcode.com/problems/decode-string/)
+  - Question ID: 394
+  - Arquivo: `problems/medium/394_decode-string.py`
+  - Resolvido em: 15:04 - 14/05/26
 
 - [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
   - Question ID: 54
