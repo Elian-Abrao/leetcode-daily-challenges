@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 310
+Total de questoes resolvidas: 311
 
 ### Easy
 
@@ -363,6 +363,11 @@ Total de questoes resolvidas: 310
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#54 Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+  - Question ID: 54
+  - Arquivo: `problems/medium/54_spiral-matrix.py`
+  - Resolvido em: 12:30 - 14/05/26
 
 - [#33 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
   - Question ID: 33
