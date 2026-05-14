@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 312
+Total de questoes resolvidas: 313
 
 ### Easy
+
+- [#448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+  - Question ID: 448
+  - Arquivo: `problems/easy/448_find-all-numbers-disappeared-in-an-array.py`
+  - Resolvido em: 18:00 - 14/05/26
 
 - [#190 Reverse Bits](https://leetcode.com/problems/reverse-bits/)
   - Question ID: 190
