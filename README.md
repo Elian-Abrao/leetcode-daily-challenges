@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 315
+Total de questoes resolvidas: 316
 
 ### Easy
+
+- [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+  - Question ID: 21
+  - Arquivo: `problems/easy/21_merge-two-sorted-lists.py`
+  - Resolvido em: 18:30 - 15/05/26
 
 - [#448 Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
   - Question ID: 448
