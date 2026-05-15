@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 313
+Total de questoes resolvidas: 314
 
 ### Easy
 
@@ -368,6 +368,11 @@ Total de questoes resolvidas: 313
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+  - Question ID: 80
+  - Arquivo: `problems/medium/80_remove-duplicates-from-sorted-array-ii.py`
+  - Resolvido em: 13:00 - 15/05/26
 
 - [#394 Decode String](https://leetcode.com/problems/decode-string/)
   - Question ID: 394
