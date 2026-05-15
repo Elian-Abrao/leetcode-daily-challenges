@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 314
+Total de questoes resolvidas: 315
 
 ### Easy
 
@@ -1070,6 +1070,11 @@ Total de questoes resolvidas: 314
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1826 Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)
+  - Question ID: 1826
+  - Arquivo: `problems/hard/1707_maximum-xor-with-an-element-from-array.py`
+  - Resolvido em: 15:30 - 15/05/26
 
 - [#1224 Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)
   - Question ID: 1224
