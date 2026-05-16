@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 316
+Total de questoes resolvidas: 317
 
 ### Easy
+
+- [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+  - Question ID: 345
+  - Arquivo: `problems/easy/345_reverse-vowels-of-a-string.py`
+  - Resolvido em: 11:00 - 16/05/26
 
 - [#21 Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
   - Question ID: 21
