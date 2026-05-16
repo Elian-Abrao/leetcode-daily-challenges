@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 318
+Total de questoes resolvidas: 319
 
 ### Easy
 
@@ -1085,6 +1085,11 @@ Total de questoes resolvidas: 318
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#2334 Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
+  - Question ID: 2334
+  - Arquivo: `problems/hard/2251_number-of-flowers-in-full-bloom.py`
+  - Resolvido em: 17:33 - 16/05/26
 
 - [#1826 Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)
   - Question ID: 1826
