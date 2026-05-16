@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 320
+Total de questoes resolvidas: 321
 
 ### Easy
 
@@ -1085,6 +1085,11 @@ Total de questoes resolvidas: 320
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1499 Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
+  - Question ID: 1499
+  - Arquivo: `problems/hard/1383_maximum-performance-of-a-team.py`
+  - Resolvido em: 22:30 - 16/05/26
 
 - [#224 Basic Calculator](https://leetcode.com/problems/basic-calculator/)
   - Question ID: 224
