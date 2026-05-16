@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 317
+Total de questoes resolvidas: 318
 
 ### Easy
 
@@ -378,6 +378,11 @@ Total de questoes resolvidas: 317
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#858 Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)
+  - Question ID: 858
+  - Arquivo: `problems/medium/831_masking-personal-information.py`
+  - Resolvido em: 14:30 - 16/05/26
 
 - [#80 Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
   - Question ID: 80
