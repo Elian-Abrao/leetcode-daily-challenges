@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 319
+Total de questoes resolvidas: 320
 
 ### Easy
 
@@ -1085,6 +1085,11 @@ Total de questoes resolvidas: 319
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#224 Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+  - Question ID: 224
+  - Arquivo: `problems/hard/224_basic-calculator.py`
+  - Resolvido em: 19:39 - 16/05/26
 
 - [#2334 Number of Flowers in Full Bloom](https://leetcode.com/problems/number-of-flowers-in-full-bloom/)
   - Question ID: 2334
