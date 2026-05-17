@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 326
+Total de questoes resolvidas: 327
 
 ### Easy
 
@@ -378,6 +378,11 @@ Total de questoes resolvidas: 326
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
+  - Question ID: 29
+  - Arquivo: `problems/medium/29_divide-two-integers.py`
+  - Resolvido em: 21:00 - 17/05/26
 
 - [#355 Design Twitter](https://leetcode.com/problems/design-twitter/)
   - Question ID: 355
