@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 325
+Total de questoes resolvidas: 326
 
 ### Easy
 
@@ -1100,6 +1100,11 @@ Total de questoes resolvidas: 325
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1550 Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)
+  - Question ID: 1550
+  - Arquivo: `problems/hard/1439_find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.py`
+  - Resolvido em: 19:30 - 17/05/26
 
 - [#1437 Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
   - Question ID: 1437
