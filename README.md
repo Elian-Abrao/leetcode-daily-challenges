@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 323
+Total de questoes resolvidas: 324
 
 ### Easy
 
@@ -378,6 +378,11 @@ Total de questoes resolvidas: 323
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#355 Design Twitter](https://leetcode.com/problems/design-twitter/)
+  - Question ID: 355
+  - Arquivo: `problems/medium/355_design-twitter.py`
+  - Resolvido em: 16:00 - 17/05/26
 
 - [#390 Elimination Game](https://leetcode.com/problems/elimination-game/)
   - Question ID: 390
