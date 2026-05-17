@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 322
+Total de questoes resolvidas: 323
 
 ### Easy
 
@@ -378,6 +378,11 @@ Total de questoes resolvidas: 322
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#390 Elimination Game](https://leetcode.com/problems/elimination-game/)
+  - Question ID: 390
+  - Arquivo: `problems/medium/390_elimination-game.py`
+  - Resolvido em: 13:33 - 17/05/26
 
 - [#201 Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
   - Question ID: 201
