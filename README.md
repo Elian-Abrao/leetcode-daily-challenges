@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 321
+Total de questoes resolvidas: 322
 
 ### Easy
 
@@ -378,6 +378,11 @@ Total de questoes resolvidas: 321
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#201 Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+  - Question ID: 201
+  - Arquivo: `problems/medium/201_bitwise-and-of-numbers-range.py`
+  - Resolvido em: 12:03 - 17/05/26
 
 - [#858 Masking Personal Information](https://leetcode.com/problems/masking-personal-information/)
   - Question ID: 858
