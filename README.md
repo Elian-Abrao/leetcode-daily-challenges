@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 324
+Total de questoes resolvidas: 325
 
 ### Easy
 
@@ -1100,6 +1100,11 @@ Total de questoes resolvidas: 324
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1437 Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)
+  - Question ID: 1437
+  - Arquivo: `problems/hard/1312_minimum-insertion-steps-to-make-a-string-palindrome.py`
+  - Resolvido em: 18:00 - 17/05/26
 
 - [#1499 Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team/)
   - Question ID: 1499
