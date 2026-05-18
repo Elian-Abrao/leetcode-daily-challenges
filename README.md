@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 328
+Total de questoes resolvidas: 329
 
 ### Easy
+
+- [#476 Number Complement](https://leetcode.com/problems/number-complement/)
+  - Question ID: 476
+  - Arquivo: `problems/easy/476_number-complement.py`
+  - Resolvido em: 17:03 - 18/05/26
 
 - [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
   - Question ID: 70
