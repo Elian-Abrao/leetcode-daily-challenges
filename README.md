@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 327
+Total de questoes resolvidas: 328
 
 ### Easy
 
@@ -378,6 +378,11 @@ Total de questoes resolvidas: 327
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
+  - Question ID: 772
+  - Arquivo: `problems/medium/427_construct-quad-tree.py`
+  - Resolvido em: 13:34 - 18/05/26
 
 - [#29 Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
   - Question ID: 29
