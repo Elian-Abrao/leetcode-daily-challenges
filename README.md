@@ -12,6 +12,11 @@ Total de questoes resolvidas: 328
 
 ### Easy
 
+- [#70 Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+  - Question ID: 70
+  - Arquivo: `problems/easy/70_climbing-stairs.py`
+  - Resolvido em: 15:38 - 18/05/26
+
 - [#345 Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
   - Question ID: 345
   - Arquivo: `problems/easy/345_reverse-vowels-of-a-string.py`
@@ -370,11 +375,6 @@ Total de questoes resolvidas: 328
 - [#101 Tree](https://leetcode.com/problems/symmetric-tree/)
   - Question ID: 101
   - Arquivo: `problems/easy/0101_symmetric-tree.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#70 Stairs](https://leetcode.com/problems/climbing-stairs/)
-  - Question ID: 70
-  - Arquivo: `problems/easy/0070_climbing-stairs.py`
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
