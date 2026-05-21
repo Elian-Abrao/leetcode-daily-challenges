@@ -1116,6 +1116,11 @@ Total de questoes resolvidas: 329
 
 ### Hard
 
+- [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
+  - Question ID: 273
+  - Arquivo: `problems/hard/273_integer-to-english-words.py`
+  - Resolvido em: 18:00 - 21/05/26
+
 - [#1550 Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)
   - Question ID: 1550
   - Arquivo: `problems/hard/1439_find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows.py`
@@ -1655,8 +1660,3 @@ Total de questoes resolvidas: 329
   - Question ID: 135
   - Arquivo: `problems/hard/135_candy.py`
   - Resolvido em: 20:55 - 20/02/26
-
-- [#273 Words](https://leetcode.com/problems/integer-to-english-words/)
-  - Question ID: 273
-  - Arquivo: `problems/hard/273_integer-to-english-words.py`
-  - Resolvido em: 19:02 - 20/02/26
