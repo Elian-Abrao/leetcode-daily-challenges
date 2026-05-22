@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 332
+Total de questoes resolvidas: 333
 
 ### Easy
 
@@ -383,6 +383,11 @@ Total de questoes resolvidas: 332
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#445 Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
+  - Question ID: 445
+  - Arquivo: `problems/medium/445_add-two-numbers-ii.py`
+  - Resolvido em: 18:34 - 22/05/26
 
 - [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
   - Question ID: 107
