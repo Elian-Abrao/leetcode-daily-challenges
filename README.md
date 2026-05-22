@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 331
+Total de questoes resolvidas: 332
 
 ### Easy
 
@@ -383,6 +383,11 @@ Total de questoes resolvidas: 331
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#107 Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+  - Question ID: 107
+  - Arquivo: `problems/medium/107_binary-tree-level-order-traversal-ii.py`
+  - Resolvido em: 15:45 - 22/05/26
 
 - [#235 Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
   - Question ID: 235
