@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 329
+Total de questoes resolvidas: 330
 
 ### Easy
 
@@ -383,6 +383,11 @@ Total de questoes resolvidas: 329
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#235 Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+  - Question ID: 235
+  - Arquivo: `problems/medium/235_lowest-common-ancestor-of-a-binary-search-tree.py`
+  - Resolvido em: 13:00 - 22/05/26
 
 - [#772 Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/)
   - Question ID: 772
