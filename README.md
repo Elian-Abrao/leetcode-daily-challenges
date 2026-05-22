@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 330
+Total de questoes resolvidas: 331
 
 ### Easy
 
@@ -1120,6 +1120,11 @@ Total de questoes resolvidas: 330
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+  - Question ID: 124
+  - Arquivo: `problems/hard/124_binary-tree-maximum-path-sum.py`
+  - Resolvido em: 15:33 - 22/05/26
 
 - [#273 Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)
   - Question ID: 273
