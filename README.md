@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 333
+Total de questoes resolvidas: 334
 
 ### Easy
 
@@ -383,6 +383,11 @@ Total de questoes resolvidas: 333
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#63 Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
+  - Question ID: 63
+  - Arquivo: `problems/medium/63_unique-paths-ii.py`
+  - Resolvido em: 11:00 - 23/05/26
 
 - [#445 Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
   - Question ID: 445
