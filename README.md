@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 334
+Total de questoes resolvidas: 335
 
 ### Easy
 
@@ -383,6 +383,11 @@ Total de questoes resolvidas: 334
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#825 Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
+  - Question ID: 825
+  - Arquivo: `problems/medium/807_max-increase-to-keep-city-skyline.py`
+  - Resolvido em: 14:57 - 23/05/26
 
 - [#63 Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
   - Question ID: 63
