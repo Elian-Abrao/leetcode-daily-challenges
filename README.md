@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 335
+Total de questoes resolvidas: 336
 
 ### Easy
 
@@ -1140,6 +1140,11 @@ Total de questoes resolvidas: 335
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#587 Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
+  - Question ID: 587
+  - Arquivo: `problems/hard/587_erect-the-fence.py`
+  - Resolvido em: 17:30 - 23/05/26
 
 - [#124 Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
   - Question ID: 124
