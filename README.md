@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 336
+Total de questoes resolvidas: 337
 
 ### Easy
 
@@ -1140,6 +1140,11 @@ Total de questoes resolvidas: 336
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#2202 Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)
+  - Question ID: 2202
+  - Arquivo: `problems/hard/2081_sum-of-k-mirror-numbers.py`
+  - Resolvido em: 19:30 - 23/05/26
 
 - [#587 Erect the Fence](https://leetcode.com/problems/erect-the-fence/)
   - Question ID: 587
