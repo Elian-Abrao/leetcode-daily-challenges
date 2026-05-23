@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 337
+Total de questoes resolvidas: 338
 
 ### Easy
 
@@ -1140,6 +1140,11 @@ Total de questoes resolvidas: 337
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1638 Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/)
+  - Question ID: 1638
+  - Arquivo: `problems/hard/1515_best-position-for-a-service-centre.py`
+  - Resolvido em: 22:30 - 23/05/26
 
 - [#2202 Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/)
   - Question ID: 2202
