@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 342
+Total de questoes resolvidas: 343
 
 ### Easy
 
@@ -1155,6 +1155,11 @@ Total de questoes resolvidas: 342
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1555 Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
+  - Question ID: 1555
+  - Arquivo: `problems/hard/1444_number-of-ways-of-cutting-a-pizza.py`
+  - Resolvido em: 19:40 - 24/05/26
 
 - [#736 Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)
   - Question ID: 736
