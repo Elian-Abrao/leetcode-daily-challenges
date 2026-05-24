@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 339
+Total de questoes resolvidas: 340
 
 ### Easy
+
+- [#191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+  - Question ID: 191
+  - Arquivo: `problems/easy/191_number-of-1-bits.py`
+  - Resolvido em: 13:30 - 24/05/26
 
 - [#476 Number Complement](https://leetcode.com/problems/number-complement/)
   - Question ID: 476
