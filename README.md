@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 338
+Total de questoes resolvidas: 339
 
 ### Easy
 
@@ -383,6 +383,11 @@ Total de questoes resolvidas: 338
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+  - Question ID: 142
+  - Arquivo: `problems/medium/142_linked-list-cycle-ii.py`
+  - Resolvido em: 12:00 - 24/05/26
 
 - [#825 Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
   - Question ID: 825
