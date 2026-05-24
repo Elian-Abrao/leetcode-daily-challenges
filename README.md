@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 341
+Total de questoes resolvidas: 342
 
 ### Easy
 
@@ -1155,6 +1155,11 @@ Total de questoes resolvidas: 341
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#736 Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/)
+  - Question ID: 736
+  - Arquivo: `problems/hard/736_parse-lisp-expression.py`
+  - Resolvido em: 18:01 - 24/05/26
 
 - [#1638 Best Position for a Service Centre](https://leetcode.com/problems/best-position-for-a-service-centre/)
   - Question ID: 1638
