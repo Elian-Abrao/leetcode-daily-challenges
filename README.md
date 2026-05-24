@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 343
+Total de questoes resolvidas: 344
 
 ### Easy
+
+- [#350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+  - Question ID: 350
+  - Arquivo: `problems/easy/350_intersection-of-two-arrays-ii.py`
+  - Resolvido em: 21:00 - 24/05/26
 
 - [#303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
   - Question ID: 303
