@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 340
+Total de questoes resolvidas: 341
 
 ### Easy
+
+- [#303 Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+  - Question ID: 303
+  - Arquivo: `problems/easy/303_range-sum-query-immutable.py`
+  - Resolvido em: 16:00 - 24/05/26
 
 - [#191 Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
   - Question ID: 191
