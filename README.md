@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 344
+Total de questoes resolvidas: 345
 
 ### Easy
+
+- [#100 Same Tree](https://leetcode.com/problems/same-tree/)
+  - Question ID: 100
+  - Arquivo: `problems/easy/100_same-tree.py`
+  - Resolvido em: 13:30 - 25/05/26
 
 - [#350 Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
   - Question ID: 350
