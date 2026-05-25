@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 345
+Total de questoes resolvidas: 346
 
 ### Easy
+
+- [#292 Nim Game](https://leetcode.com/problems/nim-game/)
+  - Question ID: 292
+  - Arquivo: `problems/easy/292_nim-game.py`
+  - Resolvido em: 15:30 - 25/05/26
 
 - [#100 Same Tree](https://leetcode.com/problems/same-tree/)
   - Question ID: 100
