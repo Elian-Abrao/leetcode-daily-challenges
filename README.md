@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 346
+Total de questoes resolvidas: 347
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 346
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
+  - Question ID: 486
+  - Arquivo: `problems/medium/486_predict-the-winner.py`
+  - Resolvido em: 17:01 - 25/05/26
 
 - [#142 Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
   - Question ID: 142
