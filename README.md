@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 349
+Total de questoes resolvidas: 350
 
 ### Easy
 
@@ -1185,6 +1185,11 @@ Total de questoes resolvidas: 349
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+  - Question ID: 84
+  - Arquivo: `problems/hard/84_largest-rectangle-in-histogram.py`
+  - Resolvido em: 21:08 - 26/05/26
 
 - [#1555 Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/)
   - Question ID: 1555
