@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 347
+Total de questoes resolvidas: 348
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 347
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#7 Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+  - Question ID: 7
+  - Arquivo: `problems/medium/7_reverse-integer.py`
+  - Resolvido em: 14:01 - 26/05/26
 
 - [#486 Predict the Winner](https://leetcode.com/problems/predict-the-winner/)
   - Question ID: 486
