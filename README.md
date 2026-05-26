@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 348
+Total de questoes resolvidas: 349
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 348
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#194 Transpose File](https://leetcode.com/problems/transpose-file/)
+  - Question ID: 194
+  - Arquivo: `problems/medium/194_transpose-file.py`
+  - Resolvido em: 16:34 - 26/05/26
 
 - [#7 Reverse Integer](https://leetcode.com/problems/reverse-integer/)
   - Question ID: 7
