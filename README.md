@@ -12,6 +12,11 @@ Total de questoes resolvidas: 351
 
 ### Easy
 
+- [#203 Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+  - Question ID: 203
+  - Arquivo: `problems/easy/203_remove-linked-list-elements.py`
+  - Resolvido em: 16:00 - 27/05/26
+
 - [#292 Nim Game](https://leetcode.com/problems/nim-game/)
   - Question ID: 292
   - Arquivo: `problems/easy/292_nim-game.py`
@@ -346,11 +351,6 @@ Total de questoes resolvidas: 351
   - Question ID: 202
   - Arquivo: `problems/easy/202_happy-number.py`
   - Resolvido em: 21:14 - 20/02/26
-
-- [#203 Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-  - Question ID: 203
-  - Arquivo: `problems/easy/203_remove-linked-list-elements.py`
-  - Resolvido em: 19:05 - 20/02/26
 
 - [#175 Tables](https://leetcode.com/problems/combine-two-tables/)
   - Question ID: 175
