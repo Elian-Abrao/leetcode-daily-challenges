@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 351
+Total de questoes resolvidas: 352
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 351
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+  - Question ID: 150
+  - Arquivo: `problems/medium/150_evaluate-reverse-polish-notation.py`
+  - Resolvido em: 19:03 - 27/05/26
 
 - [#19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
   - Question ID: 19
