@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 350
+Total de questoes resolvidas: 351
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 350
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#19 Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+  - Question ID: 19
+  - Arquivo: `problems/medium/19_remove-nth-node-from-end-of-list.py`
+  - Resolvido em: 12:01 - 27/05/26
 
 - [#194 Transpose File](https://leetcode.com/problems/transpose-file/)
   - Question ID: 194
