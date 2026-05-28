@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 352
+Total de questoes resolvidas: 353
 
 ### Easy
 
@@ -1195,6 +1195,11 @@ Total de questoes resolvidas: 352
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
+  - Question ID: 466
+  - Arquivo: `problems/hard/466_count-the-repetitions.py`
+  - Resolvido em: 12:31 - 28/05/26
 
 - [#84 Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
   - Question ID: 84
