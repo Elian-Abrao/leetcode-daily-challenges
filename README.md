@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 353
+Total de questoes resolvidas: 354
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 353
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
+  - Question ID: 289
+  - Arquivo: `problems/medium/289_game-of-life.py`
+  - Resolvido em: 15:00 - 28/05/26
 
 - [#150 Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
   - Question ID: 150
