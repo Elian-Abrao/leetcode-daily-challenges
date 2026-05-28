@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 354
+Total de questoes resolvidas: 355
 
 ### Easy
 
@@ -408,6 +408,11 @@ Total de questoes resolvidas: 354
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#260 Single Number III](https://leetcode.com/problems/single-number-iii/)
+  - Question ID: 260
+  - Arquivo: `problems/medium/260_single-number-iii.py`
+  - Resolvido em: 18:00 - 28/05/26
 
 - [#289 Game of Life](https://leetcode.com/problems/game-of-life/)
   - Question ID: 289
