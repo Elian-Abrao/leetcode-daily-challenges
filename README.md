@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 356
+Total de questoes resolvidas: 357
 
 ### Easy
 
@@ -1210,6 +1210,11 @@ Total de questoes resolvidas: 356
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1220 Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
+  - Question ID: 1220
+  - Arquivo: `problems/hard/1125_smallest-sufficient-team.py`
+  - Resolvido em: 15:33 - 29/05/26
 
 - [#466 Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/)
   - Question ID: 466
