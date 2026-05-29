@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 357
+Total de questoes resolvidas: 358
 
 ### Easy
+
+- [#492 Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
+  - Question ID: 492
+  - Arquivo: `problems/easy/492_construct-the-rectangle.py`
+  - Resolvido em: 18:30 - 29/05/26
 
 - [#145 Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
   - Question ID: 145
