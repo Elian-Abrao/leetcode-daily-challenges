@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 359
+Total de questoes resolvidas: 360
 
 ### Easy
 
@@ -423,6 +423,11 @@ Total de questoes resolvidas: 359
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+  - Question ID: 162
+  - Arquivo: `problems/medium/162_find-peak-element.py`
+  - Resolvido em: 14:34 - 30/05/26
 
 - [#260 Single Number III](https://leetcode.com/problems/single-number-iii/)
   - Question ID: 260
