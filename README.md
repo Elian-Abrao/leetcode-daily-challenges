@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 362
+Total de questoes resolvidas: 363
 
 ### Easy
 
@@ -1225,6 +1225,11 @@ Total de questoes resolvidas: 362
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1517 Restore The Array](https://leetcode.com/problems/restore-the-array/)
+  - Question ID: 1517
+  - Arquivo: `problems/hard/1416_restore-the-array.py`
+  - Resolvido em: 22:30 - 30/05/26
 
 - [#327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
   - Question ID: 327
