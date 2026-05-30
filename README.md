@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 358
+Total de questoes resolvidas: 359
 
 ### Easy
+
+- [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+  - Question ID: 206
+  - Arquivo: `problems/easy/206_reverse-linked-list.py`
+  - Resolvido em: 11:00 - 30/05/26
 
 - [#492 Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)
   - Question ID: 492
