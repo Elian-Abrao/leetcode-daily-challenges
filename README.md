@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 361
+Total de questoes resolvidas: 362
 
 ### Easy
 
@@ -1225,6 +1225,11 @@ Total de questoes resolvidas: 361
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#327 Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)
+  - Question ID: 327
+  - Arquivo: `problems/hard/327_count-of-range-sum.py`
+  - Resolvido em: 19:54 - 30/05/26
 
 - [#2040 Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)
   - Question ID: 2040
