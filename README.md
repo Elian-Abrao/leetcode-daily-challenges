@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 360
+Total de questoes resolvidas: 361
 
 ### Easy
 
@@ -1225,6 +1225,11 @@ Total de questoes resolvidas: 360
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#2040 Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)
+  - Question ID: 2040
+  - Arquivo: `problems/hard/1928_minimum-cost-to-reach-destination-in-time.py`
+  - Resolvido em: 17:34 - 30/05/26
 
 - [#1220 Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)
   - Question ID: 1220
