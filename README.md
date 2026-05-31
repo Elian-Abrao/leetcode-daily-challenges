@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 367
+Total de questoes resolvidas: 368
 
 ### Easy
 
@@ -1235,6 +1235,11 @@ Total de questoes resolvidas: 367
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#931 Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
+  - Question ID: 931
+  - Arquivo: `problems/hard/895_maximum-frequency-stack.py`
+  - Resolvido em: 19:30 - 31/05/26
 
 - [#828 Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
   - Question ID: 828
