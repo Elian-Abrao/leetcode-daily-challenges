@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 365
+Total de questoes resolvidas: 366
 
 ### Easy
 
@@ -1235,6 +1235,11 @@ Total de questoes resolvidas: 365
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+  - Question ID: 25
+  - Arquivo: `problems/hard/25_reverse-nodes-in-k-group.py`
+  - Resolvido em: 16:03 - 31/05/26
 
 - [#1517 Restore The Array](https://leetcode.com/problems/restore-the-array/)
   - Question ID: 1517
