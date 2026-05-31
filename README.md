@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 363
+Total de questoes resolvidas: 364
 
 ### Easy
 
@@ -423,6 +423,11 @@ Total de questoes resolvidas: 363
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+  - Question ID: 49
+  - Arquivo: `problems/medium/49_group-anagrams.py`
+  - Resolvido em: 12:03 - 31/05/26
 
 - [#162 Find Peak Element](https://leetcode.com/problems/find-peak-element/)
   - Question ID: 162
