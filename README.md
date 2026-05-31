@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 364
+Total de questoes resolvidas: 365
 
 ### Easy
+
+- [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - Question ID: 35
+  - Arquivo: `problems/easy/35_search-insert-position.py`
+  - Resolvido em: 13:33 - 31/05/26
 
 - [#206 Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
   - Question ID: 206
