@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 366
+Total de questoes resolvidas: 367
 
 ### Easy
 
@@ -1235,6 +1235,11 @@ Total de questoes resolvidas: 366
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#828 Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)
+  - Question ID: 828
+  - Arquivo: `problems/hard/810_chalkboard-xor-game.py`
+  - Resolvido em: 18:17 - 31/05/26
 
 - [#25 Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
   - Question ID: 25
