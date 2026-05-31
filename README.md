@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 368
+Total de questoes resolvidas: 369
 
 ### Easy
 
@@ -428,6 +428,11 @@ Total de questoes resolvidas: 368
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
+  - Question ID: 62
+  - Arquivo: `problems/medium/62_unique-paths.py`
+  - Resolvido em: 21:04 - 31/05/26
 
 - [#49 Group Anagrams](https://leetcode.com/problems/group-anagrams/)
   - Question ID: 49
