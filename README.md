@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 371
+Total de questoes resolvidas: 372
 
 ### Easy
+
+- [#349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+  - Question ID: 349
+  - Arquivo: `problems/easy/349_intersection-of-two-arrays.py`
+  - Resolvido em: 17:01 - 01/06/26
 
 - [#226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
   - Question ID: 226
