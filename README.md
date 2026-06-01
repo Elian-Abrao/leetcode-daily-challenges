@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 369
+Total de questoes resolvidas: 370
 
 ### Easy
+
+- [#226 Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+  - Question ID: 226
+  - Arquivo: `problems/easy/226_invert-binary-tree.py`
+  - Resolvido em: 13:30 - 01/06/26
 
 - [#35 Search Insert Position](https://leetcode.com/problems/search-insert-position/)
   - Question ID: 35
