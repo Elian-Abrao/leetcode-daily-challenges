@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 370
+Total de questoes resolvidas: 371
 
 ### Easy
 
@@ -1245,6 +1245,11 @@ Total de questoes resolvidas: 370
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#60 Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+  - Question ID: 60
+  - Arquivo: `problems/hard/60_permutation-sequence.py`
+  - Resolvido em: 15:33 - 01/06/26
 
 - [#931 Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)
   - Question ID: 931
