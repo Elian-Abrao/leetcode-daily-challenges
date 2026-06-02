@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 374
+Total de questoes resolvidas: 375
 
 ### Easy
 
@@ -438,6 +438,11 @@ Total de questoes resolvidas: 374
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#82 Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+  - Question ID: 82
+  - Arquivo: `problems/medium/82_remove-duplicates-from-sorted-list-ii.py`
+  - Resolvido em: 21:00 - 02/06/26
 
 - [#764 N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
   - Question ID: 764
