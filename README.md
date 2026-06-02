@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 372
+Total de questoes resolvidas: 373
 
 ### Easy
 
@@ -438,6 +438,11 @@ Total de questoes resolvidas: 372
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#764 N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+  - Question ID: 764
+  - Arquivo: `problems/medium/429_n-ary-tree-level-order-traversal.py`
+  - Resolvido em: 14:01 - 02/06/26
 
 - [#62 Unique Paths](https://leetcode.com/problems/unique-paths/)
   - Question ID: 62
