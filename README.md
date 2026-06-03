@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 377
+Total de questoes resolvidas: 378
 
 ### Easy
 
@@ -443,6 +443,11 @@ Total de questoes resolvidas: 377
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+  - Question ID: 16
+  - Arquivo: `problems/medium/16_3sum-closest.py`
+  - Resolvido em: 19:02 - 03/06/26
 
 - [#82 Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
   - Question ID: 82
