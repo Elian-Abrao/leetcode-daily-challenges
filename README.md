@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 375
+Total de questoes resolvidas: 376
 
 ### Easy
 
@@ -1260,6 +1260,11 @@ Total de questoes resolvidas: 375
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+  - Question ID: 332
+  - Arquivo: `problems/hard/332_reconstruct-itinerary.py`
+  - Resolvido em: 12:00 - 03/06/26
 
 - [#23 Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
   - Question ID: 23
