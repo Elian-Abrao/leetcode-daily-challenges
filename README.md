@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 376
+Total de questoes resolvidas: 377
 
 ### Easy
+
+- [#500 Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+  - Question ID: 500
+  - Arquivo: `problems/easy/500_keyboard-row.py`
+  - Resolvido em: 16:00 - 03/06/26
 
 - [#349 Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
   - Question ID: 349
