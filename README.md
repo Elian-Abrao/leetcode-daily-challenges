@@ -12,6 +12,11 @@ Total de questoes resolvidas: 380
 
 ### Easy
 
+- [#101 Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+  - Question ID: 101
+  - Arquivo: `problems/easy/101_symmetric-tree.py`
+  - Resolvido em: 18:03 - 04/06/26
+
 - [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
   - Question ID: 232
   - Arquivo: `problems/easy/232_implement-queue-using-stacks.py`
@@ -440,11 +445,6 @@ Total de questoes resolvidas: 380
 - [#121 Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
   - Arquivo: `problems/easy/0121_best-time-to-buy-and-sell-stock.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#101 Tree](https://leetcode.com/problems/symmetric-tree/)
-  - Question ID: 101
-  - Arquivo: `problems/easy/0101_symmetric-tree.py`
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
