@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 379
+Total de questoes resolvidas: 380
 
 ### Easy
 
@@ -448,6 +448,11 @@ Total de questoes resolvidas: 379
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#343 Integer Break](https://leetcode.com/problems/integer-break/)
+  - Question ID: 343
+  - Arquivo: `problems/medium/343_integer-break.py`
+  - Resolvido em: 15:00 - 04/06/26
 
 - [#16 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
   - Question ID: 16
