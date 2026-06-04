@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 378
+Total de questoes resolvidas: 379
 
 ### Easy
+
+- [#232 Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
+  - Question ID: 232
+  - Arquivo: `problems/easy/232_implement-queue-using-stacks.py`
+  - Resolvido em: 12:30 - 04/06/26
 
 - [#500 Keyboard Row](https://leetcode.com/problems/keyboard-row/)
   - Question ID: 500
