@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 381
+Total de questoes resolvidas: 382
 
 ### Easy
 
@@ -1285,6 +1285,11 @@ Total de questoes resolvidas: 381
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#2189 Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
+  - Question ID: 2189
+  - Arquivo: `problems/hard/2065_maximum-path-quality-of-a-graph.py`
+  - Resolvido em: 15:47 - 05/06/26
 
 - [#332 Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
   - Question ID: 332
