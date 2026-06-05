@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 380
+Total de questoes resolvidas: 381
 
 ### Easy
 
@@ -448,6 +448,11 @@ Total de questoes resolvidas: 380
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#227 Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+  - Question ID: 227
+  - Arquivo: `problems/medium/227_basic-calculator-ii.py`
+  - Resolvido em: 13:03 - 05/06/26
 
 - [#343 Integer Break](https://leetcode.com/problems/integer-break/)
   - Question ID: 343
