@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 382
+Total de questoes resolvidas: 383
 
 ### Easy
+
+- [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+  - Question ID: 367
+  - Arquivo: `problems/easy/367_valid-perfect-square.py`
+  - Resolvido em: 18:30 - 05/06/26
 
 - [#101 Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
   - Question ID: 101
