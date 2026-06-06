@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 385
+Total de questoes resolvidas: 386
 
 ### Easy
 
@@ -1300,6 +1300,11 @@ Total de questoes resolvidas: 385
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1012 Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)
+  - Question ID: 1012
+  - Arquivo: `problems/hard/972_equal-rational-numbers.py`
+  - Resolvido em: 17:39 - 06/06/26
 
 - [#2189 Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
   - Question ID: 2189
