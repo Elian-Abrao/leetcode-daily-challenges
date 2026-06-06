@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 383
+Total de questoes resolvidas: 384
 
 ### Easy
 
@@ -453,6 +453,11 @@ Total de questoes resolvidas: 383
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#766 Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
+  - Question ID: 766
+  - Arquivo: `problems/medium/430_flatten-a-multilevel-doubly-linked-list.py`
+  - Resolvido em: 11:00 - 06/06/26
 
 - [#227 Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
   - Question ID: 227
