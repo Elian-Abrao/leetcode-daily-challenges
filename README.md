@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 386
+Total de questoes resolvidas: 387
 
 ### Easy
 
@@ -1300,6 +1300,11 @@ Total de questoes resolvidas: 386
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#1343 Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)
+  - Question ID: 1343
+  - Arquivo: `problems/hard/1223_dice-roll-simulation.py`
+  - Resolvido em: 19:30 - 06/06/26
 
 - [#1012 Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)
   - Question ID: 1012
