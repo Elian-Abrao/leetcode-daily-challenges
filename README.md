@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 384
+Total de questoes resolvidas: 385
 
 ### Easy
 
@@ -453,6 +453,11 @@ Total de questoes resolvidas: 384
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#815 Champagne Tower](https://leetcode.com/problems/champagne-tower/)
+  - Question ID: 815
+  - Arquivo: `problems/medium/799_champagne-tower.py`
+  - Resolvido em: 14:40 - 06/06/26
 
 - [#766 Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)
   - Question ID: 766
