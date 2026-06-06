@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 387
+Total de questoes resolvidas: 388
 
 ### Easy
 
@@ -1300,6 +1300,11 @@ Total de questoes resolvidas: 387
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#480 Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+  - Question ID: 480
+  - Arquivo: `problems/hard/480_sliding-window-median.py`
+  - Resolvido em: 22:34 - 06/06/26
 
 - [#1343 Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation/)
   - Question ID: 1343
