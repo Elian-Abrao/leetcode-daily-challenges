@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 391
+Total de questoes resolvidas: 392
 
 ### Easy
 
@@ -1310,6 +1310,11 @@ Total de questoes resolvidas: 391
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#2166 Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)
+  - Question ID: 2166
+  - Arquivo: `problems/hard/2056_number-of-valid-move-combinations-on-chessboard.py`
+  - Resolvido em: 18:00 - 07/06/26
 
 - [#479 Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)
   - Question ID: 479
