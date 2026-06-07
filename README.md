@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 393
+Total de questoes resolvidas: 394
 
 ### Easy
 
@@ -1310,6 +1310,11 @@ Total de questoes resolvidas: 393
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#391 Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
+  - Question ID: 391
+  - Arquivo: `problems/hard/391_perfect-rectangle.py`
+  - Resolvido em: 21:01 - 07/06/26
 
 - [#664 Strange Printer](https://leetcode.com/problems/strange-printer/)
   - Question ID: 664
