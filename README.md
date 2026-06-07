@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 390
+Total de questoes resolvidas: 391
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 390
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#152 Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+  - Question ID: 152
+  - Arquivo: `problems/medium/152_maximum-product-subarray.py`
+  - Resolvido em: 16:00 - 07/06/26
 
 - [#815 Champagne Tower](https://leetcode.com/problems/champagne-tower/)
   - Question ID: 815
