@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 392
+Total de questoes resolvidas: 393
 
 ### Easy
 
@@ -1310,6 +1310,11 @@ Total de questoes resolvidas: 392
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#664 Strange Printer](https://leetcode.com/problems/strange-printer/)
+  - Question ID: 664
+  - Arquivo: `problems/hard/664_strange-printer.py`
+  - Resolvido em: 19:30 - 07/06/26
 
 - [#2166 Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/)
   - Question ID: 2166
