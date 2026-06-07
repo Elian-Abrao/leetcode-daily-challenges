@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 389
+Total de questoes resolvidas: 390
 
 ### Easy
 
@@ -1305,6 +1305,11 @@ Total de questoes resolvidas: 389
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#479 Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/)
+  - Question ID: 479
+  - Arquivo: `problems/hard/479_largest-palindrome-product.py`
+  - Resolvido em: 13:34 - 07/06/26
 
 - [#480 Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
   - Question ID: 480
