@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 388
+Total de questoes resolvidas: 389
 
 ### Easy
+
+- [#412 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+  - Question ID: 412
+  - Arquivo: `problems/easy/412_fizz-buzz.py`
+  - Resolvido em: 12:08 - 07/06/26
 
 - [#367 Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
   - Question ID: 367
