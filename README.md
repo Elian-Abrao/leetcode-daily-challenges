@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 395
+Total de questoes resolvidas: 396
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 395
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
+  - Question ID: 106
+  - Arquivo: `problems/medium/106_construct-binary-tree-from-inorder-and-postorder-traversal.py`
+  - Resolvido em: 15:30 - 08/06/26
 
 - [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
   - Question ID: 365
