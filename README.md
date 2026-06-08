@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 394
+Total de questoes resolvidas: 395
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 394
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#365 Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)
+  - Question ID: 365
+  - Arquivo: `problems/medium/365_water-and-jug-problem.py`
+  - Resolvido em: 13:33 - 08/06/26
 
 - [#152 Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
   - Question ID: 152
