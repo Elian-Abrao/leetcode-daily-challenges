@@ -12,6 +12,11 @@ Total de questoes resolvidas: 396
 
 ### Easy
 
+- [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
+  - Question ID: 257
+  - Arquivo: `problems/easy/257_binary-tree-paths.py`
+  - Resolvido em: 17:01 - 08/06/26
+
 - [#412 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
   - Question ID: 412
   - Arquivo: `problems/easy/412_fizz-buzz.py`
@@ -421,11 +426,6 @@ Total de questoes resolvidas: 396
   - Question ID: 136
   - Arquivo: `problems/easy/136_single-number.py`
   - Resolvido em: 14:58 - 20/02/26
-
-- [#257 Paths](https://leetcode.com/problems/binary-tree-paths/)
-  - Question ID: 257
-  - Arquivo: `problems/easy/257_binary-tree-paths.py`
-  - Resolvido em: 14:53 - 20/02/26
 
 - [#1668 Substring](https://leetcode.com/problems/maximum-repeating-substring/)
   - Question ID: 1668
