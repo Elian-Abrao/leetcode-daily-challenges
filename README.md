@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 396
+Total de questoes resolvidas: 397
 
 ### Easy
 
@@ -1320,6 +1320,11 @@ Total de questoes resolvidas: 396
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#149 Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
+  - Question ID: 149
+  - Arquivo: `problems/hard/149_max-points-on-a-line.py`
+  - Resolvido em: 14:01 - 09/06/26
 
 - [#391 Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)
   - Question ID: 391
