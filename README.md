@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 397
+Total de questoes resolvidas: 398
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 397
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#131 Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+  - Question ID: 131
+  - Arquivo: `problems/medium/131_palindrome-partitioning.py`
+  - Resolvido em: 16:30 - 09/06/26
 
 - [#106 Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
   - Question ID: 106
