@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 398
+Total de questoes resolvidas: 399
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 398
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+  - Question ID: 73
+  - Arquivo: `problems/medium/73_set-matrix-zeroes.py`
+  - Resolvido em: 21:00 - 09/06/26
 
 - [#131 Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
   - Question ID: 131
