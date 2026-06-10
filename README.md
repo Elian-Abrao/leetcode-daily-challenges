@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 400
+Total de questoes resolvidas: 401
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 400
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - Question ID: 287
+  - Arquivo: `problems/medium/287_find-the-duplicate-number.py`
+  - Resolvido em: 16:03 - 10/06/26
 
 - [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
   - Question ID: 143
