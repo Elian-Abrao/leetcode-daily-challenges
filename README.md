@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 399
+Total de questoes resolvidas: 400
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 399
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#143 Reorder List](https://leetcode.com/problems/reorder-list/)
+  - Question ID: 143
+  - Arquivo: `problems/medium/143_reorder-list.py`
+  - Resolvido em: 12:00 - 10/06/26
 
 - [#73 Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
   - Question ID: 73
