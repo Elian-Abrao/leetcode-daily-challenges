@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 401
+Total de questoes resolvidas: 402
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 401
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+  - Question ID: 153
+  - Arquivo: `problems/medium/153_find-minimum-in-rotated-sorted-array.py`
+  - Resolvido em: 19:00 - 10/06/26
 
 - [#287 Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
   - Question ID: 287
