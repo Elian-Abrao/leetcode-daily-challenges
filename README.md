@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 403
+Total de questoes resolvidas: 404
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 403
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#382 Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
+  - Question ID: 382
+  - Arquivo: `problems/medium/382_linked-list-random-node.py`
+  - Resolvido em: 15:00 - 11/06/26
 
 - [#153 Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
   - Question ID: 153
