@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 402
+Total de questoes resolvidas: 403
 
 ### Easy
 
@@ -1345,6 +1345,11 @@ Total de questoes resolvidas: 402
   - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
+
+- [#44 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+  - Question ID: 44
+  - Arquivo: `problems/hard/44_wildcard-matching.py`
+  - Resolvido em: 12:39 - 11/06/26
 
 - [#149 Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
   - Question ID: 149
