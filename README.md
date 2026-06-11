@@ -459,6 +459,11 @@ Total de questoes resolvidas: 404
 
 ### Medium
 
+- [#148 Sort List](https://leetcode.com/problems/sort-list/)
+  - Question ID: 148
+  - Arquivo: `problems/medium/148_sort-list.py`
+  - Resolvido em: 18:00 - 11/06/26
+
 - [#382 Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)
   - Question ID: 382
   - Arquivo: `problems/medium/382_linked-list-random-node.py`
@@ -1343,11 +1348,6 @@ Total de questoes resolvidas: 404
   - Question ID: 61
   - Arquivo: `problems/medium/61_rotate-list.py`
   - Resolvido em: 14:59 - 20/02/26
-
-- [#148 List](https://leetcode.com/problems/sort-list/)
-  - Question ID: 148
-  - Arquivo: `problems/medium/148_sort-list.py`
-  - Resolvido em: 14:56 - 20/02/26
 
 ### Hard
 
