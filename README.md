@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 406
+Total de questoes resolvidas: 407
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 406
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+  - Question ID: 341
+  - Arquivo: `problems/medium/341_flatten-nested-list-iterator.py`
+  - Resolvido em: 18:37 - 12/06/26
 
 - [#92 Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
   - Question ID: 92
