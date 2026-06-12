@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 404
+Total de questoes resolvidas: 405
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 404
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#92 Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+  - Question ID: 92
+  - Arquivo: `problems/medium/92_reverse-linked-list-ii.py`
+  - Resolvido em: 13:01 - 12/06/26
 
 - [#148 Sort List](https://leetcode.com/problems/sort-list/)
   - Question ID: 148
