@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 405
+Total de questoes resolvidas: 406
 
 ### Easy
 
@@ -1355,6 +1355,11 @@ Total de questoes resolvidas: 405
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#2091 Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)
+  - Question ID: 2091
+  - Arquivo: `problems/hard/1977_number-of-ways-to-separate-numbers.py`
+  - Resolvido em: 15:56 - 12/06/26
 
 - [#44 Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
   - Question ID: 44
