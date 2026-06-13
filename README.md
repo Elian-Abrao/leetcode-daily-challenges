@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 411
+Total de questoes resolvidas: 412
 
 ### Easy
 
@@ -1370,6 +1370,11 @@ Total de questoes resolvidas: 411
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1559 Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
+  - Question ID: 1559
+  - Arquivo: `problems/hard/1463_cherry-pickup-ii.py`
+  - Resolvido em: 22:33 - 13/06/26
 
 - [#679 24 Game](https://leetcode.com/problems/24-game/)
   - Question ID: 679
