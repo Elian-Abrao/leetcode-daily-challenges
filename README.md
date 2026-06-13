@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 408
+Total de questoes resolvidas: 409
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 408
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#872 Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
+  - Question ID: 872
+  - Arquivo: `problems/medium/842_split-array-into-fibonacci-sequence.py`
+  - Resolvido em: 14:39 - 13/06/26
 
 - [#199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
   - Question ID: 199
