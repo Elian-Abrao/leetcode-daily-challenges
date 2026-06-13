@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 407
+Total de questoes resolvidas: 408
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 407
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#199 Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+  - Question ID: 199
+  - Arquivo: `problems/medium/199_binary-tree-right-side-view.py`
+  - Resolvido em: 11:00 - 13/06/26
 
 - [#341 Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
   - Question ID: 341
