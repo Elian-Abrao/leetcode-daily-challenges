@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 409
+Total de questoes resolvidas: 410
 
 ### Easy
 
@@ -1370,6 +1370,11 @@ Total de questoes resolvidas: 409
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1545 Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
+  - Question ID: 1545
+  - Arquivo: `problems/hard/1449_form-largest-integer-with-digits-that-add-up-to-target.py`
+  - Resolvido em: 17:30 - 13/06/26
 
 - [#2091 Number of Ways to Separate Numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/)
   - Question ID: 2091
