@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 410
+Total de questoes resolvidas: 411
 
 ### Easy
 
@@ -1370,6 +1370,11 @@ Total de questoes resolvidas: 410
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#679 24 Game](https://leetcode.com/problems/24-game/)
+  - Question ID: 679
+  - Arquivo: `problems/hard/679_24-game.py`
+  - Resolvido em: 19:30 - 13/06/26
 
 - [#1545 Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/)
   - Question ID: 1545
