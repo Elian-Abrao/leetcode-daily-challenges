@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 414
+Total de questoes resolvidas: 415
 
 ### Easy
 
@@ -1380,6 +1380,11 @@ Total de questoes resolvidas: 414
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1414 Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
+  - Question ID: 1414
+  - Arquivo: `problems/hard/1293_shortest-path-in-a-grid-with-obstacles-elimination.py`
+  - Resolvido em: 18:04 - 14/06/26
 
 - [#1559 Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)
   - Question ID: 1559
