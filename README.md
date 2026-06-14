@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 412
+Total de questoes resolvidas: 413
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 412
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+  - Question ID: 116
+  - Arquivo: `problems/medium/116_populating-next-right-pointers-in-each-node.py`
+  - Resolvido em: 13:30 - 14/06/26
 
 - [#872 Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/)
   - Question ID: 872
