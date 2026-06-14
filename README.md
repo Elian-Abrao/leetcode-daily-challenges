@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 416
+Total de questoes resolvidas: 417
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 416
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#375 Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
+  - Question ID: 375
+  - Arquivo: `problems/medium/375_guess-number-higher-or-lower-ii.py`
+  - Resolvido em: 21:01 - 14/06/26
 
 - [#18 4Sum](https://leetcode.com/problems/4sum/)
   - Question ID: 18
