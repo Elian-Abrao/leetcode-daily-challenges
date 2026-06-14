@@ -12,6 +12,11 @@ Total de questoes resolvidas: 412
 
 ### Easy
 
+- [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - Question ID: 121
+  - Arquivo: `problems/easy/121_best-time-to-buy-and-sell-stock.py`
+  - Resolvido em: 12:04 - 14/06/26
+
 - [#257 Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
   - Question ID: 257
   - Arquivo: `problems/easy/257_binary-tree-paths.py`
@@ -450,11 +455,6 @@ Total de questoes resolvidas: 412
 - [#509 Number](https://leetcode.com/problems/fibonacci-number/)
   - Question ID: 509
   - Arquivo: `problems/easy/0509_fibonacci-number.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#121 Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-  - Question ID: 121
-  - Arquivo: `problems/easy/0121_best-time-to-buy-and-sell-stock.py`
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
