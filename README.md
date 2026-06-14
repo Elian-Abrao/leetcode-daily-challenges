@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 413
+Total de questoes resolvidas: 414
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 413
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#18 4Sum](https://leetcode.com/problems/4sum/)
+  - Question ID: 18
+  - Arquivo: `problems/medium/18_4sum.py`
+  - Resolvido em: 16:00 - 14/06/26
 
 - [#116 Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
   - Question ID: 116
