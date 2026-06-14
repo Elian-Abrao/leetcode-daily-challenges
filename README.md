@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 415
+Total de questoes resolvidas: 416
 
 ### Easy
 
@@ -1380,6 +1380,11 @@ Total de questoes resolvidas: 415
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#691 Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
+  - Question ID: 691
+  - Arquivo: `problems/hard/691_stickers-to-spell-word.py`
+  - Resolvido em: 19:33 - 14/06/26
 
 - [#1414 Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)
   - Question ID: 1414
