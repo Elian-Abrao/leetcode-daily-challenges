@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 418
+Total de questoes resolvidas: 419
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 418
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#38 Count and Say](https://leetcode.com/problems/count-and-say/)
+  - Question ID: 38
+  - Arquivo: `problems/medium/38_count-and-say.py`
+  - Resolvido em: 15:30 - 15/06/26
 
 - [#423 Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
   - Question ID: 423
