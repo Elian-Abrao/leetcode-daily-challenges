@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 417
+Total de questoes resolvidas: 418
 
 ### Easy
 
@@ -458,6 +458,11 @@ Total de questoes resolvidas: 417
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#423 Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)
+  - Question ID: 423
+  - Arquivo: `problems/medium/423_reconstruct-original-digits-from-english.py`
+  - Resolvido em: 13:33 - 15/06/26
 
 - [#375 Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/)
   - Question ID: 375
