@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 419
+Total de questoes resolvidas: 420
 
 ### Easy
+
+- [#144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+  - Question ID: 144
+  - Arquivo: `problems/easy/144_binary-tree-preorder-traversal.py`
+  - Resolvido em: 17:01 - 15/06/26
 
 - [#121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
   - Question ID: 121
