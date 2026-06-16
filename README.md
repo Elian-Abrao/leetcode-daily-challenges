@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 422
+Total de questoes resolvidas: 423
 
 ### Easy
 
@@ -1410,6 +1410,11 @@ Total de questoes resolvidas: 422
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#154 Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+  - Question ID: 154
+  - Arquivo: `problems/hard/154_find-minimum-in-rotated-sorted-array-ii.py`
+  - Resolvido em: 21:00 - 16/06/26
 
 - [#691 Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/)
   - Question ID: 691
