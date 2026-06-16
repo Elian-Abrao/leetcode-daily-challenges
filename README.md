@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 421
+Total de questoes resolvidas: 422
 
 ### Easy
 
@@ -468,6 +468,11 @@ Total de questoes resolvidas: 421
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+  - Question ID: 238
+  - Arquivo: `problems/medium/238_product-of-array-except-self.py`
+  - Resolvido em: 16:39 - 16/06/26
 
 - [#38 Count and Say](https://leetcode.com/problems/count-and-say/)
   - Question ID: 38
