@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 420
+Total de questoes resolvidas: 421
 
 ### Easy
+
+- [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  - Question ID: 9
+  - Arquivo: `problems/easy/9_palindrome-number.py`
+  - Resolvido em: 14:05 - 16/06/26
 
 - [#144 Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
   - Question ID: 144
