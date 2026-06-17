@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 423
+Total de questoes resolvidas: 424
 
 ### Easy
 
@@ -468,6 +468,11 @@ Total de questoes resolvidas: 423
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#372 Super Pow](https://leetcode.com/problems/super-pow/)
+  - Question ID: 372
+  - Arquivo: `problems/medium/372_super-pow.py`
+  - Resolvido em: 16:00 - 17/06/26
 
 - [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
   - Question ID: 74
