@@ -12,6 +12,11 @@ Total de questoes resolvidas: 424
 
 ### Easy
 
+- [#136 Single Number](https://leetcode.com/problems/single-number/)
+  - Question ID: 136
+  - Arquivo: `problems/easy/136_single-number.py`
+  - Resolvido em: 19:09 - 17/06/26
+
 - [#9 Palindrome Number](https://leetcode.com/problems/palindrome-number/)
   - Question ID: 9
   - Arquivo: `problems/easy/9_palindrome-number.py`
@@ -436,11 +441,6 @@ Total de questoes resolvidas: 424
   - Question ID: 14
   - Arquivo: `problems/easy/14_longest-common-prefix.py`
   - Resolvido em: 19:00 - 20/02/26
-
-- [#136 Number](https://leetcode.com/problems/single-number/)
-  - Question ID: 136
-  - Arquivo: `problems/easy/136_single-number.py`
-  - Resolvido em: 14:58 - 20/02/26
 
 - [#1668 Substring](https://leetcode.com/problems/maximum-repeating-substring/)
   - Question ID: 1668
