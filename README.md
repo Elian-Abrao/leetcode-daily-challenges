@@ -469,6 +469,11 @@ Total de questoes resolvidas: 423
 
 ### Medium
 
+- [#74 Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+  - Question ID: 74
+  - Arquivo: `problems/medium/74_search-a-2d-matrix.py`
+  - Resolvido em: 12:00 - 17/06/26
+
 - [#238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
   - Question ID: 238
   - Arquivo: `problems/medium/238_product-of-array-except-self.py`
@@ -1388,11 +1393,6 @@ Total de questoes resolvidas: 423
   - Question ID: 395
   - Arquivo: `problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py`
   - Resolvido em: 19:07 - 20/02/26
-
-- [#74 Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-  - Question ID: 74
-  - Arquivo: `problems/medium/74_search-a-2d-matrix.py`
-  - Resolvido em: 19:00 - 20/02/26
 
 - [#192 Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192
