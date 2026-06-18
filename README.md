@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 426
+Total de questoes resolvidas: 427
 
 ### Easy
 
@@ -473,6 +473,11 @@ Total de questoes resolvidas: 426
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#406 Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
+  - Question ID: 406
+  - Arquivo: `problems/medium/406_queue-reconstruction-by-height.py`
+  - Resolvido em: 18:04 - 18/06/26
 
 - [#435 Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
   - Question ID: 435
