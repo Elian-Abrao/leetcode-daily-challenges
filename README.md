@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 425
+Total de questoes resolvidas: 426
 
 ### Easy
+
+- [#222 Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+  - Question ID: 222
+  - Arquivo: `problems/easy/222_count-complete-tree-nodes.py`
+  - Resolvido em: 15:08 - 18/06/26
 
 - [#136 Single Number](https://leetcode.com/problems/single-number/)
   - Question ID: 136
