@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 424
+Total de questoes resolvidas: 425
 
 ### Easy
 
@@ -468,6 +468,11 @@ Total de questoes resolvidas: 424
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#435 Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
+  - Question ID: 435
+  - Arquivo: `problems/medium/435_non-overlapping-intervals.py`
+  - Resolvido em: 12:33 - 18/06/26
 
 - [#372 Super Pow](https://leetcode.com/problems/super-pow/)
   - Question ID: 372
