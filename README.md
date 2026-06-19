@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 429
+Total de questoes resolvidas: 430
 
 ### Easy
 
@@ -473,6 +473,11 @@ Total de questoes resolvidas: 429
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
+  - Question ID: 334
+  - Arquivo: `problems/medium/334_increasing-triplet-subsequence.py`
+  - Resolvido em: 18:33 - 19/06/26
 
 - [#406 Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)
   - Question ID: 406
