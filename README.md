@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 428
+Total de questoes resolvidas: 429
 
 ### Easy
 
@@ -1430,6 +1430,11 @@ Total de questoes resolvidas: 428
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#2086 Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)
+  - Question ID: 2086
+  - Arquivo: `problems/hard/1955_count-number-of-special-subsequences.py`
+  - Resolvido em: 15:40 - 19/06/26
 
 - [#218 The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
   - Question ID: 218
