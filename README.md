@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 427
+Total de questoes resolvidas: 428
 
 ### Easy
 
@@ -1430,6 +1430,11 @@ Total de questoes resolvidas: 427
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#218 The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
+  - Question ID: 218
+  - Arquivo: `problems/hard/218_the-skyline-problem.py`
+  - Resolvido em: 13:00 - 19/06/26
 
 - [#154 Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
   - Question ID: 154
