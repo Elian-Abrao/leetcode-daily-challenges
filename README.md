@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 431
+Total de questoes resolvidas: 432
 
 ### Easy
 
@@ -473,6 +473,11 @@ Total de questoes resolvidas: 431
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#739 Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+  - Question ID: 739
+  - Arquivo: `problems/medium/739_daily-temperatures.py`
+  - Resolvido em: 14:32 - 20/06/26
 
 - [#334 Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)
   - Question ID: 334
