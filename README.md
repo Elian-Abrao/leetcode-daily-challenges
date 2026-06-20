@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 430
+Total de questoes resolvidas: 431
 
 ### Easy
 
@@ -1435,6 +1435,11 @@ Total de questoes resolvidas: 430
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#363 Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
+  - Question ID: 363
+  - Arquivo: `problems/hard/363_max-sum-of-rectangle-no-larger-than-k.py`
+  - Resolvido em: 11:05 - 20/06/26
 
 - [#2086 Count Number of Special Subsequences](https://leetcode.com/problems/count-number-of-special-subsequences/)
   - Question ID: 2086
