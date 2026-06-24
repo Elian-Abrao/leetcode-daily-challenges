@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 433
+Total de questoes resolvidas: 434
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 433
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+  - Question ID: 3
+  - Arquivo: `problems/medium/3_longest-substring-without-repeating-characters.py`
+  - Resolvido em: 12:08 - 24/06/26
 
 - [#739 Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
   - Question ID: 739
