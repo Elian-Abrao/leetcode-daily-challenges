@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 435
+Total de questoes resolvidas: 436
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 435
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+  - Question ID: 105
+  - Arquivo: `problems/medium/105_construct-binary-tree-from-preorder-and-inorder-traversal.py`
+  - Resolvido em: 19:09 - 24/06/26
 
 - [#146 LRU Cache](https://leetcode.com/problems/lru-cache/)
   - Question ID: 146
