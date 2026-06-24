@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 434
+Total de questoes resolvidas: 435
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 434
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#146 LRU Cache](https://leetcode.com/problems/lru-cache/)
+  - Question ID: 146
+  - Arquivo: `problems/medium/146_lru-cache.py`
+  - Resolvido em: 16:09 - 24/06/26
 
 - [#3 Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
   - Question ID: 3
