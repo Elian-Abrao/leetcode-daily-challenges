@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 432
+Total de questoes resolvidas: 433
 
 ### Easy
+
+- [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+  - Question ID: 234
+  - Arquivo: `problems/easy/234_palindrome-linked-list.py`
+  - Resolvido em: 01:11 - 24/06/26
 
 - [#222 Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
   - Question ID: 222
