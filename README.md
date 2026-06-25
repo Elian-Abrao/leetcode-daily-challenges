@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 436
+Total de questoes resolvidas: 437
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 436
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#274 H-Index](https://leetcode.com/problems/h-index/)
+  - Question ID: 274
+  - Arquivo: `problems/medium/274_h-index.py`
+  - Resolvido em: 12:33 - 25/06/26
 
 - [#105 Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
   - Question ID: 105
