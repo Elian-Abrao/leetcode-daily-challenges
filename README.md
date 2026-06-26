@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 438
+Total de questoes resolvidas: 439
 
 ### Easy
 
@@ -1465,6 +1465,11 @@ Total de questoes resolvidas: 438
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#335 Self Crossing](https://leetcode.com/problems/self-crossing/)
+  - Question ID: 335
+  - Arquivo: `problems/hard/335_self-crossing.py`
+  - Resolvido em: 15:34 - 26/06/26
 
 - [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
   - Question ID: 352
