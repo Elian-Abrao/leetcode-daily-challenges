@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 439
+Total de questoes resolvidas: 440
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 439
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
+  - Question ID: 337
+  - Arquivo: `problems/medium/337_house-robber-iii.py`
+  - Resolvido em: 18:30 - 26/06/26
 
 - [#274 H-Index](https://leetcode.com/problems/h-index/)
   - Question ID: 274
