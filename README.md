@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 437
+Total de questoes resolvidas: 438
 
 ### Easy
 
@@ -1465,6 +1465,11 @@ Total de questoes resolvidas: 437
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#352 Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+  - Question ID: 352
+  - Arquivo: `problems/hard/352_data-stream-as-disjoint-intervals.py`
+  - Resolvido em: 13:00 - 26/06/26
 
 - [#363 Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)
   - Question ID: 363
