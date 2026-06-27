@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 442
+Total de questoes resolvidas: 443
 
 ### Easy
 
@@ -1480,6 +1480,11 @@ Total de questoes resolvidas: 442
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1489 Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)
+  - Question ID: 1489
+  - Arquivo: `problems/hard/1388_pizza-with-3n-slices.py`
+  - Resolvido em: 17:34 - 27/06/26
 
 - [#335 Self Crossing](https://leetcode.com/problems/self-crossing/)
   - Question ID: 335
