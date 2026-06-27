@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 443
+Total de questoes resolvidas: 444
 
 ### Easy
 
@@ -1480,6 +1480,11 @@ Total de questoes resolvidas: 443
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+  - Question ID: 214
+  - Arquivo: `problems/hard/214_shortest-palindrome.py`
+  - Resolvido em: 19:30 - 27/06/26
 
 - [#1489 Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)
   - Question ID: 1489
