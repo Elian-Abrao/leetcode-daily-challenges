@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 440
+Total de questoes resolvidas: 441
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 440
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#99 Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+  - Question ID: 99
+  - Arquivo: `problems/medium/99_recover-binary-search-tree.py`
+  - Resolvido em: 11:04 - 27/06/26
 
 - [#337 House Robber III](https://leetcode.com/problems/house-robber-iii/)
   - Question ID: 337
