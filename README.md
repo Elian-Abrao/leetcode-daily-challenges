@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 441
+Total de questoes resolvidas: 442
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 441
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#542 01 Matrix](https://leetcode.com/problems/01-matrix/)
+  - Question ID: 542
+  - Arquivo: `problems/medium/542_01-matrix.py`
+  - Resolvido em: 14:30 - 27/06/26
 
 - [#99 Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
   - Question ID: 99
