@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 448
+Total de questoes resolvidas: 449
 
 ### Easy
 
@@ -1495,6 +1495,11 @@ Total de questoes resolvidas: 448
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1691 Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)
+  - Question ID: 1691
+  - Arquivo: `problems/hard/1568_minimum-number-of-days-to-disconnect-island.py`
+  - Resolvido em: 19:30 - 28/06/26
 
 - [#1871 Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/)
   - Question ID: 1871
