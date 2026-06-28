@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 444
+Total de questoes resolvidas: 445
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 444
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#93 Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
+  - Question ID: 93
+  - Arquivo: `problems/medium/93_restore-ip-addresses.py`
+  - Resolvido em: 12:01 - 28/06/26
 
 - [#542 01 Matrix](https://leetcode.com/problems/01-matrix/)
   - Question ID: 542
