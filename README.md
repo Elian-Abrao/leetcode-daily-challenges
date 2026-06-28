@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 449
+Total de questoes resolvidas: 450
 
 ### Easy
 
@@ -1495,6 +1495,11 @@ Total de questoes resolvidas: 449
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+  - Question ID: 336
+  - Arquivo: `problems/hard/336_palindrome-pairs.py`
+  - Resolvido em: 21:09 - 28/06/26
 
 - [#1691 Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/)
   - Question ID: 1691
