@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 445
+Total de questoes resolvidas: 446
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 445
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#59 Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+  - Question ID: 59
+  - Arquivo: `problems/medium/59_spiral-matrix-ii.py`
+  - Resolvido em: 13:33 - 28/06/26
 
 - [#93 Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)
   - Question ID: 93
