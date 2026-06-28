@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 446
+Total de questoes resolvidas: 447
 
 ### Easy
 
@@ -478,6 +478,11 @@ Total de questoes resolvidas: 446
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+  - Question ID: 304
+  - Arquivo: `problems/medium/304_range-sum-query-2d-immutable.py`
+  - Resolvido em: 16:00 - 28/06/26
 
 - [#59 Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
   - Question ID: 59
