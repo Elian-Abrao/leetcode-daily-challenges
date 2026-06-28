@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 447
+Total de questoes resolvidas: 448
 
 ### Easy
 
@@ -1495,6 +1495,11 @@ Total de questoes resolvidas: 447
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1871 Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/)
+  - Question ID: 1871
+  - Arquivo: `problems/hard/1745_palindrome-partitioning-iv.py`
+  - Resolvido em: 18:00 - 28/06/26
 
 - [#214 Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
   - Question ID: 214
