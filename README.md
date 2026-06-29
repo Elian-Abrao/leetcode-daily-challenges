@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 451
+Total de questoes resolvidas: 452
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 451
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#78 Subsets](https://leetcode.com/problems/subsets/)
+  - Question ID: 78
+  - Arquivo: `problems/medium/78_subsets.py`
+  - Resolvido em: 17:05 - 29/06/26
 
 - [#395 Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
   - Question ID: 395
