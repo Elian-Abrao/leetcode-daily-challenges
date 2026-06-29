@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 450
+Total de questoes resolvidas: 451
 
 ### Easy
+
+- [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+  - Question ID: 495
+  - Arquivo: `problems/easy/495_teemo-attacking.py`
+  - Resolvido em: 13:30 - 29/06/26
 
 - [#234 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
   - Question ID: 234
