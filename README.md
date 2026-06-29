@@ -484,6 +484,11 @@ Total de questoes resolvidas: 451
 
 ### Medium
 
+- [#395 Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+  - Question ID: 395
+  - Arquivo: `problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py`
+  - Resolvido em: 15:30 - 29/06/26
+
 - [#304 Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
   - Question ID: 304
   - Arquivo: `problems/medium/304_range-sum-query-2d-immutable.py`
@@ -1478,11 +1483,6 @@ Total de questoes resolvidas: 451
   - Question ID: 347
   - Arquivo: `problems/medium/347_top-k-frequent-elements.py`
   - Resolvido em: 20:09 - 20/02/26
-
-- [#395 Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
-  - Question ID: 395
-  - Arquivo: `problems/medium/395_longest-substring-with-at-least-k-repeating-characters.py`
-  - Resolvido em: 19:07 - 20/02/26
 
 - [#192 Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192
