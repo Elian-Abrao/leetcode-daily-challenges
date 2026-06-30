@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 452
+Total de questoes resolvidas: 453
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 452
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#50 Pow(x, n)](https://leetcode.com/problems/powx-n/)
+  - Question ID: 50
+  - Arquivo: `problems/medium/50_powx-n.py`
+  - Resolvido em: 14:01 - 30/06/26
 
 - [#78 Subsets](https://leetcode.com/problems/subsets/)
   - Question ID: 78
