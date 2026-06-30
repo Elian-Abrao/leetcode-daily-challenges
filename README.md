@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 453
+Total de questoes resolvidas: 454
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 453
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#48 Rotate Image](https://leetcode.com/problems/rotate-image/)
+  - Question ID: 48
+  - Arquivo: `problems/medium/48_rotate-image.py`
+  - Resolvido em: 16:45 - 30/06/26
 
 - [#50 Pow(x, n)](https://leetcode.com/problems/powx-n/)
   - Question ID: 50
