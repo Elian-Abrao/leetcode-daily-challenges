@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 456
+Total de questoes resolvidas: 457
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 456
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#43 Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+  - Question ID: 43
+  - Arquivo: `problems/medium/43_multiply-strings.py`
+  - Resolvido em: 18:24 - 09/07/26
 
 - [#166 Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
   - Question ID: 166
