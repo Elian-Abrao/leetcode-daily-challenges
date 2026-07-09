@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 455
+Total de questoes resolvidas: 456
 
 ### Easy
 
@@ -1520,6 +1520,11 @@ Total de questoes resolvidas: 455
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#2180 Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)
+  - Question ID: 2180
+  - Arquivo: `problems/hard/2071_maximum-number-of-tasks-you-can-assign.py`
+  - Resolvido em: 16:07 - 09/07/26
 
 - [#336 Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
   - Question ID: 336
