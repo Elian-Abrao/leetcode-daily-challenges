@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 459
+Total de questoes resolvidas: 460
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 459
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#443 String Compression](https://leetcode.com/problems/string-compression/)
+  - Question ID: 443
+  - Arquivo: `problems/medium/443_string-compression.py`
+  - Resolvido em: 18:32 - 10/07/26
 
 - [#189 Rotate Array](https://leetcode.com/problems/rotate-array/)
   - Question ID: 189
