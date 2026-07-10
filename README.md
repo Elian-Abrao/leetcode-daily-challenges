@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 458
+Total de questoes resolvidas: 459
 
 ### Easy
 
@@ -1530,6 +1530,11 @@ Total de questoes resolvidas: 458
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#2201 Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
+  - Question ID: 2201
+  - Arquivo: `problems/hard/2097_valid-arrangement-of-pairs.py`
+  - Resolvido em: 15:47 - 10/07/26
 
 - [#2180 Maximum Number of Tasks You Can Assign](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)
   - Question ID: 2180
