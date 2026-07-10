@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 457
+Total de questoes resolvidas: 458
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 457
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#189 Rotate Array](https://leetcode.com/problems/rotate-array/)
+  - Question ID: 189
+  - Arquivo: `problems/medium/189_rotate-array.py`
+  - Resolvido em: 13:00 - 10/07/26
 
 - [#43 Multiply Strings](https://leetcode.com/problems/multiply-strings/)
   - Question ID: 43
