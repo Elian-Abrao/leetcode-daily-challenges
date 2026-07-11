@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 461
+Total de questoes resolvidas: 462
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 461
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#223 Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+  - Question ID: 223
+  - Arquivo: `problems/medium/223_rectangle-area.py`
+  - Resolvido em: 14:30 - 11/07/26
 
 - [#187 Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
   - Question ID: 187
