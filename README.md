@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 460
+Total de questoes resolvidas: 461
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 460
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#187 Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+  - Question ID: 187
+  - Arquivo: `problems/medium/187_repeated-dna-sequences.py`
+  - Resolvido em: 11:02 - 11/07/26
 
 - [#443 String Compression](https://leetcode.com/problems/string-compression/)
   - Question ID: 443
