@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 463
+Total de questoes resolvidas: 464
 
 ### Easy
 
@@ -1545,6 +1545,11 @@ Total de questoes resolvidas: 463
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#796 Reaching Points](https://leetcode.com/problems/reaching-points/)
+  - Question ID: 796
+  - Arquivo: `problems/hard/780_reaching-points.py`
+  - Resolvido em: 19:34 - 11/07/26
 
 - [#1569 Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
   - Question ID: 1569
