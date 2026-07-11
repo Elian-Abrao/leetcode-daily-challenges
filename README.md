@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 462
+Total de questoes resolvidas: 463
 
 ### Easy
 
@@ -1545,6 +1545,11 @@ Total de questoes resolvidas: 462
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1569 Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)
+  - Question ID: 1569
+  - Arquivo: `problems/hard/1458_max-dot-product-of-two-subsequences.py`
+  - Resolvido em: 17:30 - 11/07/26
 
 - [#2201 Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
   - Question ID: 2201
