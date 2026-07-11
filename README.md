@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 464
+Total de questoes resolvidas: 465
 
 ### Easy
 
@@ -1545,6 +1545,11 @@ Total de questoes resolvidas: 464
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1986 Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
+  - Question ID: 1986
+  - Arquivo: `problems/hard/1857_largest-color-value-in-a-directed-graph.py`
+  - Resolvido em: 22:30 - 11/07/26
 
 - [#796 Reaching Points](https://leetcode.com/problems/reaching-points/)
   - Question ID: 796
