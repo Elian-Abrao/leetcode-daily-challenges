@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 466
+Total de questoes resolvidas: 467
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 466
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#373 Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+  - Question ID: 373
+  - Arquivo: `problems/medium/373_find-k-pairs-with-smallest-sums.py`
+  - Resolvido em: 13:38 - 12/07/26
 
 - [#914 Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/)
   - Question ID: 914
