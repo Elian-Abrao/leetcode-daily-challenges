@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 470
+Total de questoes resolvidas: 471
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 470
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
+  - Question ID: 172
+  - Arquivo: `problems/medium/172_factorial-trailing-zeroes.py`
+  - Resolvido em: 21:15 - 12/07/26
 
 - [#494 Target Sum](https://leetcode.com/problems/target-sum/)
   - Question ID: 494
