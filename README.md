@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 469
+Total de questoes resolvidas: 470
 
 ### Easy
 
@@ -1560,6 +1560,11 @@ Total de questoes resolvidas: 469
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1953 Finding MK Average](https://leetcode.com/problems/finding-mk-average/)
+  - Question ID: 1953
+  - Arquivo: `problems/hard/1825_finding-mk-average.py`
+  - Resolvido em: 19:39 - 12/07/26
 
 - [#1977 Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
   - Question ID: 1977
