@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 467
+Total de questoes resolvidas: 468
 
 ### Easy
 
@@ -483,6 +483,11 @@ Total de questoes resolvidas: 467
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#494 Target Sum](https://leetcode.com/problems/target-sum/)
+  - Question ID: 494
+  - Arquivo: `problems/medium/494_target-sum.py`
+  - Resolvido em: 16:08 - 12/07/26
 
 - [#373 Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
   - Question ID: 373
