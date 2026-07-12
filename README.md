@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 468
+Total de questoes resolvidas: 469
 
 ### Easy
 
@@ -1560,6 +1560,11 @@ Total de questoes resolvidas: 468
   - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
+
+- [#1977 Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/)
+  - Question ID: 1977
+  - Arquivo: `problems/hard/1851_minimum-interval-to-include-each-query.py`
+  - Resolvido em: 18:04 - 12/07/26
 
 - [#1986 Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)
   - Question ID: 1986
