@@ -489,6 +489,11 @@ Total de questoes resolvidas: 473
 
 ### Medium
 
+- [#61 Rotate List](https://leetcode.com/problems/rotate-list/)
+  - Question ID: 61
+  - Arquivo: `problems/medium/61_rotate-list.py`
+  - Resolvido em: 17:08 - 13/07/26
+
 - [#79 Word Search](https://leetcode.com/problems/word-search/)
   - Question ID: 79
   - Arquivo: `problems/medium/79_word-search.py`
@@ -1568,11 +1573,6 @@ Total de questoes resolvidas: 473
   - Question ID: 402
   - Arquivo: `problems/medium/402_remove-k-digits.py`
   - Resolvido em: 15:00 - 20/02/26
-
-- [#61 List](https://leetcode.com/problems/rotate-list/)
-  - Question ID: 61
-  - Arquivo: `problems/medium/61_rotate-list.py`
-  - Resolvido em: 14:59 - 20/02/26
 
 ### Hard
 
