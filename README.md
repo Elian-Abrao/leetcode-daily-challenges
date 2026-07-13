@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 472
+Total de questoes resolvidas: 473
 
 ### Easy
 
@@ -488,6 +488,11 @@ Total de questoes resolvidas: 472
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#79 Word Search](https://leetcode.com/problems/word-search/)
+  - Question ID: 79
+  - Arquivo: `problems/medium/79_word-search.py`
+  - Resolvido em: 15:32 - 13/07/26
 
 - [#172 Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
   - Question ID: 172
