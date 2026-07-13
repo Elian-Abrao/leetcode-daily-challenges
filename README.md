@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 471
+Total de questoes resolvidas: 472
 
 ### Easy
+
+- [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+  - Question ID: 217
+  - Arquivo: `problems/easy/217_contains-duplicate.py`
+  - Resolvido em: 13:30 - 13/07/26
 
 - [#495 Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
   - Question ID: 495
