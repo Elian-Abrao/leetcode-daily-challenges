@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 475
+Total de questoes resolvidas: 476
 
 ### Easy
 
@@ -498,6 +498,11 @@ Total de questoes resolvidas: 475
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
+  - Question ID: 477
+  - Arquivo: `problems/medium/477_total-hamming-distance.py`
+  - Resolvido em: 21:23 - 14/07/26
 
 - [#61 Rotate List](https://leetcode.com/problems/rotate-list/)
   - Question ID: 61
