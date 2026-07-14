@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 474
+Total de questoes resolvidas: 475
 
 ### Easy
+
+- [#112 Path Sum](https://leetcode.com/problems/path-sum/)
+  - Question ID: 112
+  - Arquivo: `problems/easy/112_path-sum.py`
+  - Resolvido em: 16:44 - 14/07/26
 
 - [#461 Hamming Distance](https://leetcode.com/problems/hamming-distance/)
   - Question ID: 461
