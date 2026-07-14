@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 473
+Total de questoes resolvidas: 474
 
 ### Easy
+
+- [#461 Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+  - Question ID: 461
+  - Arquivo: `problems/easy/461_hamming-distance.py`
+  - Resolvido em: 14:03 - 14/07/26
 
 - [#217 Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
   - Question ID: 217
