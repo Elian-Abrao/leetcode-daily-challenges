@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 476
+Total de questoes resolvidas: 477
 
 ### Easy
 
@@ -498,6 +498,11 @@ Total de questoes resolvidas: 476
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#454 4Sum II](https://leetcode.com/problems/4sum-ii/)
+  - Question ID: 454
+  - Arquivo: `problems/medium/454_4sum-ii.py`
+  - Resolvido em: 12:00 - 15/07/26
 
 - [#477 Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
   - Question ID: 477
