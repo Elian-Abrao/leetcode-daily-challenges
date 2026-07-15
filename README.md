@@ -499,6 +499,11 @@ Total de questoes resolvidas: 478
 
 ### Medium
 
+- [#402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+  - Question ID: 402
+  - Arquivo: `problems/medium/402_remove-k-digits.py`
+  - Resolvido em: 19:00 - 15/07/26
+
 - [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
   - Question ID: 103
   - Arquivo: `problems/medium/103_binary-tree-zigzag-level-order-traversal.py`
@@ -1593,11 +1598,6 @@ Total de questoes resolvidas: 478
   - Question ID: 192
   - Arquivo: `problems/medium/192_word-frequency.py`
   - Resolvido em: 15:01 - 20/02/26
-
-- [#402 Digits](https://leetcode.com/problems/remove-k-digits/)
-  - Question ID: 402
-  - Arquivo: `problems/medium/402_remove-k-digits.py`
-  - Resolvido em: 15:00 - 20/02/26
 
 ### Hard
 
