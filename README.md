@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 477
+Total de questoes resolvidas: 478
 
 ### Easy
 
@@ -498,6 +498,11 @@ Total de questoes resolvidas: 477
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#103 Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+  - Question ID: 103
+  - Arquivo: `problems/medium/103_binary-tree-zigzag-level-order-traversal.py`
+  - Resolvido em: 16:08 - 15/07/26
 
 - [#454 4Sum II](https://leetcode.com/problems/4sum-ii/)
   - Question ID: 454
