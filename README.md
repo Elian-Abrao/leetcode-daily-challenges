@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 479
+Total de questoes resolvidas: 480
 
 ### Easy
 
@@ -1605,6 +1605,11 @@ Total de questoes resolvidas: 479
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#407 Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
+  - Question ID: 407
+  - Arquivo: `problems/hard/407_trapping-rain-water-ii.py`
+  - Resolvido em: 15:00 - 16/07/26
 
 - [#1953 Finding MK Average](https://leetcode.com/problems/finding-mk-average/)
   - Question ID: 1953
