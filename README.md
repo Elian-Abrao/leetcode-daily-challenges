@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 478
+Total de questoes resolvidas: 479
 
 ### Easy
+
+- [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+  - Question ID: 104
+  - Arquivo: `problems/easy/104_maximum-depth-of-binary-tree.py`
+  - Resolvido em: 12:33 - 16/07/26
 
 - [#112 Path Sum](https://leetcode.com/problems/path-sum/)
   - Question ID: 112
