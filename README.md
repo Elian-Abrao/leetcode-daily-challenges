@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 481
+Total de questoes resolvidas: 482
 
 ### Easy
 
@@ -1610,6 +1610,11 @@ Total de questoes resolvidas: 481
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#894 Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
+  - Question ID: 894
+  - Arquivo: `problems/hard/710_random-pick-with-blacklist.py`
+  - Resolvido em: 15:30 - 17/07/26
 
 - [#407 Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)
   - Question ID: 407
