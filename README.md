@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 482
+Total de questoes resolvidas: 483
 
 ### Easy
 
@@ -503,6 +503,11 @@ Total de questoes resolvidas: 482
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+  - Question ID: 241
+  - Arquivo: `problems/medium/241_different-ways-to-add-parentheses.py`
+  - Resolvido em: 18:30 - 17/07/26
 
 - [#230 Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
   - Question ID: 230
