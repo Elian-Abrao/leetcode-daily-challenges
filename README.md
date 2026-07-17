@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 480
+Total de questoes resolvidas: 481
 
 ### Easy
 
@@ -503,6 +503,11 @@ Total de questoes resolvidas: 480
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#230 Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
+  - Question ID: 230
+  - Arquivo: `problems/medium/230_kth-smallest-element-in-a-bst.py`
+  - Resolvido em: 13:08 - 17/07/26
 
 - [#402 Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
   - Question ID: 402
