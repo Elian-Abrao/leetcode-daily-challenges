@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 484
+Total de questoes resolvidas: 485
 
 ### Easy
 
@@ -508,6 +508,11 @@ Total de questoes resolvidas: 484
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#688 Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
+  - Question ID: 688
+  - Arquivo: `problems/medium/688_knight-probability-in-chessboard.py`
+  - Resolvido em: 14:31 - 18/07/26
 
 - [#241 Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
   - Question ID: 241
