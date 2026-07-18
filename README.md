@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 486
+Total de questoes resolvidas: 487
 
 ### Easy
 
@@ -1625,6 +1625,11 @@ Total de questoes resolvidas: 486
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#935 Orderly Queue](https://leetcode.com/problems/orderly-queue/)
+  - Question ID: 935
+  - Arquivo: `problems/hard/899_orderly-queue.py`
+  - Resolvido em: 19:33 - 18/07/26
 
 - [#1875 Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/)
   - Question ID: 1875
