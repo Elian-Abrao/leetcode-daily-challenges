@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 487
+Total de questoes resolvidas: 488
 
 ### Easy
 
@@ -1625,6 +1625,11 @@ Total de questoes resolvidas: 487
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1038 Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
+  - Question ID: 1038
+  - Arquivo: `problems/hard/996_number-of-squareful-arrays.py`
+  - Resolvido em: 22:33 - 18/07/26
 
 - [#935 Orderly Queue](https://leetcode.com/problems/orderly-queue/)
   - Question ID: 935
