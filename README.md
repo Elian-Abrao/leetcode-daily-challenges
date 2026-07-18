@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 483
+Total de questoes resolvidas: 484
 
 ### Easy
+
+- [#401 Binary Watch](https://leetcode.com/problems/binary-watch/)
+  - Question ID: 401
+  - Arquivo: `problems/easy/401_binary-watch.py`
+  - Resolvido em: 11:03 - 18/07/26
 
 - [#104 Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
   - Question ID: 104
