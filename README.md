@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 485
+Total de questoes resolvidas: 486
 
 ### Easy
 
@@ -1625,6 +1625,11 @@ Total de questoes resolvidas: 485
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1875 Tree of Coprimes](https://leetcode.com/problems/tree-of-coprimes/)
+  - Question ID: 1875
+  - Arquivo: `problems/hard/1766_tree-of-coprimes.py`
+  - Resolvido em: 17:39 - 18/07/26
 
 - [#894 Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)
   - Question ID: 894
