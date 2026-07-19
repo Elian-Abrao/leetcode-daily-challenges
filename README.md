@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 490
+Total de questoes resolvidas: 491
 
 ### Easy
 
@@ -508,6 +508,11 @@ Total de questoes resolvidas: 490
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
+  - Question ID: 357
+  - Arquivo: `problems/medium/357_count-numbers-with-unique-digits.py`
+  - Resolvido em: 16:03 - 19/07/26
 
 - [#5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   - Question ID: 5
