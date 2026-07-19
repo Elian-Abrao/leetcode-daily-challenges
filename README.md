@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 491
+Total de questoes resolvidas: 492
 
 ### Easy
 
@@ -1635,6 +1635,11 @@ Total de questoes resolvidas: 491
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/)
+  - Question ID: 514
+  - Arquivo: `problems/hard/514_freedom-trail.py`
+  - Resolvido em: 18:00 - 19/07/26
 
 - [#330 Patching Array](https://leetcode.com/problems/patching-array/)
   - Question ID: 330
