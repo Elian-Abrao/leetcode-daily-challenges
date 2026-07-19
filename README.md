@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 493
+Total de questoes resolvidas: 494
 
 ### Easy
 
@@ -1635,6 +1635,11 @@ Total de questoes resolvidas: 493
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#233 Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
+  - Question ID: 233
+  - Arquivo: `problems/hard/233_number-of-digit-one.py`
+  - Resolvido em: 21:09 - 19/07/26
 
 - [#1106 Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)
   - Question ID: 1106
