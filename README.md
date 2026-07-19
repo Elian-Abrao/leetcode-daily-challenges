@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 492
+Total de questoes resolvidas: 493
 
 ### Easy
 
@@ -1635,6 +1635,11 @@ Total de questoes resolvidas: 492
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1106 Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze/)
+  - Question ID: 1106
+  - Arquivo: `problems/hard/1036_escape-a-large-maze.py`
+  - Resolvido em: 19:30 - 19/07/26
 
 - [#514 Freedom Trail](https://leetcode.com/problems/freedom-trail/)
   - Question ID: 514
