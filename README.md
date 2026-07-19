@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 488
+Total de questoes resolvidas: 489
 
 ### Easy
 
@@ -1625,6 +1625,11 @@ Total de questoes resolvidas: 488
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#330 Patching Array](https://leetcode.com/problems/patching-array/)
+  - Question ID: 330
+  - Arquivo: `problems/hard/330_patching-array.py`
+  - Resolvido em: 12:09 - 19/07/26
 
 - [#1038 Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/)
   - Question ID: 1038
