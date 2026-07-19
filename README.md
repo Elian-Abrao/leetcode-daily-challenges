@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 489
+Total de questoes resolvidas: 490
 
 ### Easy
 
@@ -508,6 +508,11 @@ Total de questoes resolvidas: 489
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  - Question ID: 5
+  - Arquivo: `problems/medium/5_longest-palindromic-substring.py`
+  - Resolvido em: 13:30 - 19/07/26
 
 - [#688 Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
   - Question ID: 688
