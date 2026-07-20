@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 496
+Total de questoes resolvidas: 497
 
 ### Easy
 
@@ -1645,6 +1645,11 @@ Total de questoes resolvidas: 496
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#85 Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+  - Question ID: 85
+  - Arquivo: `problems/hard/85_maximal-rectangle.py`
+  - Resolvido em: 17:06 - 20/07/26
 
 - [#233 Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)
   - Question ID: 233
