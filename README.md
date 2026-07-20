@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 494
+Total de questoes resolvidas: 495
 
 ### Easy
 
@@ -508,6 +508,11 @@ Total de questoes resolvidas: 494
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#376 Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+  - Question ID: 376
+  - Arquivo: `problems/medium/376_wiggle-subsequence.py`
+  - Resolvido em: 13:39 - 20/07/26
 
 - [#357 Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)
   - Question ID: 357
