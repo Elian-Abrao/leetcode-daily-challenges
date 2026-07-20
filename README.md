@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 495
+Total de questoes resolvidas: 496
 
 ### Easy
+
+- [#228 Summary Ranges](https://leetcode.com/problems/summary-ranges/)
+  - Question ID: 228
+  - Arquivo: `problems/easy/228_summary-ranges.py`
+  - Resolvido em: 15:33 - 20/07/26
 
 - [#401 Binary Watch](https://leetcode.com/problems/binary-watch/)
   - Question ID: 401
