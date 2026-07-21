@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 497
+Total de questoes resolvidas: 498
 
 ### Easy
 
@@ -513,6 +513,11 @@ Total de questoes resolvidas: 497
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#47 Permutations II](https://leetcode.com/problems/permutations-ii/)
+  - Question ID: 47
+  - Arquivo: `problems/medium/47_permutations-ii.py`
+  - Resolvido em: 14:01 - 21/07/26
 
 - [#376 Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
   - Question ID: 376
