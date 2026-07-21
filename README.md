@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 499
+Total de questoes resolvidas: 500
 
 ### Easy
+
+- [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+  - Question ID: 441
+  - Arquivo: `problems/easy/441_arranging-coins.py`
+  - Resolvido em: 21:15 - 21/07/26
 
 - [#228 Summary Ranges](https://leetcode.com/problems/summary-ranges/)
   - Question ID: 228
