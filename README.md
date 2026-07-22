@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 501
+Total de questoes resolvidas: 502
 
 ### Easy
 
@@ -518,6 +518,11 @@ Total de questoes resolvidas: 501
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#97 Interleaving String](https://leetcode.com/problems/interleaving-string/)
+  - Question ID: 97
+  - Arquivo: `problems/medium/97_interleaving-string.py`
+  - Resolvido em: 19:15 - 22/07/26
 
 - [#129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
   - Question ID: 129
