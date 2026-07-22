@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 500
+Total de questoes resolvidas: 501
 
 ### Easy
 
@@ -518,6 +518,11 @@ Total de questoes resolvidas: 500
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#129 Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+  - Question ID: 129
+  - Arquivo: `problems/medium/129_sum-root-to-leaf-numbers.py`
+  - Resolvido em: 12:00 - 22/07/26
 
 - [#417 Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)
   - Question ID: 417
