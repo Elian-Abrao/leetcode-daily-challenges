@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 502
+Total de questoes resolvidas: 503
 
 ### Easy
+
+- [#193 Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
+  - Question ID: 193
+  - Arquivo: `problems/easy/193_valid-phone-numbers.py`
+  - Resolvido em: 12:33 - 23/07/26
 
 - [#441 Arranging Coins](https://leetcode.com/problems/arranging-coins/)
   - Question ID: 441
