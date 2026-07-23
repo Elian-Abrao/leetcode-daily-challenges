@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 503
+Total de questoes resolvidas: 504
 
 ### Easy
 
@@ -523,6 +523,11 @@ Total de questoes resolvidas: 503
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+  - Question ID: 151
+  - Arquivo: `problems/medium/151_reverse-words-in-a-string.py`
+  - Resolvido em: 15:00 - 23/07/26
 
 - [#97 Interleaving String](https://leetcode.com/problems/interleaving-string/)
   - Question ID: 97
