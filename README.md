@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 504
+Total de questoes resolvidas: 505
 
 ### Easy
 
@@ -1680,6 +1680,11 @@ Total de questoes resolvidas: 504
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#488 Zuma Game](https://leetcode.com/problems/zuma-game/)
+  - Question ID: 488
+  - Arquivo: `problems/hard/488_zuma-game.py`
+  - Resolvido em: 18:25 - 23/07/26
 
 - [#85 Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
   - Question ID: 85
