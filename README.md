@@ -12,6 +12,11 @@ Total de questoes resolvidas: 505
 
 ### Easy
 
+- [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+  - Question ID: 14
+  - Arquivo: `problems/easy/14_longest-common-prefix.py`
+  - Resolvido em: 13:00 - 24/07/26
+
 - [#193 Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)
   - Question ID: 193
   - Arquivo: `problems/easy/193_valid-phone-numbers.py`
@@ -491,11 +496,6 @@ Total de questoes resolvidas: 505
   - Question ID: 175
   - Arquivo: `problems/easy/175_combine-two-tables.py`
   - Resolvido em: 19:04 - 20/02/26
-
-- [#14 Prefix](https://leetcode.com/problems/longest-common-prefix/)
-  - Question ID: 14
-  - Arquivo: `problems/easy/14_longest-common-prefix.py`
-  - Resolvido em: 19:00 - 20/02/26
 
 - [#1668 Substring](https://leetcode.com/problems/maximum-repeating-substring/)
   - Question ID: 1668
