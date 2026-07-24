@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 505
+Total de questoes resolvidas: 506
 
 ### Easy
 
@@ -1680,6 +1680,11 @@ Total de questoes resolvidas: 505
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1043 Grid Illumination](https://leetcode.com/problems/grid-illumination/)
+  - Question ID: 1043
+  - Arquivo: `problems/hard/1001_grid-illumination.py`
+  - Resolvido em: 15:30 - 24/07/26
 
 - [#488 Zuma Game](https://leetcode.com/problems/zuma-game/)
   - Question ID: 488
