@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 506
+Total de questoes resolvidas: 507
 
 ### Easy
 
@@ -523,6 +523,11 @@ Total de questoes resolvidas: 506
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#891 Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)
+  - Question ID: 891
+  - Arquivo: `problems/medium/861_score-after-flipping-matrix.py`
+  - Resolvido em: 14:30 - 25/07/26
 
 - [#151 Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
   - Question ID: 151
