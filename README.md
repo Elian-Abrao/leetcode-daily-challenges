@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 509
+Total de questoes resolvidas: 510
 
 ### Easy
 
@@ -1685,6 +1685,11 @@ Total de questoes resolvidas: 509
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1727 Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)
+  - Question ID: 1727
+  - Arquivo: `problems/hard/1728_cat-and-mouse-ii.py`
+  - Resolvido em: 22:34 - 25/07/26
 
 - [#2079 Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)
   - Question ID: 2079
