@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 508
+Total de questoes resolvidas: 509
 
 ### Easy
 
@@ -1685,6 +1685,11 @@ Total de questoes resolvidas: 508
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#2079 Delete Duplicate Folders in System](https://leetcode.com/problems/delete-duplicate-folders-in-system/)
+  - Question ID: 2079
+  - Arquivo: `problems/hard/1948_delete-duplicate-folders-in-system.py`
+  - Resolvido em: 19:33 - 25/07/26
 
 - [#2368 Sum of Total Strength of Wizards](https://leetcode.com/problems/sum-of-total-strength-of-wizards/)
   - Question ID: 2368
