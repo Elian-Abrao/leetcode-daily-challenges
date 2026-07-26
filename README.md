@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 512
+Total de questoes resolvidas: 513
 
 ### Easy
 
@@ -1690,6 +1690,11 @@ Total de questoes resolvidas: 512
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1393 Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
+  - Question ID: 1393
+  - Arquivo: `problems/hard/2218_maximum-value-of-k-coins-from-piles.py`
+  - Resolvido em: 18:04 - 26/07/26
 
 - [#174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
   - Question ID: 174
