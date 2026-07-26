@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 511
+Total de questoes resolvidas: 512
 
 ### Easy
 
@@ -523,6 +523,11 @@ Total de questoes resolvidas: 511
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+  - Question ID: 237
+  - Arquivo: `problems/medium/237_delete-node-in-a-linked-list.py`
+  - Resolvido em: 13:33 - 26/07/26
 
 - [#891 Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)
   - Question ID: 891
