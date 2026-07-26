@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 510
+Total de questoes resolvidas: 511
 
 ### Easy
 
@@ -1685,6 +1685,11 @@ Total de questoes resolvidas: 510
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#174 Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+  - Question ID: 174
+  - Arquivo: `problems/hard/174_dungeon-game.py`
+  - Resolvido em: 12:09 - 26/07/26
 
 - [#1727 Cat and Mouse II](https://leetcode.com/problems/cat-and-mouse-ii/)
   - Question ID: 1727
