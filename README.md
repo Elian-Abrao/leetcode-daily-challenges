@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 513
+Total de questoes resolvidas: 514
 
 ### Easy
 
@@ -1690,6 +1690,11 @@ Total de questoes resolvidas: 513
   - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
+
+- [#1024 Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)
+  - Question ID: 1024
+  - Arquivo: `problems/hard/982_triples-with-bitwise-and-equal-to-zero.py`
+  - Resolvido em: 19:56 - 26/07/26
 
 - [#1393 Maximum Value of K Coins From Piles](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/)
   - Question ID: 1393
