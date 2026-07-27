@@ -524,6 +524,11 @@ Total de questoes resolvidas: 515
 
 ### Medium
 
+- [#192 Word Frequency](https://leetcode.com/problems/word-frequency/)
+  - Question ID: 192
+  - Arquivo: `problems/medium/192_word-frequency.py`
+  - Resolvido em: 17:16 - 27/07/26
+
 - [#120 Triangle](https://leetcode.com/problems/triangle/)
   - Question ID: 120
   - Arquivo: `problems/medium/120_triangle.py`
@@ -1688,11 +1693,6 @@ Total de questoes resolvidas: 515
   - Question ID: 347
   - Arquivo: `problems/medium/347_top-k-frequent-elements.py`
   - Resolvido em: 20:09 - 20/02/26
-
-- [#192 Frequency](https://leetcode.com/problems/word-frequency/)
-  - Question ID: 192
-  - Arquivo: `problems/medium/192_word-frequency.py`
-  - Resolvido em: 15:01 - 20/02/26
 
 ### Hard
 
