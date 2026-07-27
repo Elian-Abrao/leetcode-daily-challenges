@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 514
+Total de questoes resolvidas: 515
 
 ### Easy
 
@@ -523,6 +523,11 @@ Total de questoes resolvidas: 514
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#120 Triangle](https://leetcode.com/problems/triangle/)
+  - Question ID: 120
+  - Arquivo: `problems/medium/120_triangle.py`
+  - Resolvido em: 13:46 - 27/07/26
 
 - [#237 Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
   - Question ID: 237
