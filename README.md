@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 515
+Total de questoes resolvidas: 516
 
 ### Easy
+
+- [#482 License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
+  - Question ID: 482
+  - Arquivo: `problems/easy/482_license-key-formatting.py`
+  - Resolvido em: 14:01 - 28/07/26
 
 - [#14 Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
   - Question ID: 14
