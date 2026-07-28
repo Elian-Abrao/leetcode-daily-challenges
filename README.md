@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 517
+Total de questoes resolvidas: 518
 
 ### Easy
 
@@ -528,6 +528,11 @@ Total de questoes resolvidas: 517
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#385 Mini Parser](https://leetcode.com/problems/mini-parser/)
+  - Question ID: 385
+  - Arquivo: `problems/medium/385_mini-parser.py`
+  - Resolvido em: 21:08 - 28/07/26
 
 - [#139 Word Break](https://leetcode.com/problems/word-break/)
   - Question ID: 139
