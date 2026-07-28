@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 516
+Total de questoes resolvidas: 517
 
 ### Easy
 
@@ -528,6 +528,11 @@ Total de questoes resolvidas: 516
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#139 Word Break](https://leetcode.com/problems/word-break/)
+  - Question ID: 139
+  - Arquivo: `problems/medium/139_word-break.py`
+  - Resolvido em: 16:38 - 28/07/26
 
 - [#192 Word Frequency](https://leetcode.com/problems/word-frequency/)
   - Question ID: 192
