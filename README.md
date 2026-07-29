@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 518
+Total de questoes resolvidas: 519
 
 ### Easy
+
+- [#374 Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+  - Question ID: 374
+  - Arquivo: `problems/easy/374_guess-number-higher-or-lower.py`
+  - Resolvido em: 12:24 - 29/07/26
 
 - [#482 License Key Formatting](https://leetcode.com/problems/license-key-formatting/)
   - Question ID: 482
