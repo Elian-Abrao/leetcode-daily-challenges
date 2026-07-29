@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 519
+Total de questoes resolvidas: 520
 
 ### Easy
+
+- [#387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+  - Question ID: 387
+  - Arquivo: `problems/easy/387_first-unique-character-in-a-string.py`
+  - Resolvido em: 19:07 - 29/07/26
 
 - [#374 Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
   - Question ID: 374
