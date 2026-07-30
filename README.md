@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 520
+Total de questoes resolvidas: 521
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 520
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#457 Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
+  - Question ID: 457
+  - Arquivo: `problems/medium/457_circular-array-loop.py`
+  - Resolvido em: 18:03 - 30/07/26
 
 - [#385 Mini Parser](https://leetcode.com/problems/mini-parser/)
   - Question ID: 385
