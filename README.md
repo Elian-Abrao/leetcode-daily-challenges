@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 521
+Total de questoes resolvidas: 522
 
 ### Easy
 
@@ -1725,6 +1725,11 @@ Total de questoes resolvidas: 521
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1344 Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)
+  - Question ID: 1344
+  - Arquivo: `problems/hard/1224_maximum-equal-frequency.py`
+  - Resolvido em: 15:33 - 31/07/26
 
 - [#1024 Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/)
   - Question ID: 1024
