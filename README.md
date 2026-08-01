@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 523
+Total de questoes resolvidas: 524
 
 ### Easy
 
@@ -1730,6 +1730,11 @@ Total de questoes resolvidas: 523
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1332 Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
+  - Question ID: 1332
+  - Arquivo: `problems/hard/1220_count-vowels-permutation.py`
+  - Resolvido em: 17:34 - 01/08/26
 
 - [#1344 Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency/)
   - Question ID: 1344
