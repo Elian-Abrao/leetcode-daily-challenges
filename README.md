@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 525
+Total de questoes resolvidas: 526
 
 ### Easy
 
@@ -1730,6 +1730,11 @@ Total de questoes resolvidas: 525
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1696 Strange Printer II](https://leetcode.com/problems/strange-printer-ii/)
+  - Question ID: 1696
+  - Arquivo: `problems/hard/1591_strange-printer-ii.py`
+  - Resolvido em: 22:30 - 01/08/26
 
 - [#1669 Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
   - Question ID: 1669
