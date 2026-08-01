@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 522
+Total de questoes resolvidas: 523
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 522
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#621 Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+  - Question ID: 621
+  - Arquivo: `problems/medium/621_task-scheduler.py`
+  - Resolvido em: 14:31 - 01/08/26
 
 - [#457 Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
   - Question ID: 457
