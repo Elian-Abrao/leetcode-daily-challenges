@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 524
+Total de questoes resolvidas: 525
 
 ### Easy
 
@@ -1730,6 +1730,11 @@ Total de questoes resolvidas: 524
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1669 Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)
+  - Question ID: 1669
+  - Arquivo: `problems/hard/1547_minimum-cost-to-cut-a-stick.py`
+  - Resolvido em: 19:33 - 01/08/26
 
 - [#1332 Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation/)
   - Question ID: 1332
