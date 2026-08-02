@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 526
+Total de questoes resolvidas: 527
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 526
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#467 Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)
+  - Question ID: 467
+  - Arquivo: `problems/medium/467_unique-substrings-in-wraparound-string.py`
+  - Resolvido em: 13:30 - 02/08/26
 
 - [#621 Task Scheduler](https://leetcode.com/problems/task-scheduler/)
   - Question ID: 621
