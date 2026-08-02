@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 527
+Total de questoes resolvidas: 528
 
 ### Easy
 
@@ -1735,6 +1735,11 @@ Total de questoes resolvidas: 527
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1728 Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
+  - Question ID: 1728
+  - Arquivo: `problems/hard/1622_fancy-sequence.py`
+  - Resolvido em: 18:00 - 02/08/26
 
 - [#1696 Strange Printer II](https://leetcode.com/problems/strange-printer-ii/)
   - Question ID: 1696
