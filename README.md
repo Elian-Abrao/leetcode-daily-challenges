@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 528
+Total de questoes resolvidas: 529
 
 ### Easy
 
@@ -1735,6 +1735,11 @@ Total de questoes resolvidas: 528
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1461 Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
+  - Question ID: 1461
+  - Arquivo: `problems/hard/1359_count-all-valid-pickup-and-delivery-options.py`
+  - Resolvido em: 19:30 - 02/08/26
 
 - [#1728 Fancy Sequence](https://leetcode.com/problems/fancy-sequence/)
   - Question ID: 1728
