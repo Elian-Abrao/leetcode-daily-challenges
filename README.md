@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 529
+Total de questoes resolvidas: 530
 
 ### Easy
 
@@ -1735,6 +1735,11 @@ Total de questoes resolvidas: 529
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+  - Question ID: 315
+  - Arquivo: `problems/hard/315_count-of-smaller-numbers-after-self.py`
+  - Resolvido em: 21:03 - 02/08/26
 
 - [#1461 Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)
   - Question ID: 1461
