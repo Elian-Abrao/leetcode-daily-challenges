@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 530
+Total de questoes resolvidas: 531
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 530
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+  - Question ID: 309
+  - Arquivo: `problems/medium/309_best-time-to-buy-and-sell-stock-with-cooldown.py`
+  - Resolvido em: 16:38 - 04/08/26
 
 - [#467 Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/)
   - Question ID: 467
