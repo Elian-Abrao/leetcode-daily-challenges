@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 531
+Total de questoes resolvidas: 532
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 531
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#167 Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - Question ID: 167
+  - Arquivo: `problems/medium/167_two-sum-ii-input-array-is-sorted.py`
+  - Resolvido em: 19:00 - 05/08/26
 
 - [#309 Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
   - Question ID: 309
