@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 532
+Total de questoes resolvidas: 533
 
 ### Easy
 
@@ -1745,6 +1745,11 @@ Total de questoes resolvidas: 532
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1133 Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
+  - Question ID: 1133
+  - Arquivo: `problems/hard/1163_last-substring-in-lexicographical-order.py`
+  - Resolvido em: 15:46 - 07/08/26
 
 - [#315 Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
   - Question ID: 315
