@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 533
+Total de questoes resolvidas: 534
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 533
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#6 Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+  - Question ID: 6
+  - Arquivo: `problems/medium/6_zigzag-conversion.py`
+  - Resolvido em: 18:45 - 07/08/26
 
 - [#167 Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
   - Question ID: 167
