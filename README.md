@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 534
+Total de questoes resolvidas: 535
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 534
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#729 My Calendar I](https://leetcode.com/problems/my-calendar-i/)
+  - Question ID: 729
+  - Arquivo: `problems/medium/729_my-calendar-i.py`
+  - Resolvido em: 14:30 - 08/08/26
 
 - [#6 Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
   - Question ID: 6
