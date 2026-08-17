@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 535
+Total de questoes resolvidas: 536
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 535
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
+  - Question ID: 473
+  - Arquivo: `problems/medium/473_matchsticks-to-square.py`
+  - Resolvido em: 13:19 - 17/08/26
 
 - [#729 My Calendar I](https://leetcode.com/problems/my-calendar-i/)
   - Question ID: 729
