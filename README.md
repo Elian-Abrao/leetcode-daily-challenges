@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 536
+Total de questoes resolvidas: 537
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 536
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#388 Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
+  - Question ID: 388
+  - Arquivo: `problems/medium/388_longest-absolute-file-path.py`
+  - Resolvido em: 13:31 - 17/08/26
 
 - [#473 Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
   - Question ID: 473
