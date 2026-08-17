@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 538
+Total de questoes resolvidas: 539
 
 ### Easy
 
@@ -1770,6 +1770,11 @@ Total de questoes resolvidas: 538
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#446 Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+  - Question ID: 446
+  - Arquivo: `problems/hard/446_arithmetic-slices-ii-subsequence.py`
+  - Resolvido em: 17:00 - 17/08/26
 
 - [#1133 Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
   - Question ID: 1133
