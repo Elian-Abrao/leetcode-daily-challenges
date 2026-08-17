@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 537
+Total de questoes resolvidas: 538
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 537
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#464 Can I Win](https://leetcode.com/problems/can-i-win/)
+  - Question ID: 464
+  - Arquivo: `problems/medium/464_can-i-win.py`
+  - Resolvido em: 15:59 - 17/08/26
 
 - [#388 Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)
   - Question ID: 388
