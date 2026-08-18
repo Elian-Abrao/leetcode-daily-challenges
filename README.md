@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 539
+Total de questoes resolvidas: 540
 
 ### Easy
 
@@ -1770,6 +1770,11 @@ Total de questoes resolvidas: 539
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#212 Word Search II](https://leetcode.com/problems/word-search-ii/)
+  - Question ID: 212
+  - Arquivo: `problems/hard/212_word-search-ii.py`
+  - Resolvido em: 14:18 - 18/08/26
 
 - [#446 Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
   - Question ID: 446
