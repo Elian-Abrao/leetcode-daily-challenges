@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 540
+Total de questoes resolvidas: 541
 
 ### Easy
+
+- [#195 Tenth Line](https://leetcode.com/problems/tenth-line/)
+  - Question ID: 195
+  - Arquivo: `problems/easy/195_tenth-line.py`
+  - Resolvido em: 16:39 - 18/08/26
 
 - [#387 First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
   - Question ID: 387
