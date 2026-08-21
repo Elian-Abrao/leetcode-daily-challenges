@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 541
+Total de questoes resolvidas: 542
 
 ### Easy
 
@@ -1775,6 +1775,11 @@ Total de questoes resolvidas: 541
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2193 Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/)
+  - Question ID: 2193
+  - Arquivo: `problems/hard/2088_count-fertile-pyramids-in-a-land.py`
+  - Resolvido em: 16:05 - 21/08/26
 
 - [#212 Word Search II](https://leetcode.com/problems/word-search-ii/)
   - Question ID: 212
