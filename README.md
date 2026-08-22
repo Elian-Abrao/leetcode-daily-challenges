@@ -517,11 +517,6 @@ Total de questoes resolvidas: 543
   - Arquivo: `problems/easy/175_combine-two-tables.py`
   - Resolvido em: 19:04 - 20/02/26
 
-- [#1668 Substring](https://leetcode.com/problems/maximum-repeating-substring/)
-  - Question ID: 1668
-  - Arquivo: `problems/easy/1668_maximum-repeating-substring.py`
-  - Resolvido em: 14:36 - 19/02/26
-
 - [#1137 Number](https://leetcode.com/problems/n-th-tribonacci-number/)
   - Question ID: 1137
   - Arquivo: `problems/easy/1137_n-th-tribonacci-number.py`
@@ -1780,6 +1775,11 @@ Total de questoes resolvidas: 543
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1668 Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
+  - Question ID: 1668
+  - Arquivo: `problems/hard/1542_find-longest-awesome-substring.py`
+  - Resolvido em: 17:30 - 22/08/26
 
 - [#2193 Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/)
   - Question ID: 2193
