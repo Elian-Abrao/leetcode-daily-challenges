@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 542
+Total de questoes resolvidas: 543
 
 ### Easy
 
@@ -543,6 +543,11 @@ Total de questoes resolvidas: 542
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#909 Stone Game](https://leetcode.com/problems/stone-game/)
+  - Question ID: 909
+  - Arquivo: `problems/medium/877_stone-game.py`
+  - Resolvido em: 15:02 - 22/08/26
 
 - [#464 Can I Win](https://leetcode.com/problems/can-i-win/)
   - Question ID: 464
