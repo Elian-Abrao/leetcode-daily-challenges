@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 543
+Total de questoes resolvidas: 544
 
 ### Easy
 
@@ -1775,6 +1775,11 @@ Total de questoes resolvidas: 543
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1659 Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/)
+  - Question ID: 1659
+  - Arquivo: `problems/hard/1537_get-the-maximum-score.py`
+  - Resolvido em: 19:30 - 22/08/26
 
 - [#1668 Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/)
   - Question ID: 1668
