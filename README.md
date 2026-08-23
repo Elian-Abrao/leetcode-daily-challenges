@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 546
+Total de questoes resolvidas: 547
 
 ### Easy
 
@@ -1775,6 +1775,11 @@ Total de questoes resolvidas: 546
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1758 Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
+  - Question ID: 1758
+  - Arquivo: `problems/hard/1655_distribute-repeating-integers.py`
+  - Resolvido em: 19:36 - 23/08/26
 
 - [#1188 Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
   - Question ID: 1188
