@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 545
+Total de questoes resolvidas: 546
 
 ### Easy
 
@@ -1775,6 +1775,11 @@ Total de questoes resolvidas: 545
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1188 Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/)
+  - Question ID: 1188
+  - Arquivo: `problems/hard/1096_brace-expansion-ii.py`
+  - Resolvido em: 18:00 - 23/08/26
 
 - [#2096 Find the Longest Valid Obstacle Course at Each Position](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/)
   - Question ID: 2096
