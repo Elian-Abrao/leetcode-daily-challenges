@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 547
+Total de questoes resolvidas: 548
 
 ### Easy
 
@@ -1775,6 +1775,11 @@ Total de questoes resolvidas: 547
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1832 Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/)
+  - Question ID: 1832
+  - Arquivo: `problems/hard/1713_minimum-operations-to-make-a-subsequence.py`
+  - Resolvido em: 15:31 - 28/08/26
 
 - [#1758 Distribute Repeating Integers](https://leetcode.com/problems/distribute-repeating-integers/)
   - Question ID: 1758
