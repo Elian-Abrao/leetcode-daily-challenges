@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 550
+Total de questoes resolvidas: 551
 
 ### Easy
 
@@ -1780,6 +1780,11 @@ Total de questoes resolvidas: 550
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2330 Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
+  - Question ID: 2330
+  - Arquivo: `problems/hard/2234_maximum-total-beauty-of-the-gardens.py`
+  - Resolvido em: 19:46 - 29/08/26
 
 - [#591 Tag Validator](https://leetcode.com/problems/tag-validator/)
   - Question ID: 591
