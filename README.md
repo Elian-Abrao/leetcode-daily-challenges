@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 549
+Total de questoes resolvidas: 550
 
 ### Easy
 
@@ -1780,6 +1780,11 @@ Total de questoes resolvidas: 549
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#591 Tag Validator](https://leetcode.com/problems/tag-validator/)
+  - Question ID: 591
+  - Arquivo: `problems/hard/591_tag-validator.py`
+  - Resolvido em: 17:35 - 29/08/26
 
 - [#1832 Minimum Operations to Make a Subsequence](https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/)
   - Question ID: 1832
