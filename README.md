@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 551
+Total de questoes resolvidas: 552
 
 ### Easy
 
@@ -1780,6 +1780,11 @@ Total de questoes resolvidas: 551
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2176 Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
+  - Question ID: 2176
+  - Arquivo: `problems/hard/2050_parallel-courses-iii.py`
+  - Resolvido em: 22:33 - 29/08/26
 
 - [#2330 Maximum Total Beauty of the Gardens](https://leetcode.com/problems/maximum-total-beauty-of-the-gardens/)
   - Question ID: 2330
