@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 548
+Total de questoes resolvidas: 549
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 548
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#810 Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
+  - Question ID: 810
+  - Arquivo: `problems/medium/794_valid-tic-tac-toe-state.py`
+  - Resolvido em: 14:31 - 29/08/26
 
 - [#909 Stone Game](https://leetcode.com/problems/stone-game/)
   - Question ID: 909
