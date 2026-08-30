@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 552
+Total de questoes resolvidas: 553
 
 ### Easy
 
@@ -1780,6 +1780,11 @@ Total de questoes resolvidas: 552
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#600 Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
+  - Question ID: 600
+  - Arquivo: `problems/hard/600_non-negative-integers-without-consecutive-ones.py`
+  - Resolvido em: 19:34 - 30/08/26
 
 - [#2176 Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii/)
   - Question ID: 2176
