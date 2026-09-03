@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 554
+Total de questoes resolvidas: 555
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 554
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#912 Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+  - Question ID: 912
+  - Arquivo: `problems/medium/528_random-pick-with-weight.py`
+  - Resolvido em: 18:01 - 03/09/26
 
 - [#592 Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)
   - Question ID: 592
