@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 553
+Total de questoes resolvidas: 554
 
 ### Easy
 
@@ -538,6 +538,11 @@ Total de questoes resolvidas: 553
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#592 Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)
+  - Question ID: 592
+  - Arquivo: `problems/medium/592_fraction-addition-and-subtraction.py`
+  - Resolvido em: 15:05 - 03/09/26
 
 - [#810 Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)
   - Question ID: 810
