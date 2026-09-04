@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 555
+Total de questoes resolvidas: 556
 
 ### Easy
+
+- [#504 Base 7](https://leetcode.com/problems/base-7/)
+  - Question ID: 504
+  - Arquivo: `problems/easy/504_base-7.py`
+  - Resolvido em: 13:01 - 04/09/26
 
 - [#195 Tenth Line](https://leetcode.com/problems/tenth-line/)
   - Question ID: 195
