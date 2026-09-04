@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 557
+Total de questoes resolvidas: 558
 
 ### Easy
+
+- [#507 Perfect Number](https://leetcode.com/problems/perfect-number/)
+  - Question ID: 507
+  - Arquivo: `problems/easy/507_perfect-number.py`
+  - Resolvido em: 18:33 - 04/09/26
 
 - [#504 Base 7](https://leetcode.com/problems/base-7/)
   - Question ID: 504
