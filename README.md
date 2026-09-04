@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 556
+Total de questoes resolvidas: 557
 
 ### Easy
 
@@ -1795,6 +1795,11 @@ Total de questoes resolvidas: 556
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2307 Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
+  - Question ID: 2307
+  - Arquivo: `problems/hard/2197_replace-non-coprime-numbers-in-array.py`
+  - Resolvido em: 15:37 - 04/09/26
 
 - [#600 Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)
   - Question ID: 600
