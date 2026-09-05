@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 562
+Total de questoes resolvidas: 563
 
 ### Easy
 
@@ -1810,6 +1810,11 @@ Total de questoes resolvidas: 562
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2213 Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
+  - Question ID: 2213
+  - Arquivo: `problems/hard/2092_find-all-people-with-secret.py`
+  - Resolvido em: 22:31 - 05/09/26
 
 - [#1644 Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
   - Question ID: 1644
