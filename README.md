@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 561
+Total de questoes resolvidas: 562
 
 ### Easy
 
@@ -1810,6 +1810,11 @@ Total de questoes resolvidas: 561
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1644 Maximum Number of Non-Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)
+  - Question ID: 1644
+  - Arquivo: `problems/hard/1520_maximum-number-of-non-overlapping-substrings.py`
+  - Resolvido em: 19:30 - 05/09/26
 
 - [#1185 Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
   - Question ID: 1185
