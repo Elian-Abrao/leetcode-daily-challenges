@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 558
+Total de questoes resolvidas: 559
 
 ### Easy
+
+- [#541 Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
+  - Question ID: 541
+  - Arquivo: `problems/easy/541_reverse-string-ii.py`
+  - Resolvido em: 11:00 - 05/09/26
 
 - [#507 Perfect Number](https://leetcode.com/problems/perfect-number/)
   - Question ID: 507
