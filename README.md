@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 560
+Total de questoes resolvidas: 561
 
 ### Easy
 
@@ -1810,6 +1810,11 @@ Total de questoes resolvidas: 560
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1185 Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+  - Question ID: 1185
+  - Arquivo: `problems/hard/1095_find-in-mountain-array.py`
+  - Resolvido em: 17:30 - 05/09/26
 
 - [#2307 Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)
   - Question ID: 2307
