@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 559
+Total de questoes resolvidas: 560
 
 ### Easy
 
@@ -553,6 +553,11 @@ Total de questoes resolvidas: 559
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#648 Replace Words](https://leetcode.com/problems/replace-words/)
+  - Question ID: 648
+  - Arquivo: `problems/medium/648_replace-words.py`
+  - Resolvido em: 14:31 - 05/09/26
 
 - [#912 Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
   - Question ID: 912
