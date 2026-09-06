@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 568
+Total de questoes resolvidas: 569
 
 ### Easy
 
@@ -553,6 +553,11 @@ Total de questoes resolvidas: 568
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#565 Array Nesting](https://leetcode.com/problems/array-nesting/)
+  - Question ID: 565
+  - Arquivo: `problems/medium/565_array-nesting.py`
+  - Resolvido em: 21:01 - 06/09/26
 
 - [#523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
   - Question ID: 523
