@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 564
+Total de questoes resolvidas: 565
 
 ### Easy
 
@@ -553,6 +553,11 @@ Total de questoes resolvidas: 564
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#539 Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
+  - Question ID: 539
+  - Arquivo: `problems/medium/539_minimum-time-difference.py`
+  - Resolvido em: 13:31 - 06/09/26
 
 - [#518 Coin Change II](https://leetcode.com/problems/coin-change-ii/)
   - Question ID: 518
