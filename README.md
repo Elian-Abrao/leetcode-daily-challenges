@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 567
+Total de questoes resolvidas: 568
 
 ### Easy
 
@@ -1825,6 +1825,11 @@ Total de questoes resolvidas: 567
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1409 Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
+  - Question ID: 1409
+  - Arquivo: `problems/hard/1284_minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix.py`
+  - Resolvido em: 19:30 - 06/09/26
 
 - [#1861 Building Boxes](https://leetcode.com/problems/building-boxes/)
   - Question ID: 1861
