@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 565
+Total de questoes resolvidas: 566
 
 ### Easy
 
@@ -553,6 +553,11 @@ Total de questoes resolvidas: 565
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#523 Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+  - Question ID: 523
+  - Arquivo: `problems/medium/523_continuous-subarray-sum.py`
+  - Resolvido em: 16:00 - 06/09/26
 
 - [#539 Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
   - Question ID: 539
