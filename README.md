@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 566
+Total de questoes resolvidas: 567
 
 ### Easy
 
@@ -1825,6 +1825,11 @@ Total de questoes resolvidas: 566
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1861 Building Boxes](https://leetcode.com/problems/building-boxes/)
+  - Question ID: 1861
+  - Arquivo: `problems/hard/1739_building-boxes.py`
+  - Resolvido em: 18:07 - 06/09/26
 
 - [#2213 Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
   - Question ID: 2213
