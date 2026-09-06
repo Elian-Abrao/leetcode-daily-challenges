@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 563
+Total de questoes resolvidas: 564
 
 ### Easy
 
@@ -553,6 +553,11 @@ Total de questoes resolvidas: 563
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#518 Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+  - Question ID: 518
+  - Arquivo: `problems/medium/518_coin-change-ii.py`
+  - Resolvido em: 12:00 - 06/09/26
 
 - [#648 Replace Words](https://leetcode.com/problems/replace-words/)
   - Question ID: 648
