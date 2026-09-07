@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 571
+Total de questoes resolvidas: 572
 
 ### Easy
+
+- [#575 Distribute Candies](https://leetcode.com/problems/distribute-candies/)
+  - Question ID: 575
+  - Arquivo: `problems/easy/575_distribute-candies.py`
+  - Resolvido em: 17:00 - 07/09/26
 
 - [#557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
   - Question ID: 557
