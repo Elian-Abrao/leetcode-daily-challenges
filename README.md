@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 569
+Total de questoes resolvidas: 570
 
 ### Easy
 
@@ -553,6 +553,11 @@ Total de questoes resolvidas: 569
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#524 Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+  - Question ID: 524
+  - Arquivo: `problems/medium/524_longest-word-in-dictionary-through-deleting.py`
+  - Resolvido em: 13:30 - 07/09/26
 
 - [#565 Array Nesting](https://leetcode.com/problems/array-nesting/)
   - Question ID: 565
