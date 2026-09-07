@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 570
+Total de questoes resolvidas: 571
 
 ### Easy
+
+- [#557 Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+  - Question ID: 557
+  - Arquivo: `problems/easy/557_reverse-words-in-a-string-iii.py`
+  - Resolvido em: 15:31 - 07/09/26
 
 - [#541 Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
   - Question ID: 541
