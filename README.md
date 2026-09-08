@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 573
+Total de questoes resolvidas: 574
 
 ### Easy
 
@@ -563,6 +563,11 @@ Total de questoes resolvidas: 573
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#913 Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)
+  - Question ID: 913
+  - Arquivo: `problems/medium/519_random-flip-matrix.py`
+  - Resolvido em: 16:33 - 08/09/26
 
 - [#556 Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
   - Question ID: 556
