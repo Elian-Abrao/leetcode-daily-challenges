@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 574
+Total de questoes resolvidas: 575
 
 ### Easy
 
@@ -563,6 +563,11 @@ Total de questoes resolvidas: 574
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#640 Solve the Equation](https://leetcode.com/problems/solve-the-equation/)
+  - Question ID: 640
+  - Arquivo: `problems/medium/640_solve-the-equation.py`
+  - Resolvido em: 21:02 - 08/09/26
 
 - [#913 Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/)
   - Question ID: 913
