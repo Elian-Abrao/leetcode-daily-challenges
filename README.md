@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 572
+Total de questoes resolvidas: 573
 
 ### Easy
 
@@ -563,6 +563,11 @@ Total de questoes resolvidas: 572
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#556 Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+  - Question ID: 556
+  - Arquivo: `problems/medium/556_next-greater-element-iii.py`
+  - Resolvido em: 14:04 - 08/09/26
 
 - [#524 Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
   - Question ID: 524
