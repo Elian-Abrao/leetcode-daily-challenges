@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 576
+Total de questoes resolvidas: 577
 
 ### Easy
 
@@ -1865,6 +1865,11 @@ Total de questoes resolvidas: 576
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#552 Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
+  - Question ID: 552
+  - Arquivo: `problems/hard/552_student-attendance-record-ii.py`
+  - Resolvido em: 16:03 - 09/09/26
 
 - [#1409 Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)
   - Question ID: 1409
