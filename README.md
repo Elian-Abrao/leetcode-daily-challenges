@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 577
+Total de questoes resolvidas: 578
 
 ### Easy
+
+- [#598 Range Addition II](https://leetcode.com/problems/range-addition-ii/)
+  - Question ID: 598
+  - Arquivo: `problems/easy/598_range-addition-ii.py`
+  - Resolvido em: 19:14 - 09/09/26
 
 - [#575 Distribute Candies](https://leetcode.com/problems/distribute-candies/)
   - Question ID: 575
