@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 575
+Total de questoes resolvidas: 576
 
 ### Easy
 
@@ -563,6 +563,11 @@ Total de questoes resolvidas: 575
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#646 Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+  - Question ID: 646
+  - Arquivo: `problems/medium/646_maximum-length-of-pair-chain.py`
+  - Resolvido em: 12:02 - 09/09/26
 
 - [#640 Solve the Equation](https://leetcode.com/problems/solve-the-equation/)
   - Question ID: 640
