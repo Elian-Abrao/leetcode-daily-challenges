@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 579
+Total de questoes resolvidas: 580
 
 ### Easy
 
@@ -568,6 +568,11 @@ Total de questoes resolvidas: 579
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
+  - Question ID: 611
+  - Arquivo: `problems/medium/611_valid-triangle-number.py`
+  - Resolvido em: 15:01 - 10/09/26
 
 - [#529 Minesweeper](https://leetcode.com/problems/minesweeper/)
   - Question ID: 529
