@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 580
+Total de questoes resolvidas: 581
 
 ### Easy
+
+- [#775 N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
+  - Question ID: 775
+  - Arquivo: `problems/easy/589_n-ary-tree-preorder-traversal.py`
+  - Resolvido em: 18:01 - 10/09/26
 
 - [#598 Range Addition II](https://leetcode.com/problems/range-addition-ii/)
   - Question ID: 598
