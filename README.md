@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 578
+Total de questoes resolvidas: 579
 
 ### Easy
 
@@ -568,6 +568,11 @@ Total de questoes resolvidas: 578
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#529 Minesweeper](https://leetcode.com/problems/minesweeper/)
+  - Question ID: 529
+  - Arquivo: `problems/medium/529_minesweeper.py`
+  - Resolvido em: 12:31 - 10/09/26
 
 - [#646 Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
   - Question ID: 646
