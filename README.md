@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 582
+Total de questoes resolvidas: 583
 
 ### Easy
 
@@ -1890,6 +1890,11 @@ Total de questoes resolvidas: 582
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1270 Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
+  - Question ID: 1270
+  - Arquivo: `problems/hard/1172_dinner-plate-stacks.py`
+  - Resolvido em: 15:37 - 11/09/26
 
 - [#552 Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/)
   - Question ID: 552
