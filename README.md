@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 581
+Total de questoes resolvidas: 582
 
 ### Easy
+
+- [#501 Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+  - Question ID: 501
+  - Arquivo: `problems/easy/501_find-mode-in-binary-search-tree.py`
+  - Resolvido em: 13:02 - 11/09/26
 
 - [#775 N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
   - Question ID: 775
