@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 583
+Total de questoes resolvidas: 584
 
 ### Easy
+
+- [#566 Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+  - Question ID: 566
+  - Arquivo: `problems/easy/566_reshape-the-matrix.py`
+  - Resolvido em: 18:30 - 11/09/26
 
 - [#501 Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
   - Question ID: 501
