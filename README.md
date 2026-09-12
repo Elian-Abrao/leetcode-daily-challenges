@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 587
+Total de questoes resolvidas: 588
 
 ### Easy
 
@@ -1905,6 +1905,11 @@ Total de questoes resolvidas: 587
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2051 Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
+  - Question ID: 2051
+  - Arquivo: `problems/hard/1923_longest-common-subpath.py`
+  - Resolvido em: 19:35 - 12/09/26
 
 - [#2353 Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)
   - Question ID: 2353
