@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 585
+Total de questoes resolvidas: 586
 
 ### Easy
 
@@ -583,6 +583,11 @@ Total de questoes resolvidas: 585
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#757 Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)
+  - Question ID: 757
+  - Arquivo: `problems/medium/756_pyramid-transition-matrix.py`
+  - Resolvido em: 14:35 - 12/09/26
 
 - [#583 Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
   - Question ID: 583
