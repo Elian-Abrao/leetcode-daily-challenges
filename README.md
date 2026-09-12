@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 584
+Total de questoes resolvidas: 585
 
 ### Easy
 
@@ -583,6 +583,11 @@ Total de questoes resolvidas: 584
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#583 Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
+  - Question ID: 583
+  - Arquivo: `problems/medium/583_delete-operation-for-two-strings.py`
+  - Resolvido em: 11:00 - 12/09/26
 
 - [#611 Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
   - Question ID: 611
