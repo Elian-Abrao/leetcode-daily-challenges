@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 586
+Total de questoes resolvidas: 587
 
 ### Easy
 
@@ -1905,6 +1905,11 @@ Total de questoes resolvidas: 586
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2353 Maximum Score of a Node Sequence](https://leetcode.com/problems/maximum-score-of-a-node-sequence/)
+  - Question ID: 2353
+  - Arquivo: `problems/hard/2242_maximum-score-of-a-node-sequence.py`
+  - Resolvido em: 17:30 - 12/09/26
 
 - [#1270 Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/)
   - Question ID: 1270
