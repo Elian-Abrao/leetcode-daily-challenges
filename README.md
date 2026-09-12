@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 588
+Total de questoes resolvidas: 589
 
 ### Easy
 
@@ -1905,6 +1905,11 @@ Total de questoes resolvidas: 588
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#939 Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/)
+  - Question ID: 939
+  - Arquivo: `problems/hard/903_valid-permutations-for-di-sequence.py`
+  - Resolvido em: 22:38 - 12/09/26
 
 - [#2051 Longest Common Subpath](https://leetcode.com/problems/longest-common-subpath/)
   - Question ID: 2051
