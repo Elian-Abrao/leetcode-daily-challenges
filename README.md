@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 591
+Total de questoes resolvidas: 592
 
 ### Easy
 
@@ -1915,6 +1915,11 @@ Total de questoes resolvidas: 591
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#564 Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)
+  - Question ID: 564
+  - Arquivo: `problems/hard/564_find-the-closest-palindrome.py`
+  - Resolvido em: 16:06 - 13/09/26
 
 - [#939 Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/)
   - Question ID: 939
