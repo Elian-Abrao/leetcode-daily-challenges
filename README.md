@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 592
+Total de questoes resolvidas: 593
 
 ### Easy
 
@@ -1915,6 +1915,11 @@ Total de questoes resolvidas: 592
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1637 String Compression II](https://leetcode.com/problems/string-compression-ii/)
+  - Question ID: 1637
+  - Arquivo: `problems/hard/1531_string-compression-ii.py`
+  - Resolvido em: 18:05 - 13/09/26
 
 - [#564 Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)
   - Question ID: 564
