@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 589
+Total de questoes resolvidas: 590
 
 ### Easy
+
+- [#594 Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+  - Question ID: 594
+  - Arquivo: `problems/easy/594_longest-harmonious-subsequence.py`
+  - Resolvido em: 12:37 - 13/09/26
 
 - [#566 Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
   - Question ID: 566
