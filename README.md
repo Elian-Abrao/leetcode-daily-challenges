@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 593
+Total de questoes resolvidas: 594
 
 ### Easy
 
@@ -1915,6 +1915,11 @@ Total de questoes resolvidas: 593
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#770 Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
+  - Question ID: 770
+  - Arquivo: `problems/hard/765_couples-holding-hands.py`
+  - Resolvido em: 19:44 - 13/09/26
 
 - [#1637 String Compression II](https://leetcode.com/problems/string-compression-ii/)
   - Question ID: 1637
