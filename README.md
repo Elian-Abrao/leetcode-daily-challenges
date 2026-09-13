@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 594
+Total de questoes resolvidas: 595
 
 ### Easy
 
@@ -588,6 +588,11 @@ Total de questoes resolvidas: 594
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#537 Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
+  - Question ID: 537
+  - Arquivo: `problems/medium/537_complex-number-multiplication.py`
+  - Resolvido em: 21:00 - 13/09/26
 
 - [#609 Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
   - Question ID: 609
