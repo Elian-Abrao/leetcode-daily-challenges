@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 590
+Total de questoes resolvidas: 591
 
 ### Easy
 
@@ -588,6 +588,11 @@ Total de questoes resolvidas: 590
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#609 Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
+  - Question ID: 609
+  - Arquivo: `problems/medium/609_find-duplicate-file-in-system.py`
+  - Resolvido em: 13:40 - 13/09/26
 
 - [#757 Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)
   - Question ID: 757
