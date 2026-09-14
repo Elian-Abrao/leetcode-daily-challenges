@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 595
+Total de questoes resolvidas: 596
 
 ### Easy
 
@@ -588,6 +588,11 @@ Total de questoes resolvidas: 595
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#513 Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
+  - Question ID: 513
+  - Arquivo: `problems/medium/513_find-bottom-left-tree-value.py`
+  - Resolvido em: 13:55 - 14/09/26
 
 - [#537 Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)
   - Question ID: 537
