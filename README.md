@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 596
+Total de questoes resolvidas: 597
 
 ### Easy
+
+- [#551 Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
+  - Question ID: 551
+  - Arquivo: `problems/easy/551_student-attendance-record-i.py`
+  - Resolvido em: 15:32 - 14/09/26
 
 - [#594 Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
   - Question ID: 594
