@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 597
+Total de questoes resolvidas: 598
 
 ### Easy
+
+- [#645 Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+  - Question ID: 645
+  - Arquivo: `problems/easy/645_set-mismatch.py`
+  - Resolvido em: 17:01 - 14/09/26
 
 - [#551 Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)
   - Question ID: 551
