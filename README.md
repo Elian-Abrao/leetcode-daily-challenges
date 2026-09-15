@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 599
+Total de questoes resolvidas: 600
 
 ### Easy
 
@@ -603,6 +603,11 @@ Total de questoes resolvidas: 599
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#540 Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  - Question ID: 540
+  - Arquivo: `problems/medium/540_single-element-in-a-sorted-array.py`
+  - Resolvido em: 16:30 - 15/09/26
 
 - [#513 Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
   - Question ID: 513
