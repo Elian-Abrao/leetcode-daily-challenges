@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 600
+Total de questoes resolvidas: 601
 
 ### Easy
 
@@ -1945,6 +1945,11 @@ Total de questoes resolvidas: 600
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#629 K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
+  - Question ID: 629
+  - Arquivo: `problems/hard/629_k-inverse-pairs-array.py`
+  - Resolvido em: 21:04 - 15/09/26
 
 - [#770 Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)
   - Question ID: 770
