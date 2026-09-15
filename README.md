@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 598
+Total de questoes resolvidas: 599
 
 ### Easy
+
+- [#628 Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+  - Question ID: 628
+  - Arquivo: `problems/easy/628_maximum-product-of-three-numbers.py`
+  - Resolvido em: 14:01 - 15/09/26
 
 - [#645 Set Mismatch](https://leetcode.com/problems/set-mismatch/)
   - Question ID: 645
