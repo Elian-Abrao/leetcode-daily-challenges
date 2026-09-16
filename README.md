@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 602
+Total de questoes resolvidas: 603
 
 ### Easy
+
+- [#572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+  - Question ID: 572
+  - Arquivo: `problems/easy/572_subtree-of-another-tree.py`
+  - Resolvido em: 16:01 - 16/09/26
 
 - [#628 Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
   - Question ID: 628
