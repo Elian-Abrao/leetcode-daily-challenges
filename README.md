@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 603
+Total de questoes resolvidas: 604
 
 ### Easy
 
@@ -608,6 +608,11 @@ Total de questoes resolvidas: 603
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#652 Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
+  - Question ID: 652
+  - Arquivo: `problems/medium/652_find-duplicate-subtrees.py`
+  - Resolvido em: 19:01 - 16/09/26
 
 - [#525 Contiguous Array](https://leetcode.com/problems/contiguous-array/)
   - Question ID: 525
