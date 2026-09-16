@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 601
+Total de questoes resolvidas: 602
 
 ### Easy
 
@@ -603,6 +603,11 @@ Total de questoes resolvidas: 601
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#525 Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+  - Question ID: 525
+  - Arquivo: `problems/medium/525_contiguous-array.py`
+  - Resolvido em: 12:00 - 16/09/26
 
 - [#540 Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
   - Question ID: 540
