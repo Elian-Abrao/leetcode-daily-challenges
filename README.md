@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 606
+Total de questoes resolvidas: 607
 
 ### Easy
 
@@ -608,6 +608,11 @@ Total de questoes resolvidas: 606
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#667 Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)
+  - Question ID: 667
+  - Arquivo: `problems/medium/667_beautiful-arrangement-ii.py`
+  - Resolvido em: 18:03 - 17/09/26
 
 - [#678 Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
   - Question ID: 678
