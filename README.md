@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 604
+Total de questoes resolvidas: 605
 
 ### Easy
 
@@ -608,6 +608,11 @@ Total de questoes resolvidas: 604
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#647 Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+  - Question ID: 647
+  - Arquivo: `problems/medium/647_palindromic-substrings.py`
+  - Resolvido em: 12:30 - 17/09/26
 
 - [#652 Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)
   - Question ID: 652
