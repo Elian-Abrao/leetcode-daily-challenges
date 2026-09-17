@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 605
+Total de questoes resolvidas: 606
 
 ### Easy
 
@@ -608,6 +608,11 @@ Total de questoes resolvidas: 605
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#678 Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+  - Question ID: 678
+  - Arquivo: `problems/medium/678_valid-parenthesis-string.py`
+  - Resolvido em: 15:00 - 17/09/26
 
 - [#647 Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
   - Question ID: 647
