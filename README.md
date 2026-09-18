@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 608
+Total de questoes resolvidas: 609
 
 ### Easy
 
@@ -1980,6 +1980,11 @@ Total de questoes resolvidas: 608
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1197 Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
+  - Question ID: 1197
+  - Arquivo: `problems/hard/1106_parsing-a-boolean-expression.py`
+  - Resolvido em: 15:31 - 18/09/26
 
 - [#629 K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/)
   - Question ID: 629
