@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 607
+Total de questoes resolvidas: 608
 
 ### Easy
 
@@ -608,6 +608,11 @@ Total de questoes resolvidas: 607
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#593 Valid Square](https://leetcode.com/problems/valid-square/)
+  - Question ID: 593
+  - Arquivo: `problems/medium/593_valid-square.py`
+  - Resolvido em: 13:01 - 18/09/26
 
 - [#667 Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)
   - Question ID: 667
