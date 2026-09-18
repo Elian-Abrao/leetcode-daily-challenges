@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 609
+Total de questoes resolvidas: 610
 
 ### Easy
 
@@ -608,6 +608,11 @@ Total de questoes resolvidas: 609
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#633 Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
+  - Question ID: 633
+  - Arquivo: `problems/medium/633_sum-of-square-numbers.py`
+  - Resolvido em: 18:30 - 18/09/26
 
 - [#593 Valid Square](https://leetcode.com/problems/valid-square/)
   - Question ID: 593
