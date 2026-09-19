@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 613
+Total de questoes resolvidas: 614
 
 ### Easy
 
@@ -1995,6 +1995,11 @@ Total de questoes resolvidas: 613
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1277 Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/)
+  - Question ID: 1277
+  - Arquivo: `problems/hard/1363_largest-multiple-of-three.py`
+  - Resolvido em: 19:41 - 19/09/26
 
 - [#546 Remove Boxes](https://leetcode.com/problems/remove-boxes/)
   - Question ID: 546
