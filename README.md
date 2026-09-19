@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 611
+Total de questoes resolvidas: 612
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 611
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#800 Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+  - Question ID: 800
+  - Arquivo: `problems/medium/784_letter-case-permutation.py`
+  - Resolvido em: 14:31 - 19/09/26
 
 - [#633 Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)
   - Question ID: 633
