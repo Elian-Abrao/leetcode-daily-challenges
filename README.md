@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 612
+Total de questoes resolvidas: 613
 
 ### Easy
 
@@ -1995,6 +1995,11 @@ Total de questoes resolvidas: 612
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#546 Remove Boxes](https://leetcode.com/problems/remove-boxes/)
+  - Question ID: 546
+  - Arquivo: `problems/hard/546_remove-boxes.py`
+  - Resolvido em: 17:30 - 19/09/26
 
 - [#1197 Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/)
   - Question ID: 1197
