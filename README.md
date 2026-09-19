@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 610
+Total de questoes resolvidas: 611
 
 ### Easy
+
+- [#521 Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
+  - Question ID: 521
+  - Arquivo: `problems/easy/521_longest-uncommon-subsequence-i.py`
+  - Resolvido em: 11:00 - 19/09/26
 
 - [#572 Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
   - Question ID: 572
