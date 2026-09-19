@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 614
+Total de questoes resolvidas: 615
 
 ### Easy
 
@@ -1995,6 +1995,11 @@ Total de questoes resolvidas: 614
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1223 Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/)
+  - Question ID: 1223
+  - Arquivo: `problems/hard/1627_graph-connectivity-with-threshold.py`
+  - Resolvido em: 22:52 - 19/09/26
 
 - [#1277 Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/)
   - Question ID: 1277
