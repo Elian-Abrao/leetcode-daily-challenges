@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 617
+Total de questoes resolvidas: 618
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 617
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#658 Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+  - Question ID: 658
+  - Arquivo: `problems/medium/658_find-k-closest-elements.py`
+  - Resolvido em: 16:00 - 20/09/26
 
 - [#860 Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
   - Question ID: 860
