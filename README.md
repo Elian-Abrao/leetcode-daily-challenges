@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 620
+Total de questoes resolvidas: 621
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 620
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#669 Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+  - Question ID: 669
+  - Arquivo: `problems/medium/669_trim-a-binary-search-tree.py`
+  - Resolvido em: 21:12 - 20/09/26
 
 - [#658 Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
   - Question ID: 658
