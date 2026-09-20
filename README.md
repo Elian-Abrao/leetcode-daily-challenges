@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 619
+Total de questoes resolvidas: 620
 
 ### Easy
 
@@ -2010,6 +2010,11 @@ Total de questoes resolvidas: 619
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1563 Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
+  - Question ID: 1563
+  - Arquivo: `problems/hard/1453_maximum-number-of-darts-inside-of-a-circular-dartboard.py`
+  - Resolvido em: 19:32 - 20/09/26
 
 - [#1897 Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)
   - Question ID: 1897
