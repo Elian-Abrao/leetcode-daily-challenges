@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 616
+Total de questoes resolvidas: 617
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 616
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#860 Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+  - Question ID: 860
+  - Arquivo: `problems/medium/622_design-circular-queue.py`
+  - Resolvido em: 13:31 - 20/09/26
 
 - [#522 Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
   - Question ID: 522
