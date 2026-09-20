@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 618
+Total de questoes resolvidas: 619
 
 ### Easy
 
@@ -2010,6 +2010,11 @@ Total de questoes resolvidas: 618
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1897 Maximize Palindrome Length From Subsequences](https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/)
+  - Question ID: 1897
+  - Arquivo: `problems/hard/1771_maximize-palindrome-length-from-subsequences.py`
+  - Resolvido em: 18:22 - 20/09/26
 
 - [#1223 Graph Connectivity With Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/)
   - Question ID: 1223
