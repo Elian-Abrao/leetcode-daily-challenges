@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 615
+Total de questoes resolvidas: 616
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 615
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#522 Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
+  - Question ID: 522
+  - Arquivo: `problems/medium/522_longest-uncommon-subsequence-ii.py`
+  - Resolvido em: 12:07 - 20/09/26
 
 - [#800 Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
   - Question ID: 800
