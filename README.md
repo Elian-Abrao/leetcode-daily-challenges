@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 621
+Total de questoes resolvidas: 622
 
 ### Easy
 
@@ -2015,6 +2015,11 @@ Total de questoes resolvidas: 621
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#639 Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
+  - Question ID: 639
+  - Arquivo: `problems/hard/639_decode-ways-ii.py`
+  - Resolvido em: 13:31 - 21/09/26
 
 - [#1563 Maximum Number of Darts Inside of a Circular Dartboard](https://leetcode.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/)
   - Question ID: 1563
