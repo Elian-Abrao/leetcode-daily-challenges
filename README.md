@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 623
+Total de questoes resolvidas: 624
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 623
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#516 Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
+  - Question ID: 516
+  - Arquivo: `problems/medium/516_longest-palindromic-subsequence.py`
+  - Resolvido em: 17:01 - 21/09/26
 
 - [#665 Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
   - Question ID: 665
