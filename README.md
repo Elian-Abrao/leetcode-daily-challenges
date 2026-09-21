@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 622
+Total de questoes resolvidas: 623
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 622
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#665 Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)
+  - Question ID: 665
+  - Arquivo: `problems/medium/665_non-decreasing-array.py`
+  - Resolvido em: 15:31 - 21/09/26
 
 - [#669 Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
   - Question ID: 669
