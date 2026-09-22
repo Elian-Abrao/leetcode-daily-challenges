@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 625
+Total de questoes resolvidas: 626
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 625
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#553 Optimal Division](https://leetcode.com/problems/optimal-division/)
+  - Question ID: 553
+  - Arquivo: `problems/medium/553_optimal-division.py`
+  - Resolvido em: 16:30 - 22/09/26
 
 - [#606 Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
   - Question ID: 606
