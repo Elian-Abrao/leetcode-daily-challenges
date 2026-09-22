@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 624
+Total de questoes resolvidas: 625
 
 ### Easy
 
@@ -613,6 +613,11 @@ Total de questoes resolvidas: 624
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#606 Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)
+  - Question ID: 606
+  - Arquivo: `problems/medium/606_construct-string-from-binary-tree.py`
+  - Resolvido em: 14:01 - 22/09/26
 
 - [#516 Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
   - Question ID: 516
