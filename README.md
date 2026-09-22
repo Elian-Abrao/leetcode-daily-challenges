@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 626
+Total de questoes resolvidas: 627
 
 ### Easy
+
+- [#617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+  - Question ID: 617
+  - Arquivo: `problems/easy/617_merge-two-binary-trees.py`
+  - Resolvido em: 21:05 - 22/09/26
 
 - [#521 Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)
   - Question ID: 521
