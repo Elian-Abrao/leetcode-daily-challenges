@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 628
+Total de questoes resolvidas: 629
 
 ### Easy
+
+- [#671 Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
+  - Question ID: 671
+  - Arquivo: `problems/easy/671_second-minimum-node-in-a-binary-tree.py`
+  - Resolvido em: 16:05 - 23/09/26
 
 - [#696 Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
   - Question ID: 696
