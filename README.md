@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 629
+Total de questoes resolvidas: 630
 
 ### Easy
 
@@ -628,6 +628,11 @@ Total de questoes resolvidas: 629
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#547 Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
+  - Question ID: 547
+  - Arquivo: `problems/medium/547_number-of-provinces.py`
+  - Resolvido em: 19:00 - 23/09/26
 
 - [#553 Optimal Division](https://leetcode.com/problems/optimal-division/)
   - Question ID: 553
