@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 627
+Total de questoes resolvidas: 628
 
 ### Easy
+
+- [#696 Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
+  - Question ID: 696
+  - Arquivo: `problems/easy/696_count-binary-substrings.py`
+  - Resolvido em: 12:17 - 23/09/26
 
 - [#617 Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
   - Question ID: 617
