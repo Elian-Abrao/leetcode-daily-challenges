@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 631
+Total de questoes resolvidas: 632
 
 ### Easy
 
@@ -628,6 +628,11 @@ Total de questoes resolvidas: 631
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#690 Employee Importance](https://leetcode.com/problems/employee-importance/)
+  - Question ID: 690
+  - Arquivo: `problems/medium/690_employee-importance.py`
+  - Resolvido em: 15:01 - 24/09/26
 
 - [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/)
   - Question ID: 567
