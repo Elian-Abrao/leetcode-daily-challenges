@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 630
+Total de questoes resolvidas: 631
 
 ### Easy
 
@@ -628,6 +628,11 @@ Total de questoes resolvidas: 630
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#567 Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+  - Question ID: 567
+  - Arquivo: `problems/medium/567_permutation-in-string.py`
+  - Resolvido em: 12:31 - 24/09/26
 
 - [#547 Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
   - Question ID: 547
