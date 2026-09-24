@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 632
+Total de questoes resolvidas: 633
 
 ### Easy
+
+- [#657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+  - Question ID: 657
+  - Arquivo: `problems/easy/657_robot-return-to-origin.py`
+  - Resolvido em: 18:16 - 24/09/26
 
 - [#671 Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)
   - Question ID: 671
