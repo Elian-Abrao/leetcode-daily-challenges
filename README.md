@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 635
+Total de questoes resolvidas: 636
 
 ### Easy
 
@@ -633,6 +633,11 @@ Total de questoes resolvidas: 635
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+  - Question ID: 560
+  - Arquivo: `problems/medium/560_subarray-sum-equals-k.py`
+  - Resolvido em: 18:30 - 25/09/26
 
 - [#508 Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
   - Question ID: 508
