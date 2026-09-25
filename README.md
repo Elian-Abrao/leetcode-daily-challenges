@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 634
+Total de questoes resolvidas: 635
 
 ### Easy
 
@@ -2075,6 +2075,11 @@ Total de questoes resolvidas: 634
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#794 Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+  - Question ID: 794
+  - Arquivo: `problems/hard/778_swim-in-rising-water.py`
+  - Resolvido em: 15:31 - 25/09/26
 
 - [#639 Decode Ways II](https://leetcode.com/problems/decode-ways-ii/)
   - Question ID: 639
