@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 633
+Total de questoes resolvidas: 634
 
 ### Easy
 
@@ -633,6 +633,11 @@ Total de questoes resolvidas: 633
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#508 Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/)
+  - Question ID: 508
+  - Arquivo: `problems/medium/508_most-frequent-subtree-sum.py`
+  - Resolvido em: 13:01 - 25/09/26
 
 - [#690 Employee Importance](https://leetcode.com/problems/employee-importance/)
   - Question ID: 690
