@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 636
+Total de questoes resolvidas: 637
 
 ### Easy
 
@@ -2080,6 +2080,11 @@ Total de questoes resolvidas: 636
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#502 IPO](https://leetcode.com/problems/ipo/)
+  - Question ID: 502
+  - Arquivo: `problems/hard/502_ipo.py`
+  - Resolvido em: 11:00 - 26/09/26
 
 - [#794 Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
   - Question ID: 794
