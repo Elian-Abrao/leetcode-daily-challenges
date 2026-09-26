@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 639
+Total de questoes resolvidas: 640
 
 ### Easy
 
@@ -2085,6 +2085,11 @@ Total de questoes resolvidas: 639
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1732 Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
+  - Question ID: 1732
+  - Arquivo: `problems/hard/1611_minimum-one-bit-operations-to-make-integers-zero.py`
+  - Resolvido em: 19:30 - 26/09/26
 
 - [#2246 Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
   - Question ID: 2246
