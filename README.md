@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 640
+Total de questoes resolvidas: 641
 
 ### Easy
 
@@ -2085,6 +2085,11 @@ Total de questoes resolvidas: 640
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#923 Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
+  - Question ID: 923
+  - Arquivo: `problems/hard/887_super-egg-drop.py`
+  - Resolvido em: 22:44 - 26/09/26
 
 - [#1732 Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)
   - Question ID: 1732
