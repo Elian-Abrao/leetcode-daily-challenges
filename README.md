@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 638
+Total de questoes resolvidas: 639
 
 ### Easy
 
@@ -2085,6 +2085,11 @@ Total de questoes resolvidas: 638
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2246 Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)
+  - Question ID: 2246
+  - Arquivo: `problems/hard/2127_maximum-employees-to-be-invited-to-a-meeting.py`
+  - Resolvido em: 17:32 - 26/09/26
 
 - [#502 IPO](https://leetcode.com/problems/ipo/)
   - Question ID: 502
