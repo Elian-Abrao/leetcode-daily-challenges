@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 637
+Total de questoes resolvidas: 638
 
 ### Easy
 
@@ -633,6 +633,11 @@ Total de questoes resolvidas: 637
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#581 Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+  - Question ID: 581
+  - Arquivo: `problems/medium/581_shortest-unsorted-continuous-subarray.py`
+  - Resolvido em: 14:49 - 26/09/26
 
 - [#560 Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
   - Question ID: 560
