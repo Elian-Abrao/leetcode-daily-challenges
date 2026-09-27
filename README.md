@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 644
+Total de questoes resolvidas: 645
 
 ### Easy
 
@@ -2100,6 +2100,11 @@ Total de questoes resolvidas: 644
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1457 Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
+  - Question ID: 1457
+  - Arquivo: `problems/hard/1335_minimum-difficulty-of-a-job-schedule.py`
+  - Resolvido em: 18:02 - 27/09/26
 
 - [#923 Super Egg Drop](https://leetcode.com/problems/super-egg-drop/)
   - Question ID: 923
