@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 646
+Total de questoes resolvidas: 647
 
 ### Easy
 
@@ -2100,6 +2100,11 @@ Total de questoes resolvidas: 646
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#517 Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
+  - Question ID: 517
+  - Arquivo: `problems/hard/517_super-washing-machines.py`
+  - Resolvido em: 21:12 - 27/09/26
 
 - [#1891 Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)
   - Question ID: 1891
