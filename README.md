@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 645
+Total de questoes resolvidas: 646
 
 ### Easy
 
@@ -2100,6 +2100,11 @@ Total de questoes resolvidas: 645
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1891 Count Pairs Of Nodes](https://leetcode.com/problems/count-pairs-of-nodes/)
+  - Question ID: 1891
+  - Arquivo: `problems/hard/1782_count-pairs-of-nodes.py`
+  - Resolvido em: 19:32 - 27/09/26
 
 - [#1457 Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)
   - Question ID: 1457
