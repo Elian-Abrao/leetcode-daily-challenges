@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 642
+Total de questoes resolvidas: 643
 
 ### Easy
+
+- [#661 Image Smoother](https://leetcode.com/problems/image-smoother/)
+  - Question ID: 661
+  - Arquivo: `problems/easy/661_image-smoother.py`
+  - Resolvido em: 14:32 - 27/09/26
 
 - [#520 Detect Capital](https://leetcode.com/problems/detect-capital/)
   - Question ID: 520
