@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 643
+Total de questoes resolvidas: 644
 
 ### Easy
 
@@ -643,6 +643,11 @@ Total de questoes resolvidas: 643
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#659 Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
+  - Question ID: 659
+  - Arquivo: `problems/medium/659_split-array-into-consecutive-subsequences.py`
+  - Resolvido em: 16:01 - 27/09/26
 
 - [#581 Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
   - Question ID: 581
