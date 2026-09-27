@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 641
+Total de questoes resolvidas: 642
 
 ### Easy
+
+- [#520 Detect Capital](https://leetcode.com/problems/detect-capital/)
+  - Question ID: 520
+  - Arquivo: `problems/easy/520_detect-capital.py`
+  - Resolvido em: 12:01 - 27/09/26
 
 - [#657 Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
   - Question ID: 657
