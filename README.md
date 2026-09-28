@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 648
+Total de questoes resolvidas: 649
 
 ### Easy
+
+- [#789 Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+  - Question ID: 789
+  - Arquivo: `problems/easy/703_kth-largest-element-in-a-stream.py`
+  - Resolvido em: 15:31 - 28/09/26
 
 - [#742 To Lower Case](https://leetcode.com/problems/to-lower-case/)
   - Question ID: 742
