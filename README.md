@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 647
+Total de questoes resolvidas: 648
 
 ### Easy
+
+- [#742 To Lower Case](https://leetcode.com/problems/to-lower-case/)
+  - Question ID: 742
+  - Arquivo: `problems/easy/709_to-lower-case.py`
+  - Resolvido em: 13:35 - 28/09/26
 
 - [#661 Image Smoother](https://leetcode.com/problems/image-smoother/)
   - Question ID: 661
