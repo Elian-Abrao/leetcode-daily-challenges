@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 649
+Total de questoes resolvidas: 650
 
 ### Easy
 
@@ -2110,6 +2110,11 @@ Total de questoes resolvidas: 649
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#726 Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
+  - Question ID: 726
+  - Arquivo: `problems/hard/726_number-of-atoms.py`
+  - Resolvido em: 17:08 - 28/09/26
 
 - [#517 Super Washing Machines](https://leetcode.com/problems/super-washing-machines/)
   - Question ID: 517
