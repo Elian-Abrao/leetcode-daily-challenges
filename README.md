@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 651
+Total de questoes resolvidas: 652
 
 ### Easy
 
@@ -658,6 +658,11 @@ Total de questoes resolvidas: 651
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#738 Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
+  - Question ID: 738
+  - Arquivo: `problems/medium/738_monotone-increasing-digits.py`
+  - Resolvido em: 16:51 - 29/09/26
 
 - [#659 Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/)
   - Question ID: 659
