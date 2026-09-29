@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 652
+Total de questoes resolvidas: 653
 
 ### Easy
+
+- [#605 Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+  - Question ID: 605
+  - Arquivo: `problems/easy/605_can-place-flowers.py`
+  - Resolvido em: 21:28 - 29/09/26
 
 - [#792 Binary Search](https://leetcode.com/problems/binary-search/)
   - Question ID: 792
