@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 650
+Total de questoes resolvidas: 651
 
 ### Easy
+
+- [#792 Binary Search](https://leetcode.com/problems/binary-search/)
+  - Question ID: 792
+  - Arquivo: `problems/easy/704_binary-search.py`
+  - Resolvido em: 14:10 - 29/09/26
 
 - [#789 Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
   - Question ID: 789
