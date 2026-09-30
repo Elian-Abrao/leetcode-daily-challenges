@@ -12,6 +12,11 @@ Total de questoes resolvidas: 655
 
 ### Easy
 
+- [#747 Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+  - Question ID: 747
+  - Arquivo: `problems/easy/746_min-cost-climbing-stairs.py`
+  - Resolvido em: 19:05 - 30/09/26
+
 - [#717 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
   - Question ID: 717
   - Arquivo: `problems/easy/717_1-bit-and-2-bit-characters.py`
@@ -655,11 +660,6 @@ Total de questoes resolvidas: 655
 - [#1025 Game](https://leetcode.com/problems/divisor-game/)
   - Question ID: 1025
   - Arquivo: `problems/easy/1025_divisor-game.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#746 Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-  - Question ID: 746
-  - Arquivo: `problems/easy/0746_min-cost-climbing-stairs.py`
   - Resolvido em: 14:36 - 19/02/26
 
 - [#509 Number](https://leetcode.com/problems/fibonacci-number/)
