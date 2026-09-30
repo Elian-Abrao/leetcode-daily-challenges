@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 653
+Total de questoes resolvidas: 654
 
 ### Easy
+
+- [#717 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)
+  - Question ID: 717
+  - Arquivo: `problems/easy/717_1-bit-and-2-bit-characters.py`
+  - Resolvido em: 12:01 - 30/09/26
 
 - [#605 Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
   - Question ID: 605
