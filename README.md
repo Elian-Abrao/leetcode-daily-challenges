@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 654
+Total de questoes resolvidas: 655
 
 ### Easy
 
@@ -668,6 +668,11 @@ Total de questoes resolvidas: 654
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#532 K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+  - Question ID: 532
+  - Arquivo: `problems/medium/532_k-diff-pairs-in-an-array.py`
+  - Resolvido em: 16:00 - 30/09/26
 
 - [#738 Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/)
   - Question ID: 738
