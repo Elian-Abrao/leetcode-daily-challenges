@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 655
+Total de questoes resolvidas: 656
 
 ### Easy
 
@@ -2135,6 +2135,11 @@ Total de questoes resolvidas: 655
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#675 Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
+  - Question ID: 675
+  - Arquivo: `problems/hard/675_cut-off-trees-for-golf-event.py`
+  - Resolvido em: 12:34 - 01/10/26
 
 - [#726 Number of Atoms](https://leetcode.com/problems/number-of-atoms/)
   - Question ID: 726
