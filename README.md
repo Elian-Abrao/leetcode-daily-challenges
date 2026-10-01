@@ -12,6 +12,11 @@ Total de questoes resolvidas: 656
 
 ### Easy
 
+- [#1013 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+  - Question ID: 1013
+  - Arquivo: `problems/easy/509_fibonacci-number.py`
+  - Resolvido em: 15:01 - 01/10/26
+
 - [#747 Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
   - Question ID: 747
   - Arquivo: `problems/easy/746_min-cost-climbing-stairs.py`
@@ -660,11 +665,6 @@ Total de questoes resolvidas: 656
 - [#1025 Game](https://leetcode.com/problems/divisor-game/)
   - Question ID: 1025
   - Arquivo: `problems/easy/1025_divisor-game.py`
-  - Resolvido em: 14:36 - 19/02/26
-
-- [#509 Number](https://leetcode.com/problems/fibonacci-number/)
-  - Question ID: 509
-  - Arquivo: `problems/easy/0509_fibonacci-number.py`
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
