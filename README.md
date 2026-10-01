@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 656
+Total de questoes resolvidas: 657
 
 ### Easy
 
@@ -2135,6 +2135,11 @@ Total de questoes resolvidas: 656
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#730 Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
+  - Question ID: 730
+  - Arquivo: `problems/hard/730_count-different-palindromic-subsequences.py`
+  - Resolvido em: 18:01 - 01/10/26
 
 - [#675 Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
   - Question ID: 675
