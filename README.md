@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 658
+Total de questoes resolvidas: 659
 
 ### Easy
 
@@ -2140,6 +2140,11 @@ Total de questoes resolvidas: 658
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#819 Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)
+  - Question ID: 819
+  - Arquivo: `problems/hard/801_minimum-swaps-to-make-sequences-increasing.py`
+  - Resolvido em: 15:41 - 02/10/26
 
 - [#730 Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)
   - Question ID: 730
