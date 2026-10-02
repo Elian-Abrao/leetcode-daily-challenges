@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 659
+Total de questoes resolvidas: 660
 
 ### Easy
+
+- [#543 Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+  - Question ID: 543
+  - Arquivo: `problems/easy/543_diameter-of-binary-tree.py`
+  - Resolvido em: 18:37 - 02/10/26
 
 - [#653 Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
   - Question ID: 653
