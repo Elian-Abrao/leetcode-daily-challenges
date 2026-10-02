@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 657
+Total de questoes resolvidas: 658
 
 ### Easy
+
+- [#653 Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+  - Question ID: 653
+  - Arquivo: `problems/easy/653_two-sum-iv-input-is-a-bst.py`
+  - Resolvido em: 13:01 - 02/10/26
 
 - [#1013 Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
   - Question ID: 1013
