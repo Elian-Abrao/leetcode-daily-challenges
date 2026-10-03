@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 664
+Total de questoes resolvidas: 665
 
 ### Easy
 
@@ -2155,6 +2155,11 @@ Total de questoes resolvidas: 664
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1744 Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
+  - Question ID: 1744
+  - Arquivo: `problems/hard/1639_number-of-ways-to-form-a-target-string-given-a-dictionary.py`
+  - Resolvido em: 22:33 - 03/10/26
 
 - [#895 Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
   - Question ID: 895
