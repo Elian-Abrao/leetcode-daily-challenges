@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 663
+Total de questoes resolvidas: 664
 
 ### Easy
 
@@ -2155,6 +2155,11 @@ Total de questoes resolvidas: 663
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#895 Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/)
+  - Question ID: 895
+  - Arquivo: `problems/hard/864_shortest-path-to-get-all-keys.py`
+  - Resolvido em: 19:32 - 03/10/26
 
 - [#1701 Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
   - Question ID: 1701
