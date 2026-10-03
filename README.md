@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 660
+Total de questoes resolvidas: 661
 
 ### Easy
 
@@ -678,6 +678,11 @@ Total de questoes resolvidas: 660
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#712 Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+  - Question ID: 712
+  - Arquivo: `problems/medium/712_minimum-ascii-delete-sum-for-two-strings.py`
+  - Resolvido em: 11:23 - 03/10/26
 
 - [#532 K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
   - Question ID: 532
