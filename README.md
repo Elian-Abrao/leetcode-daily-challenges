@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 661
+Total de questoes resolvidas: 662
 
 ### Easy
 
@@ -678,6 +678,11 @@ Total de questoes resolvidas: 661
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#916 Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
+  - Question ID: 916
+  - Arquivo: `problems/medium/880_decoded-string-at-index.py`
+  - Resolvido em: 14:31 - 03/10/26
 
 - [#712 Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)
   - Question ID: 712
