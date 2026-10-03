@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 662
+Total de questoes resolvidas: 663
 
 ### Easy
 
@@ -2155,6 +2155,11 @@ Total de questoes resolvidas: 662
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1701 Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+  - Question ID: 1701
+  - Arquivo: `problems/hard/1579_remove-max-number-of-edges-to-keep-graph-fully-traversable.py`
+  - Resolvido em: 17:31 - 03/10/26
 
 - [#819 Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)
   - Question ID: 819
