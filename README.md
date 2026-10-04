@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 668
+Total de questoes resolvidas: 669
 
 ### Easy
 
@@ -2170,6 +2170,11 @@ Total de questoes resolvidas: 668
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1766 Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
+  - Question ID: 1766
+  - Arquivo: `problems/hard/1671_minimum-number-of-removals-to-make-mountain-array.py`
+  - Resolvido em: 18:01 - 04/10/26
 
 - [#1744 Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/)
   - Question ID: 1744
