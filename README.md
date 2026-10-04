@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 669
+Total de questoes resolvidas: 670
 
 ### Easy
 
@@ -2170,6 +2170,11 @@ Total de questoes resolvidas: 669
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1022 Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
+  - Question ID: 1022
+  - Arquivo: `problems/hard/980_unique-paths-iii.py`
+  - Resolvido em: 19:31 - 04/10/26
 
 - [#1766 Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/)
   - Question ID: 1766
