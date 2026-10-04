@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 670
+Total de questoes resolvidas: 671
 
 ### Easy
 
@@ -688,6 +688,11 @@ Total de questoes resolvidas: 670
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#554 Brick Wall](https://leetcode.com/problems/brick-wall/)
+  - Question ID: 554
+  - Arquivo: `problems/medium/554_brick-wall.py`
+  - Resolvido em: 21:22 - 04/10/26
 
 - [#735 Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
   - Question ID: 735
