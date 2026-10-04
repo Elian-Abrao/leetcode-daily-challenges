@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 667
+Total de questoes resolvidas: 668
 
 ### Easy
+
+- [#728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+  - Question ID: 728
+  - Arquivo: `problems/easy/728_self-dividing-numbers.py`
+  - Resolvido em: 16:00 - 04/10/26
 
 - [#682 Baseball Game](https://leetcode.com/problems/baseball-game/)
   - Question ID: 682
