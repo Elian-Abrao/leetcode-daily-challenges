@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 665
+Total de questoes resolvidas: 666
 
 ### Easy
 
@@ -678,6 +678,11 @@ Total de questoes resolvidas: 665
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#735 Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)
+  - Question ID: 735
+  - Arquivo: `problems/medium/735_asteroid-collision.py`
+  - Resolvido em: 12:00 - 04/10/26
 
 - [#916 Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)
   - Question ID: 916
