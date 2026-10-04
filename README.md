@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 666
+Total de questoes resolvidas: 667
 
 ### Easy
+
+- [#682 Baseball Game](https://leetcode.com/problems/baseball-game/)
+  - Question ID: 682
+  - Arquivo: `problems/easy/682_baseball-game.py`
+  - Resolvido em: 13:30 - 04/10/26
 
 - [#543 Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
   - Question ID: 543
