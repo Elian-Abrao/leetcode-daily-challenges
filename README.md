@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 671
+Total de questoes resolvidas: 672
 
 ### Easy
+
+- [#693 Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+  - Question ID: 693
+  - Arquivo: `problems/easy/693_binary-number-with-alternating-bits.py`
+  - Resolvido em: 13:31 - 05/10/26
 
 - [#728 Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
   - Question ID: 728
