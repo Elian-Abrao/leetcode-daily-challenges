@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 673
+Total de questoes resolvidas: 674
 
 ### Easy
 
@@ -693,6 +693,11 @@ Total de questoes resolvidas: 673
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#740 Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+  - Question ID: 740
+  - Arquivo: `problems/medium/740_delete-and-earn.py`
+  - Resolvido em: 17:02 - 05/10/26
 
 - [#554 Brick Wall](https://leetcode.com/problems/brick-wall/)
   - Question ID: 554
