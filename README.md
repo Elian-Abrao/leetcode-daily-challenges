@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 672
+Total de questoes resolvidas: 673
 
 ### Easy
 
@@ -2180,6 +2180,11 @@ Total de questoes resolvidas: 672
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#689 Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
+  - Question ID: 689
+  - Arquivo: `problems/hard/689_maximum-sum-of-3-non-overlapping-subarrays.py`
+  - Resolvido em: 15:32 - 05/10/26
 
 - [#1022 Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)
   - Question ID: 1022
