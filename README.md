@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 674
+Total de questoes resolvidas: 675
 
 ### Easy
 
@@ -693,6 +693,11 @@ Total de questoes resolvidas: 674
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#714 Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+  - Question ID: 714
+  - Arquivo: `problems/medium/714_best-time-to-buy-and-sell-stock-with-transaction-fee.py`
+  - Resolvido em: 14:01 - 06/10/26
 
 - [#740 Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
   - Question ID: 740
