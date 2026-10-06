@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 675
+Total de questoes resolvidas: 676
 
 ### Easy
 
@@ -693,6 +693,11 @@ Total de questoes resolvidas: 675
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#662 Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+  - Question ID: 662
+  - Arquivo: `problems/medium/662_maximum-width-of-binary-tree.py`
+  - Resolvido em: 16:31 - 06/10/26
 
 - [#714 Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
   - Question ID: 714
