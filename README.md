@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 676
+Total de questoes resolvidas: 677
 
 ### Easy
 
@@ -693,6 +693,11 @@ Total de questoes resolvidas: 676
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#722 Remove Comments](https://leetcode.com/problems/remove-comments/)
+  - Question ID: 722
+  - Arquivo: `problems/medium/722_remove-comments.py`
+  - Resolvido em: 21:04 - 06/10/26
 
 - [#662 Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
   - Question ID: 662
