@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 679
+Total de questoes resolvidas: 680
 
 ### Easy
+
+- [#561 Array Partition](https://leetcode.com/problems/array-partition/)
+  - Question ID: 561
+  - Arquivo: `problems/easy/561_array-partition.py`
+  - Resolvido em: 19:01 - 07/10/26
 
 - [#748 Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
   - Question ID: 748
