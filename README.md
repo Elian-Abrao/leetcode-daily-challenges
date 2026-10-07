@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 677
+Total de questoes resolvidas: 678
 
 ### Easy
+
+- [#748 Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
+  - Question ID: 748
+  - Arquivo: `problems/easy/747_largest-number-at-least-twice-of-others.py`
+  - Resolvido em: 12:00 - 07/10/26
 
 - [#693 Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
   - Question ID: 693
