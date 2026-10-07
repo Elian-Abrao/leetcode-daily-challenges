@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 678
+Total de questoes resolvidas: 679
 
 ### Easy
 
@@ -698,6 +698,11 @@ Total de questoes resolvidas: 678
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#695 Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+  - Question ID: 695
+  - Arquivo: `problems/medium/695_max-area-of-island.py`
+  - Resolvido em: 18:03 - 07/10/26
 
 - [#722 Remove Comments](https://leetcode.com/problems/remove-comments/)
   - Question ID: 722
