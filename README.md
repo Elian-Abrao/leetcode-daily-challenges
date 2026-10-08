@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 681
+Total de questoes resolvidas: 682
 
 ### Easy
 
@@ -703,6 +703,11 @@ Total de questoes resolvidas: 681
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
+  - Question ID: 718
+  - Arquivo: `problems/medium/718_maximum-length-of-repeated-subarray.py`
+  - Resolvido em: 18:08 - 08/10/26
 
 - [#695 Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
   - Question ID: 695
