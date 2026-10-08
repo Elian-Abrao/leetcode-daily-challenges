@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 680
+Total de questoes resolvidas: 681
 
 ### Easy
 
@@ -2215,6 +2215,11 @@ Total de questoes resolvidas: 680
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#719 Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
+  - Question ID: 719
+  - Arquivo: `problems/hard/719_find-k-th-smallest-pair-distance.py`
+  - Resolvido em: 15:01 - 08/10/26
 
 - [#689 Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
   - Question ID: 689
