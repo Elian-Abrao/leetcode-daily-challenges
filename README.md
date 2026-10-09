@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 682
+Total de questoes resolvidas: 683
 
 ### Easy
 
@@ -703,6 +703,11 @@ Total de questoes resolvidas: 682
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#838 Design Linked List](https://leetcode.com/problems/design-linked-list/)
+  - Question ID: 838
+  - Arquivo: `problems/medium/707_design-linked-list.py`
+  - Resolvido em: 13:56 - 09/10/26
 
 - [#718 Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
   - Question ID: 718
