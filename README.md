@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 683
+Total de questoes resolvidas: 684
 
 ### Easy
 
@@ -2225,6 +2225,11 @@ Total de questoes resolvidas: 683
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2340 Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)
+  - Question ID: 2340
+  - Arquivo: `problems/hard/2262_total-appeal-of-a-string.py`
+  - Resolvido em: 15:30 - 09/10/26
 
 - [#719 Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)
   - Question ID: 719
