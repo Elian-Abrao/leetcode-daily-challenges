@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 684
+Total de questoes resolvidas: 685
 
 ### Easy
 
@@ -2225,6 +2225,11 @@ Total de questoes resolvidas: 684
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#732 My Calendar III](https://leetcode.com/problems/my-calendar-iii/)
+  - Question ID: 732
+  - Arquivo: `problems/hard/732_my-calendar-iii.py`
+  - Resolvido em: 18:32 - 09/10/26
 
 - [#2340 Total Appeal of A String](https://leetcode.com/problems/total-appeal-of-a-string/)
   - Question ID: 2340
