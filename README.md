@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 685
+Total de questoes resolvidas: 686
 
 ### Easy
+
+- [#697 Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+  - Question ID: 697
+  - Arquivo: `problems/easy/697_degree-of-an-array.py`
+  - Resolvido em: 11:00 - 10/10/26
 
 - [#561 Array Partition](https://leetcode.com/problems/array-partition/)
   - Question ID: 561
