@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 688
+Total de questoes resolvidas: 689
 
 ### Easy
 
@@ -2235,6 +2235,11 @@ Total de questoes resolvidas: 688
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1941 Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
+  - Question ID: 1941
+  - Arquivo: `problems/hard/1830_minimum-number-of-operations-to-make-string-sorted.py`
+  - Resolvido em: 19:32 - 10/10/26
 
 - [#1305 Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
   - Question ID: 1305
