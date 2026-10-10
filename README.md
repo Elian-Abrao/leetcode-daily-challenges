@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 689
+Total de questoes resolvidas: 690
 
 ### Easy
 
@@ -2235,6 +2235,11 @@ Total de questoes resolvidas: 689
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1367 Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
+  - Question ID: 1367
+  - Arquivo: `problems/hard/1691_maximum-height-by-stacking-cuboids.py`
+  - Resolvido em: 22:33 - 10/10/26
 
 - [#1941 Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
   - Question ID: 1941
