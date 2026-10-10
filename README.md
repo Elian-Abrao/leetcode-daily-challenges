@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 686
+Total de questoes resolvidas: 687
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 686
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#859 Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)
+  - Question ID: 859
+  - Arquivo: `problems/medium/641_design-circular-deque.py`
+  - Resolvido em: 14:31 - 10/10/26
 
 - [#838 Design Linked List](https://leetcode.com/problems/design-linked-list/)
   - Question ID: 838
