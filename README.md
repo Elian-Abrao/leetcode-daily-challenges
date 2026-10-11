@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 690
+Total de questoes resolvidas: 691
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 690
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#803 Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+  - Question ID: 803
+  - Arquivo: `problems/medium/787_cheapest-flights-within-k-stops.py`
+  - Resolvido em: 12:00 - 11/10/26
 
 - [#859 Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)
   - Question ID: 859
