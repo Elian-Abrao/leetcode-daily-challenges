@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 695
+Total de questoes resolvidas: 696
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 695
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#795 K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
+  - Question ID: 795
+  - Arquivo: `problems/medium/779_k-th-symbol-in-grammar.py`
+  - Resolvido em: 21:01 - 11/10/26
 
 - [#636 Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
   - Question ID: 636
