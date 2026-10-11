@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 691
+Total de questoes resolvidas: 692
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 691
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#801 Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
+  - Question ID: 801
+  - Arquivo: `problems/medium/785_is-graph-bipartite.py`
+  - Resolvido em: 13:30 - 11/10/26
 
 - [#803 Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
   - Question ID: 803
