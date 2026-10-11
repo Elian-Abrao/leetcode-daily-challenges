@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 692
+Total de questoes resolvidas: 693
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 692
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#636 Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
+  - Question ID: 636
+  - Arquivo: `problems/medium/636_exclusive-time-of-functions.py`
+  - Resolvido em: 16:03 - 11/10/26
 
 - [#801 Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)
   - Question ID: 801
