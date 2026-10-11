@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 693
+Total de questoes resolvidas: 694
 
 ### Easy
 
@@ -2250,6 +2250,11 @@ Total de questoes resolvidas: 693
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2150 Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
+  - Question ID: 2150
+  - Arquivo: `problems/hard/2040_kth-smallest-product-of-two-sorted-arrays.py`
+  - Resolvido em: 18:02 - 11/10/26
 
 - [#1367 Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/)
   - Question ID: 1367
