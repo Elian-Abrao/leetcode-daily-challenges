@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 694
+Total de questoes resolvidas: 695
 
 ### Easy
 
@@ -2250,6 +2250,11 @@ Total de questoes resolvidas: 694
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1772 Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
+  - Question ID: 1772
+  - Arquivo: `problems/hard/1649_create-sorted-array-through-instructions.py`
+  - Resolvido em: 19:37 - 11/10/26
 
 - [#2150 Kth Smallest Product of Two Sorted Arrays](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/)
   - Question ID: 2150
