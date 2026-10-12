@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 696
+Total de questoes resolvidas: 697
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 696
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#686 Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+  - Question ID: 686
+  - Arquivo: `problems/medium/686_repeated-string-match.py`
+  - Resolvido em: 13:36 - 12/10/26
 
 - [#795 K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)
   - Question ID: 795
