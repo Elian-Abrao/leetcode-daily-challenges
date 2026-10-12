@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 698
+Total de questoes resolvidas: 699
 
 ### Easy
+
+- [#776 N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+  - Question ID: 776
+  - Arquivo: `problems/easy/590_n-ary-tree-postorder-traversal.py`
+  - Resolvido em: 17:14 - 12/10/26
 
 - [#697 Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
   - Question ID: 697
