@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 697
+Total de questoes resolvidas: 698
 
 ### Easy
 
@@ -708,6 +708,11 @@ Total de questoes resolvidas: 697
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#813 All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+  - Question ID: 813
+  - Arquivo: `problems/medium/797_all-paths-from-source-to-target.py`
+  - Resolvido em: 15:30 - 12/10/26
 
 - [#686 Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
   - Question ID: 686
