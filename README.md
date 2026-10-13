@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 699
+Total de questoes resolvidas: 700
 
 ### Easy
 
@@ -713,6 +713,11 @@ Total de questoes resolvidas: 699
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#790 Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
+  - Question ID: 790
+  - Arquivo: `problems/medium/775_global-and-local-inversions.py`
+  - Resolvido em: 14:01 - 13/10/26
 
 - [#813 All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
   - Question ID: 813
