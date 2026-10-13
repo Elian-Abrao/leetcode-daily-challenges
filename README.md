@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 701
+Total de questoes resolvidas: 702
 
 ### Easy
 
@@ -713,6 +713,11 @@ Total de questoes resolvidas: 701
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#793 Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+  - Question ID: 793
+  - Arquivo: `problems/medium/777_swap-adjacent-in-lr-string.py`
+  - Resolvido em: 21:01 - 13/10/26
 
 - [#797 Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
   - Question ID: 797
