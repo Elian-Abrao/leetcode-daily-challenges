@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 700
+Total de questoes resolvidas: 701
 
 ### Easy
 
@@ -713,6 +713,11 @@ Total de questoes resolvidas: 700
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#797 Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)
+  - Question ID: 797
+  - Arquivo: `problems/medium/781_rabbits-in-forest.py`
+  - Resolvido em: 16:30 - 13/10/26
 
 - [#790 Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)
   - Question ID: 790
