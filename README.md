@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 703
+Total de questoes resolvidas: 704
 
 ### Easy
+
+- [#774 Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
+  - Question ID: 774
+  - Arquivo: `problems/easy/559_maximum-depth-of-n-ary-tree.py`
+  - Resolvido em: 16:01 - 14/10/26
 
 - [#745 Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
   - Question ID: 745
