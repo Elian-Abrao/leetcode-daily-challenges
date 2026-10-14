@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 704
+Total de questoes resolvidas: 705
 
 ### Easy
+
+- [#799 Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+  - Question ID: 799
+  - Arquivo: `problems/easy/783_minimum-distance-between-bst-nodes.py`
+  - Resolvido em: 19:01 - 14/10/26
 
 - [#774 Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)
   - Question ID: 774
