@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 702
+Total de questoes resolvidas: 703
 
 ### Easy
+
+- [#745 Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+  - Question ID: 745
+  - Arquivo: `problems/easy/744_find-smallest-letter-greater-than-target.py`
+  - Resolvido em: 12:00 - 14/10/26
 
 - [#776 N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
   - Question ID: 776
