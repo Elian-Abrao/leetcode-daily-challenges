@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 705
+Total de questoes resolvidas: 706
 
 ### Easy
 
@@ -728,6 +728,11 @@ Total de questoes resolvidas: 705
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#778 Reorganize String](https://leetcode.com/problems/reorganize-string/)
+  - Question ID: 778
+  - Arquivo: `problems/medium/767_reorganize-string.py`
+  - Resolvido em: 12:33 - 15/10/26
 
 - [#793 Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
   - Question ID: 793
