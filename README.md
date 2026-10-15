@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 706
+Total de questoes resolvidas: 707
 
 ### Easy
 
@@ -728,6 +728,11 @@ Total de questoes resolvidas: 706
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#538 Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
+  - Question ID: 538
+  - Arquivo: `problems/medium/538_convert-bst-to-greater-tree.py`
+  - Resolvido em: 15:01 - 15/10/26
 
 - [#778 Reorganize String](https://leetcode.com/problems/reorganize-string/)
   - Question ID: 778
