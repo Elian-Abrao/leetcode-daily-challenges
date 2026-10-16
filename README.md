@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 710
+Total de questoes resolvidas: 711
 
 ### Easy
 
@@ -733,6 +733,11 @@ Total de questoes resolvidas: 710
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#725 Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
+  - Question ID: 725
+  - Arquivo: `problems/medium/725_split-linked-list-in-parts.py`
+  - Resolvido em: 18:31 - 16/10/26
 
 - [#804 Rotated Digits](https://leetcode.com/problems/rotated-digits/)
   - Question ID: 804
