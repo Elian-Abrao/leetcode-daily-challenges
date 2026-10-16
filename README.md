@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 708
+Total de questoes resolvidas: 709
 
 ### Easy
 
@@ -733,6 +733,11 @@ Total de questoes resolvidas: 708
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#804 Rotated Digits](https://leetcode.com/problems/rotated-digits/)
+  - Question ID: 804
+  - Arquivo: `problems/medium/788_rotated-digits.py`
+  - Resolvido em: 13:01 - 16/10/26
 
 - [#538 Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)
   - Question ID: 538
