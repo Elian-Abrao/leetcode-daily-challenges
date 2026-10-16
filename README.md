@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 709
+Total de questoes resolvidas: 710
 
 ### Easy
 
@@ -2320,6 +2320,11 @@ Total de questoes resolvidas: 709
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1508 Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
+  - Question ID: 1508
+  - Arquivo: `problems/hard/1392_longest-happy-prefix.py`
+  - Resolvido em: 15:31 - 16/10/26
 
 - [#1772 Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/)
   - Question ID: 1772
