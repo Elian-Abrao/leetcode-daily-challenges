@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 712
+Total de questoes resolvidas: 713
 
 ### Easy
 
@@ -733,6 +733,11 @@ Total de questoes resolvidas: 712
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#925 Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
+  - Question ID: 925
+  - Arquivo: `problems/medium/889_construct-binary-tree-from-preorder-and-postorder-traversal.py`
+  - Resolvido em: 14:30 - 17/10/26
 
 - [#725 Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)
   - Question ID: 725
