@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 714
+Total de questoes resolvidas: 715
 
 ### Easy
 
@@ -2330,6 +2330,11 @@ Total de questoes resolvidas: 714
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1262 Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
+  - Question ID: 1262
+  - Arquivo: `problems/hard/1157_online-majority-element-in-subarray.py`
+  - Resolvido em: 19:41 - 17/10/26
 
 - [#1957 Closest Room](https://leetcode.com/problems/closest-room/)
   - Question ID: 1957
