@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 713
+Total de questoes resolvidas: 714
 
 ### Easy
 
@@ -2330,6 +2330,11 @@ Total de questoes resolvidas: 713
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1957 Closest Room](https://leetcode.com/problems/closest-room/)
+  - Question ID: 1957
+  - Arquivo: `problems/hard/1847_closest-room.py`
+  - Resolvido em: 18:02 - 17/10/26
 
 - [#750 Contain Virus](https://leetcode.com/problems/contain-virus/)
   - Question ID: 750
