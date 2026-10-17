@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 715
+Total de questoes resolvidas: 716
 
 ### Easy
 
@@ -2330,6 +2330,11 @@ Total de questoes resolvidas: 715
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1527 Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)
+  - Question ID: 1527
+  - Arquivo: `problems/hard/1411_number-of-ways-to-paint-n-3-grid.py`
+  - Resolvido em: 22:49 - 17/10/26
 
 - [#1262 Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/)
   - Question ID: 1262
