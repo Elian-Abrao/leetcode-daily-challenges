@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 711
+Total de questoes resolvidas: 712
 
 ### Easy
 
@@ -2325,6 +2325,11 @@ Total de questoes resolvidas: 711
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#750 Contain Virus](https://leetcode.com/problems/contain-virus/)
+  - Question ID: 750
+  - Arquivo: `problems/hard/749_contain-virus.py`
+  - Resolvido em: 11:05 - 17/10/26
 
 - [#1508 Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/)
   - Question ID: 1508
