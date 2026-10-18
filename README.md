@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 716
+Total de questoes resolvidas: 717
 
 ### Easy
 
@@ -2330,6 +2330,11 @@ Total de questoes resolvidas: 716
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#668 Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
+  - Question ID: 668
+  - Arquivo: `problems/hard/668_kth-smallest-number-in-multiplication-table.py`
+  - Resolvido em: 12:14 - 18/10/26
 
 - [#1527 Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/)
   - Question ID: 1527
