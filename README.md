@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 719
+Total de questoes resolvidas: 720
 
 ### Easy
 
@@ -2340,6 +2340,11 @@ Total de questoes resolvidas: 719
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1710 Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
+  - Question ID: 1710
+  - Arquivo: `problems/hard/1606_find-servers-that-handled-most-number-of-requests.py`
+  - Resolvido em: 18:01 - 18/10/26
 
 - [#668 Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)
   - Question ID: 668
