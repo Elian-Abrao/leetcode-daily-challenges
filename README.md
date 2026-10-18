@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 721
+Total de questoes resolvidas: 722
 
 ### Easy
 
@@ -738,6 +738,11 @@ Total de questoes resolvidas: 721
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#676 Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
+  - Question ID: 676
+  - Arquivo: `problems/medium/676_implement-magic-dictionary.py`
+  - Resolvido em: 21:38 - 18/10/26
 
 - [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
   - Question ID: 713
