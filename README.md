@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 720
+Total de questoes resolvidas: 721
 
 ### Easy
 
@@ -2340,6 +2340,11 @@ Total de questoes resolvidas: 720
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#759 Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)
+  - Question ID: 759
+  - Arquivo: `problems/hard/757_set-intersection-size-at-least-two.py`
+  - Resolvido em: 19:34 - 18/10/26
 
 - [#1710 Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/)
   - Question ID: 1710
