@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 718
+Total de questoes resolvidas: 719
 
 ### Easy
 
@@ -738,6 +738,11 @@ Total de questoes resolvidas: 718
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#713 Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+  - Question ID: 713
+  - Arquivo: `problems/medium/713_subarray-product-less-than-k.py`
+  - Resolvido em: 16:02 - 18/10/26
 
 - [#925 Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
   - Question ID: 925
