@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 717
+Total de questoes resolvidas: 718
 
 ### Easy
+
+- [#637 Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+  - Question ID: 637
+  - Arquivo: `problems/easy/637_average-of-levels-in-binary-tree.py`
+  - Resolvido em: 13:31 - 18/10/26
 
 - [#733 Flood Fill](https://leetcode.com/problems/flood-fill/)
   - Question ID: 733
