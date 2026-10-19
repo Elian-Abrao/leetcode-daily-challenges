@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 722
+Total de questoes resolvidas: 723
 
 ### Easy
 
@@ -738,6 +738,11 @@ Total de questoes resolvidas: 722
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#721 Accounts Merge](https://leetcode.com/problems/accounts-merge/)
+  - Question ID: 721
+  - Arquivo: `problems/medium/721_accounts-merge.py`
+  - Resolvido em: 13:32 - 19/10/26
 
 - [#676 Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)
   - Question ID: 676
