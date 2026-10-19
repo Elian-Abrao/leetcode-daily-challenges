@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 723
+Total de questoes resolvidas: 724
 
 ### Easy
 
@@ -738,6 +738,11 @@ Total de questoes resolvidas: 723
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#780 Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
+  - Question ID: 780
+  - Arquivo: `problems/medium/769_max-chunks-to-make-sorted.py`
+  - Resolvido em: 15:48 - 19/10/26
 
 - [#721 Accounts Merge](https://leetcode.com/problems/accounts-merge/)
   - Question ID: 721
