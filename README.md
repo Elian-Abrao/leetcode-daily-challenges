@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 724
+Total de questoes resolvidas: 725
 
 ### Easy
 
@@ -2355,6 +2355,11 @@ Total de questoes resolvidas: 724
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#746 Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
+  - Question ID: 746
+  - Arquivo: `problems/hard/745_prefix-and-suffix-search.py`
+  - Resolvido em: 17:20 - 19/10/26
 
 - [#759 Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/)
   - Question ID: 759
