@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 725
+Total de questoes resolvidas: 726
 
 ### Easy
+
+- [#506 Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+  - Question ID: 506
+  - Arquivo: `problems/easy/506_relative-ranks.py`
+  - Resolvido em: 14:00 - 20/10/26
 
 - [#637 Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
   - Question ID: 637
