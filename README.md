@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 726
+Total de questoes resolvidas: 727
 
 ### Easy
 
@@ -743,6 +743,11 @@ Total de questoes resolvidas: 726
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#576 Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
+  - Question ID: 576
+  - Arquivo: `problems/medium/576_out-of-boundary-paths.py`
+  - Resolvido em: 16:36 - 20/10/26
 
 - [#780 Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)
   - Question ID: 780
