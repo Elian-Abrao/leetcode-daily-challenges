@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 727
+Total de questoes resolvidas: 728
 
 ### Easy
+
+- [#530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+  - Question ID: 530
+  - Arquivo: `problems/easy/530_minimum-absolute-difference-in-bst.py`
+  - Resolvido em: 21:03 - 20/10/26
 
 - [#506 Relative Ranks](https://leetcode.com/problems/relative-ranks/)
   - Question ID: 506
