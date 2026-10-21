@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 730
+Total de questoes resolvidas: 731
 
 ### Easy
 
@@ -748,6 +748,11 @@ Total de questoes resolvidas: 730
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#784 Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+  - Question ID: 784
+  - Arquivo: `problems/medium/701_insert-into-a-binary-search-tree.py`
+  - Resolvido em: 19:00 - 21/10/26
 
 - [#853 Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)
   - Question ID: 853
