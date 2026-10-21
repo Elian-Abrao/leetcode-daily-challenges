@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 728
+Total de questoes resolvidas: 729
 
 ### Easy
 
@@ -748,6 +748,11 @@ Total de questoes resolvidas: 728
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#864 Image Overlap](https://leetcode.com/problems/image-overlap/)
+  - Question ID: 864
+  - Arquivo: `problems/medium/835_image-overlap.py`
+  - Resolvido em: 12:05 - 21/10/26
 
 - [#576 Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)
   - Question ID: 576
