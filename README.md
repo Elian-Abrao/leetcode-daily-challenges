@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 731
+Total de questoes resolvidas: 732
 
 ### Easy
 
@@ -2385,6 +2385,11 @@ Total de questoes resolvidas: 731
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#880 Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
+  - Question ID: 880
+  - Arquivo: `problems/hard/850_rectangle-area-ii.py`
+  - Resolvido em: 12:36 - 22/10/26
 
 - [#746 Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/)
   - Question ID: 746
