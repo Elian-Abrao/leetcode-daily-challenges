@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 733
+Total de questoes resolvidas: 734
 
 ### Easy
 
@@ -2390,6 +2390,11 @@ Total de questoes resolvidas: 733
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#699 Falling Squares](https://leetcode.com/problems/falling-squares/)
+  - Question ID: 699
+  - Arquivo: `problems/hard/699_falling-squares.py`
+  - Resolvido em: 18:05 - 22/10/26
 
 - [#880 Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/)
   - Question ID: 880
