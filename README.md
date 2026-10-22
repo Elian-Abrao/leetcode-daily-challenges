@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 732
+Total de questoes resolvidas: 733
 
 ### Easy
 
@@ -748,6 +748,11 @@ Total de questoes resolvidas: 732
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#720 Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
+  - Question ID: 720
+  - Arquivo: `problems/medium/720_longest-word-in-dictionary.py`
+  - Resolvido em: 15:02 - 22/10/26
 
 - [#784 Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
   - Question ID: 784
