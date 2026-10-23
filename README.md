@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 734
+Total de questoes resolvidas: 735
 
 ### Easy
 
@@ -748,6 +748,11 @@ Total de questoes resolvidas: 734
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#839 Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
+  - Question ID: 839
+  - Arquivo: `problems/medium/820_short-encoding-of-words.py`
+  - Resolvido em: 13:02 - 23/10/26
 
 - [#720 Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)
   - Question ID: 720
