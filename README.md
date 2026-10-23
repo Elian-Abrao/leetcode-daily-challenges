@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 735
+Total de questoes resolvidas: 736
 
 ### Easy
 
@@ -2395,6 +2395,11 @@ Total de questoes resolvidas: 735
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1485 Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
+  - Question ID: 1485
+  - Arquivo: `problems/hard/1368_minimum-cost-to-make-at-least-one-valid-path-in-a-grid.py`
+  - Resolvido em: 15:31 - 23/10/26
 
 - [#699 Falling Squares](https://leetcode.com/problems/falling-squares/)
   - Question ID: 699
