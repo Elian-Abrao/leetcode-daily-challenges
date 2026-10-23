@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 736
+Total de questoes resolvidas: 737
 
 ### Easy
+
+- [#816 Design HashSet](https://leetcode.com/problems/design-hashset/)
+  - Question ID: 816
+  - Arquivo: `problems/easy/705_design-hashset.py`
+  - Resolvido em: 18:31 - 23/10/26
 
 - [#530 Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
   - Question ID: 530
