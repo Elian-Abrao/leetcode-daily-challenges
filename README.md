@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 739
+Total de questoes resolvidas: 740
 
 ### Easy
 
@@ -2410,6 +2410,11 @@ Total de questoes resolvidas: 739
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#823 Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
+  - Question ID: 823
+  - Arquivo: `problems/hard/805_split-array-with-same-average.py`
+  - Resolvido em: 17:39 - 24/10/26
 
 - [#1485 Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
   - Question ID: 1485
