@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 740
+Total de questoes resolvidas: 741
 
 ### Easy
 
@@ -2410,6 +2410,11 @@ Total de questoes resolvidas: 740
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1244 Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
+  - Question ID: 1244
+  - Arquivo: `problems/hard/1316_distinct-echo-substrings.py`
+  - Resolvido em: 19:31 - 24/10/26
 
 - [#823 Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)
   - Question ID: 823
