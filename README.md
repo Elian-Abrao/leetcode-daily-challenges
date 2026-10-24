@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 741
+Total de questoes resolvidas: 742
 
 ### Easy
 
@@ -2410,6 +2410,11 @@ Total de questoes resolvidas: 741
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1851 Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
+  - Question ID: 1851
+  - Arquivo: `problems/hard/1751_maximum-number-of-events-that-can-be-attended-ii.py`
+  - Resolvido em: 22:34 - 24/10/26
 
 - [#1244 Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings/)
   - Question ID: 1244
