@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 737
+Total de questoes resolvidas: 738
 
 ### Easy
+
+- [#874 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+  - Question ID: 874
+  - Arquivo: `problems/easy/844_backspace-string-compare.py`
+  - Resolvido em: 11:25 - 24/10/26
 
 - [#816 Design HashSet](https://leetcode.com/problems/design-hashset/)
   - Question ID: 816
