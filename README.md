@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 738
+Total de questoes resolvidas: 739
 
 ### Easy
 
@@ -758,6 +758,11 @@ Total de questoes resolvidas: 738
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#526 Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
+  - Question ID: 526
+  - Arquivo: `problems/medium/526_beautiful-arrangement.py`
+  - Resolvido em: 14:37 - 24/10/26
 
 - [#839 Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)
   - Question ID: 839
