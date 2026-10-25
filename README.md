@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 746
+Total de questoes resolvidas: 747
 
 ### Easy
 
@@ -2425,6 +2425,11 @@ Total de questoes resolvidas: 746
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1503 Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
+  - Question ID: 1503
+  - Arquivo: `problems/hard/1402_reducing-dishes.py`
+  - Resolvido em: 19:33 - 25/10/26
 
 - [#1352 Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
   - Question ID: 1352
