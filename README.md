@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 742
+Total de questoes resolvidas: 743
 
 ### Easy
+
+- [#767 Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
+  - Question ID: 767
+  - Arquivo: `problems/easy/762_prime-number-of-set-bits-in-binary-representation.py`
+  - Resolvido em: 12:07 - 25/10/26
 
 - [#874 Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
   - Question ID: 874
