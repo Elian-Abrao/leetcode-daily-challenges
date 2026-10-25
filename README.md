@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 744
+Total de questoes resolvidas: 745
 
 ### Easy
 
@@ -763,6 +763,11 @@ Total de questoes resolvidas: 744
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#827 Expressive Words](https://leetcode.com/problems/expressive-words/)
+  - Question ID: 827
+  - Arquivo: `problems/medium/809_expressive-words.py`
+  - Resolvido em: 16:01 - 25/10/26
 
 - [#687 Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
   - Question ID: 687
