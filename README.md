@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 743
+Total de questoes resolvidas: 744
 
 ### Easy
 
@@ -763,6 +763,11 @@ Total de questoes resolvidas: 743
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#687 Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
+  - Question ID: 687
+  - Arquivo: `problems/medium/687_longest-univalue-path.py`
+  - Resolvido em: 13:36 - 25/10/26
 
 - [#526 Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
   - Question ID: 526
