@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 745
+Total de questoes resolvidas: 746
 
 ### Easy
 
@@ -2425,6 +2425,11 @@ Total de questoes resolvidas: 745
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1352 Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)
+  - Question ID: 1352
+  - Arquivo: `problems/hard/1235_maximum-profit-in-job-scheduling.py`
+  - Resolvido em: 18:01 - 25/10/26
 
 - [#1851 Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/)
   - Question ID: 1851
