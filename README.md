@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 747
+Total de questoes resolvidas: 748
 
 ### Easy
 
@@ -763,6 +763,11 @@ Total de questoes resolvidas: 747
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#807 Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+  - Question ID: 807
+  - Arquivo: `problems/medium/791_custom-sort-string.py`
+  - Resolvido em: 21:01 - 25/10/26
 
 - [#827 Expressive Words](https://leetcode.com/problems/expressive-words/)
   - Question ID: 827
