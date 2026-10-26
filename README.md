@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 749
+Total de questoes resolvidas: 750
 
 ### Easy
+
+- [#841 Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+  - Question ID: 841
+  - Arquivo: `problems/easy/821_shortest-distance-to-a-character.py`
+  - Resolvido em: 15:31 - 26/10/26
 
 - [#767 Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
   - Question ID: 767
