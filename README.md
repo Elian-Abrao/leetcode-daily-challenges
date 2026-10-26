@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 750
+Total de questoes resolvidas: 751
 
 ### Easy
+
+- [#783 Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+  - Question ID: 783
+  - Arquivo: `problems/easy/700_search-in-a-binary-search-tree.py`
+  - Resolvido em: 17:07 - 26/10/26
 
 - [#841 Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
   - Question ID: 841
