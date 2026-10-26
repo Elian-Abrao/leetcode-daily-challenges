@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 748
+Total de questoes resolvidas: 749
 
 ### Easy
 
@@ -763,6 +763,11 @@ Total de questoes resolvidas: 748
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#731 My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
+  - Question ID: 731
+  - Arquivo: `problems/medium/731_my-calendar-ii.py`
+  - Resolvido em: 13:41 - 26/10/26
 
 - [#807 Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
   - Question ID: 807
