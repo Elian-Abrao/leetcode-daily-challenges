@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 753
+Total de questoes resolvidas: 754
 
 ### Easy
+
+- [#777 Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
+  - Question ID: 777
+  - Arquivo: `problems/easy/766_toeplitz-matrix.py`
+  - Resolvido em: 21:00 - 27/10/26
 
 - [#822 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
   - Question ID: 822
