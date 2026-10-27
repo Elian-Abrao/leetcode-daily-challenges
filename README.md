@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 751
+Total de questoes resolvidas: 752
 
 ### Easy
+
+- [#822 Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+  - Question ID: 822
+  - Arquivo: `problems/easy/804_unique-morse-code-words.py`
+  - Resolvido em: 14:09 - 27/10/26
 
 - [#783 Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
   - Question ID: 783
