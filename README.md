@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 752
+Total de questoes resolvidas: 753
 
 ### Easy
 
@@ -778,6 +778,11 @@ Total de questoes resolvidas: 752
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#826 Soup Servings](https://leetcode.com/problems/soup-servings/)
+  - Question ID: 826
+  - Arquivo: `problems/medium/808_soup-servings.py`
+  - Resolvido em: 16:35 - 27/10/26
 
 - [#731 My Calendar II](https://leetcode.com/problems/my-calendar-ii/)
   - Question ID: 731
