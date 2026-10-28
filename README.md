@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 756
+Total de questoes resolvidas: 757
 
 ### Easy
 
@@ -793,6 +793,11 @@ Total de questoes resolvidas: 756
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#802 K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
+  - Question ID: 802
+  - Arquivo: `problems/medium/786_k-th-smallest-prime-fraction.py`
+  - Resolvido em: 19:07 - 28/10/26
 
 - [#826 Soup Servings](https://leetcode.com/problems/soup-servings/)
   - Question ID: 826
