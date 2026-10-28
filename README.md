@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 755
+Total de questoes resolvidas: 756
 
 ### Easy
+
+- [#643 Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+  - Question ID: 643
+  - Arquivo: `problems/easy/643_maximum-average-subarray-i.py`
+  - Resolvido em: 16:00 - 28/10/26
 
 - [#861 Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
   - Question ID: 861
