@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 754
+Total de questoes resolvidas: 755
 
 ### Easy
+
+- [#861 Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+  - Question ID: 861
+  - Arquivo: `problems/easy/832_flipping-an-image.py`
+  - Resolvido em: 12:01 - 28/10/26
 
 - [#777 Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)
   - Question ID: 777
