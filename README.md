@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 758
+Total de questoes resolvidas: 759
 
 ### Easy
 
@@ -793,6 +793,11 @@ Total de questoes resolvidas: 758
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#768 Partition Labels](https://leetcode.com/problems/partition-labels/)
+  - Question ID: 768
+  - Arquivo: `problems/medium/763_partition-labels.py`
+  - Resolvido em: 15:01 - 29/10/26
 
 - [#802 K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
   - Question ID: 802
