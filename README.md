@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 757
+Total de questoes resolvidas: 758
 
 ### Easy
 
@@ -2475,6 +2475,11 @@ Total de questoes resolvidas: 757
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#779 Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+  - Question ID: 779
+  - Arquivo: `problems/hard/768_max-chunks-to-make-sorted-ii.py`
+  - Resolvido em: 12:35 - 29/10/26
 
 - [#1503 Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
   - Question ID: 1503
