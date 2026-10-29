@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 759
+Total de questoes resolvidas: 760
 
 ### Easy
+
+- [#782 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+  - Question ID: 782
+  - Arquivo: `problems/easy/771_jewels-and-stones.py`
+  - Resolvido em: 18:00 - 29/10/26
 
 - [#643 Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
   - Question ID: 643
