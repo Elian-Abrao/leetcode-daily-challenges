@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 760
+Total de questoes resolvidas: 761
 
 ### Easy
 
@@ -798,6 +798,11 @@ Total de questoes resolvidas: 760
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#820 Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
+  - Question ID: 820
+  - Arquivo: `problems/medium/802_find-eventual-safe-states.py`
+  - Resolvido em: 13:01 - 30/10/26
 
 - [#768 Partition Labels](https://leetcode.com/problems/partition-labels/)
   - Question ID: 768
