@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 761
+Total de questoes resolvidas: 762
 
 ### Easy
 
@@ -2490,6 +2490,11 @@ Total de questoes resolvidas: 761
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2105 The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)
+  - Question ID: 2105
+  - Arquivo: `problems/hard/1994_the-number-of-good-subsets.py`
+  - Resolvido em: 15:34 - 30/10/26
 
 - [#779 Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
   - Question ID: 779
