@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 762
+Total de questoes resolvidas: 763
 
 ### Easy
 
@@ -798,6 +798,11 @@ Total de questoes resolvidas: 762
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#773 Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
+  - Question ID: 773
+  - Arquivo: `problems/medium/558_logical-or-of-two-binary-grids-represented-as-quad-trees.py`
+  - Resolvido em: 18:34 - 30/10/26
 
 - [#820 Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)
   - Question ID: 820
