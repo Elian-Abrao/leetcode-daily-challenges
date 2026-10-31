@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 763
+Total de questoes resolvidas: 764
 
 ### Easy
 
@@ -798,6 +798,11 @@ Total de questoes resolvidas: 763
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#829 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
+  - Question ID: 829
+  - Arquivo: `problems/medium/811_subdomain-visit-count.py`
+  - Resolvido em: 11:01 - 31/10/26
 
 - [#773 Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/)
   - Question ID: 773
