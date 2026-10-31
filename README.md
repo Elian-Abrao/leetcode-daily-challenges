@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 765
+Total de questoes resolvidas: 766
 
 ### Easy
 
@@ -2505,6 +2505,11 @@ Total de questoes resolvidas: 765
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1740 Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)
+  - Question ID: 1740
+  - Arquivo: `problems/hard/1617_count-subtrees-with-max-distance-between-cities.py`
+  - Resolvido em: 17:32 - 31/10/26
 
 - [#2105 The Number of Good Subsets](https://leetcode.com/problems/the-number-of-good-subsets/)
   - Question ID: 2105
