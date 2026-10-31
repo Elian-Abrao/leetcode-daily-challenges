@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 766
+Total de questoes resolvidas: 767
 
 ### Easy
 
@@ -2505,6 +2505,11 @@ Total de questoes resolvidas: 766
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2275 Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/)
+  - Question ID: 2275
+  - Arquivo: `problems/hard/2156_find-substring-with-given-hash-value.py`
+  - Resolvido em: 19:35 - 31/10/26
 
 - [#1740 Count Subtrees With Max Distance Between Cities](https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/)
   - Question ID: 1740
