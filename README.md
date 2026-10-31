@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 764
+Total de questoes resolvidas: 765
 
 ### Easy
 
@@ -798,6 +798,11 @@ Total de questoes resolvidas: 764
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#638 Shopping Offers](https://leetcode.com/problems/shopping-offers/)
+  - Question ID: 638
+  - Arquivo: `problems/medium/638_shopping-offers.py`
+  - Resolvido em: 15:04 - 31/10/26
 
 - [#829 Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
   - Question ID: 829
