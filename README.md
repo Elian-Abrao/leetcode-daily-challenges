@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 767
+Total de questoes resolvidas: 768
 
 ### Easy
 
@@ -2505,6 +2505,11 @@ Total de questoes resolvidas: 767
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1936 Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)
+  - Question ID: 1936
+  - Arquivo: `problems/hard/1808_maximize-number-of-nice-divisors.py`
+  - Resolvido em: 22:36 - 31/10/26
 
 - [#2275 Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/)
   - Question ID: 2275
