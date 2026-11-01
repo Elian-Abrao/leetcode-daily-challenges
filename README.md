@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 769
+Total de questoes resolvidas: 770
 
 ### Easy
 
@@ -798,6 +798,11 @@ Total de questoes resolvidas: 769
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#870 Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)
+  - Question ID: 870
+  - Arquivo: `problems/medium/840_magic-squares-in-grid.py`
+  - Resolvido em: 13:30 - 01/11/26
 
 - [#808 Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
   - Question ID: 808
