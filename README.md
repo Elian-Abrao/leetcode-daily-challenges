@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 768
+Total de questoes resolvidas: 769
 
 ### Easy
 
@@ -798,6 +798,11 @@ Total de questoes resolvidas: 768
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#808 Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
+  - Question ID: 808
+  - Arquivo: `problems/medium/792_number-of-matching-subsequences.py`
+  - Resolvido em: 12:13 - 01/11/26
 
 - [#638 Shopping Offers](https://leetcode.com/problems/shopping-offers/)
   - Question ID: 638
