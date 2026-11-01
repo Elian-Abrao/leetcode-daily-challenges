@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 770
+Total de questoes resolvidas: 771
 
 ### Easy
 
@@ -2515,6 +2515,11 @@ Total de questoes resolvidas: 770
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#787 Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)
+  - Question ID: 787
+  - Arquivo: `problems/hard/773_sliding-puzzle.py`
+  - Resolvido em: 16:01 - 01/11/26
 
 - [#1936 Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/)
   - Question ID: 1936
