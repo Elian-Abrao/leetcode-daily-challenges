@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 771
+Total de questoes resolvidas: 772
 
 ### Easy
 
@@ -2515,6 +2515,11 @@ Total de questoes resolvidas: 771
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1381 Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)
+  - Question ID: 1381
+  - Arquivo: `problems/hard/1255_maximum-score-words-formed-by-letters.py`
+  - Resolvido em: 18:02 - 01/11/26
 
 - [#787 Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)
   - Question ID: 787
