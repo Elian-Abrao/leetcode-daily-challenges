@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 773
+Total de questoes resolvidas: 774
 
 ### Easy
+
+- [#857 Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
+  - Question ID: 857
+  - Arquivo: `problems/easy/830_positions-of-large-groups.py`
+  - Resolvido em: 21:00 - 01/11/26
 
 - [#782 Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
   - Question ID: 782
