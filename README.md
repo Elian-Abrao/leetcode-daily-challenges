@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 772
+Total de questoes resolvidas: 773
 
 ### Easy
 
@@ -2515,6 +2515,11 @@ Total de questoes resolvidas: 772
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1784 Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)
+  - Question ID: 1784
+  - Arquivo: `problems/hard/1665_minimum-initial-energy-to-finish-tasks.py`
+  - Resolvido em: 19:33 - 01/11/26
 
 - [#1381 Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/)
   - Question ID: 1381
