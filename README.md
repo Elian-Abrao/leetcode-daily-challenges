@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 775
+Total de questoes resolvidas: 776
 
 ### Easy
 
@@ -803,6 +803,11 @@ Total de questoes resolvidas: 775
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#806 Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
+  - Question ID: 806
+  - Arquivo: `problems/medium/790_domino-and-tromino-tiling.py`
+  - Resolvido em: 15:33 - 02/11/26
 
 - [#698 Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
   - Question ID: 698
