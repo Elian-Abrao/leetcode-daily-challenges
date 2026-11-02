@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 774
+Total de questoes resolvidas: 775
 
 ### Easy
 
@@ -803,6 +803,11 @@ Total de questoes resolvidas: 774
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#698 Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
+  - Question ID: 698
+  - Arquivo: `problems/medium/698_partition-to-k-equal-sum-subsets.py`
+  - Resolvido em: 13:32 - 02/11/26
 
 - [#870 Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)
   - Question ID: 870
