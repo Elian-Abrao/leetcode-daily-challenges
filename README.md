@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 776
+Total de questoes resolvidas: 777
 
 ### Easy
 
@@ -803,6 +803,11 @@ Total de questoes resolvidas: 776
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#835 Linked List Components](https://leetcode.com/problems/linked-list-components/)
+  - Question ID: 835
+  - Arquivo: `problems/medium/817_linked-list-components.py`
+  - Resolvido em: 17:02 - 02/11/26
 
 - [#806 Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)
   - Question ID: 806
