@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 779
+Total de questoes resolvidas: 780
 
 ### Easy
 
@@ -2545,6 +2545,11 @@ Total de questoes resolvidas: 779
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#902 Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+  - Question ID: 902
+  - Arquivo: `problems/hard/871_minimum-number-of-refueling-stops.py`
+  - Resolvido em: 21:11 - 03/11/26
 
 - [#1784 Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/)
   - Question ID: 1784
