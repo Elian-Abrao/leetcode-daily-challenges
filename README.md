@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 778
+Total de questoes resolvidas: 779
 
 ### Easy
 
@@ -808,6 +808,11 @@ Total de questoes resolvidas: 778
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#882 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+  - Question ID: 882
+  - Arquivo: `problems/medium/852_peak-index-in-a-mountain-array.py`
+  - Resolvido em: 16:30 - 03/11/26
 
 - [#835 Linked List Components](https://leetcode.com/problems/linked-list-components/)
   - Question ID: 835
