@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 777
+Total de questoes resolvidas: 778
 
 ### Easy
+
+- [#824 Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
+  - Question ID: 824
+  - Arquivo: `problems/easy/806_number-of-lines-to-write-string.py`
+  - Resolvido em: 14:00 - 03/11/26
 
 - [#857 Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
   - Question ID: 857
