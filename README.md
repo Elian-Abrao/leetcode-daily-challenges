@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 782
+Total de questoes resolvidas: 783
 
 ### Easy
 
@@ -808,6 +808,11 @@ Total de questoes resolvidas: 782
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#922 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
+  - Question ID: 922
+  - Arquivo: `problems/medium/886_possible-bipartition.py`
+  - Resolvido em: 19:00 - 04/11/26
 
 - [#832 Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
   - Question ID: 832
