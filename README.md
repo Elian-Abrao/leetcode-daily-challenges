@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 780
+Total de questoes resolvidas: 781
 
 ### Easy
 
@@ -808,6 +808,11 @@ Total de questoes resolvidas: 780
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#881 Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
+  - Question ID: 881
+  - Arquivo: `problems/medium/851_loud-and-rich.py`
+  - Resolvido em: 12:01 - 04/11/26
 
 - [#882 Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
   - Question ID: 882
