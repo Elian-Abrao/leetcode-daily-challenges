@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 781
+Total de questoes resolvidas: 782
 
 ### Easy
 
@@ -808,6 +808,11 @@ Total de questoes resolvidas: 781
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#832 Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/)
+  - Question ID: 832
+  - Arquivo: `problems/medium/814_binary-tree-pruning.py`
+  - Resolvido em: 16:02 - 04/11/26
 
 - [#881 Loud and Rich](https://leetcode.com/problems/loud-and-rich/)
   - Question ID: 881
