@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 783
+Total de questoes resolvidas: 784
 
 ### Easy
+
+- [#837 Most Common Word](https://leetcode.com/problems/most-common-word/)
+  - Question ID: 837
+  - Arquivo: `problems/easy/819_most-common-word.py`
+  - Resolvido em: 12:31 - 05/11/26
 
 - [#824 Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)
   - Question ID: 824
