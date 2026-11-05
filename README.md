@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 785
+Total de questoes resolvidas: 786
 
 ### Easy
+
+- [#830 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
+  - Question ID: 830
+  - Arquivo: `problems/easy/812_largest-triangle-area.py`
+  - Resolvido em: 18:00 - 05/11/26
 
 - [#899 Binary Gap](https://leetcode.com/problems/binary-gap/)
   - Question ID: 899
