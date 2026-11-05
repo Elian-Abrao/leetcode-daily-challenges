@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 784
+Total de questoes resolvidas: 785
 
 ### Easy
+
+- [#899 Binary Gap](https://leetcode.com/problems/binary-gap/)
+  - Question ID: 899
+  - Arquivo: `problems/easy/868_binary-gap.py`
+  - Resolvido em: 15:07 - 05/11/26
 
 - [#837 Most Common Word](https://leetcode.com/problems/most-common-word/)
   - Question ID: 837
