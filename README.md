@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 786
+Total de questoes resolvidas: 787
 
 ### Easy
 
@@ -823,6 +823,11 @@ Total de questoes resolvidas: 786
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#684 Redundant Connection](https://leetcode.com/problems/redundant-connection/)
+  - Question ID: 684
+  - Arquivo: `problems/medium/684_redundant-connection.py`
+  - Resolvido em: 13:02 - 06/11/26
 
 - [#922 Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)
   - Question ID: 922
