@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 787
+Total de questoes resolvidas: 788
 
 ### Easy
 
@@ -2580,6 +2580,11 @@ Total de questoes resolvidas: 787
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2364 Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
+  - Question ID: 2364
+  - Arquivo: `problems/hard/2246_longest-path-with-different-adjacent-characters.py`
+  - Resolvido em: 15:37 - 06/11/26
 
 - [#902 Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
   - Question ID: 902
