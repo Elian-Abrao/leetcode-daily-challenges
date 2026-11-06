@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 788
+Total de questoes resolvidas: 789
 
 ### Easy
 
@@ -2580,6 +2580,11 @@ Total de questoes resolvidas: 788
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#833 Bus Routes](https://leetcode.com/problems/bus-routes/)
+  - Question ID: 833
+  - Arquivo: `problems/hard/815_bus-routes.py`
+  - Resolvido em: 18:36 - 06/11/26
 
 - [#2364 Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)
   - Question ID: 2364
