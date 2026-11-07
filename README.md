@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 789
+Total de questoes resolvidas: 790
 
 ### Easy
 
@@ -823,6 +823,11 @@ Total de questoes resolvidas: 789
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#907 Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+  - Question ID: 907
+  - Arquivo: `problems/medium/875_koko-eating-bananas.py`
+  - Resolvido em: 11:00 - 07/11/26
 
 - [#684 Redundant Connection](https://leetcode.com/problems/redundant-connection/)
   - Question ID: 684
