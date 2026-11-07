@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 792
+Total de questoes resolvidas: 793
 
 ### Easy
 
@@ -2590,6 +2590,11 @@ Total de questoes resolvidas: 792
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2344 Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
+  - Question ID: 2344
+  - Arquivo: `problems/hard/2258_escape-the-spreading-fire.py`
+  - Resolvido em: 19:35 - 07/11/26
 
 - [#2140 Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)
   - Question ID: 2140
