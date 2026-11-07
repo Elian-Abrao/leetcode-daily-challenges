@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 791
+Total de questoes resolvidas: 792
 
 ### Easy
 
@@ -2590,6 +2590,11 @@ Total de questoes resolvidas: 791
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2140 Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)
+  - Question ID: 2140
+  - Arquivo: `problems/hard/2014_longest-subsequence-repeated-k-times.py`
+  - Resolvido em: 17:35 - 07/11/26
 
 - [#833 Bus Routes](https://leetcode.com/problems/bus-routes/)
   - Question ID: 833
