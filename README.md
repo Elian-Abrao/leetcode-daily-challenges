@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 793
+Total de questoes resolvidas: 794
 
 ### Easy
 
@@ -2590,6 +2590,11 @@ Total de questoes resolvidas: 793
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#856 Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
+  - Question ID: 856
+  - Arquivo: `problems/hard/829_consecutive-numbers-sum.py`
+  - Resolvido em: 22:37 - 07/11/26
 
 - [#2344 Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/)
   - Question ID: 2344
