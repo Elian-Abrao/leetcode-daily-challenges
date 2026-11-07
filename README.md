@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 790
+Total de questoes resolvidas: 791
 
 ### Easy
 
@@ -823,6 +823,11 @@ Total de questoes resolvidas: 790
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#967 Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
+  - Question ID: 967
+  - Arquivo: `problems/medium/931_minimum-falling-path-sum.py`
+  - Resolvido em: 14:31 - 07/11/26
 
 - [#907 Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
   - Question ID: 907
