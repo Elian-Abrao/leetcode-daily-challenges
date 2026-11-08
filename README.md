@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 798
+Total de questoes resolvidas: 799
 
 ### Easy
 
@@ -2600,6 +2600,11 @@ Total de questoes resolvidas: 798
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#910 Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
+  - Question ID: 910
+  - Arquivo: `problems/hard/878_nth-magical-number.py`
+  - Resolvido em: 19:31 - 08/11/26
 
 - [#1282 Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)
   - Question ID: 1282
