@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 794
+Total de questoes resolvidas: 795
 
 ### Easy
 
@@ -823,6 +823,11 @@ Total de questoes resolvidas: 794
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#862 Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
+  - Question ID: 862
+  - Arquivo: `problems/medium/833_find-and-replace-in-string.py`
+  - Resolvido em: 12:07 - 08/11/26
 
 - [#967 Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
   - Question ID: 967
