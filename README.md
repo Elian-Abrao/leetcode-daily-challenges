@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 795
+Total de questoes resolvidas: 796
 
 ### Easy
 
@@ -2595,6 +2595,11 @@ Total de questoes resolvidas: 795
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#927 Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
+  - Question ID: 927
+  - Arquivo: `problems/hard/891_sum-of-subsequence-widths.py`
+  - Resolvido em: 13:30 - 08/11/26
 
 - [#856 Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)
   - Question ID: 856
