@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 797
+Total de questoes resolvidas: 798
 
 ### Easy
 
@@ -2600,6 +2600,11 @@ Total de questoes resolvidas: 797
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1282 Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/)
+  - Question ID: 1282
+  - Arquivo: `problems/hard/1178_number-of-valid-words-for-each-puzzle.py`
+  - Resolvido em: 18:00 - 08/11/26
 
 - [#927 Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)
   - Question ID: 927
