@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 796
+Total de questoes resolvidas: 797
 
 ### Easy
 
@@ -823,6 +823,11 @@ Total de questoes resolvidas: 796
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#649 Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
+  - Question ID: 649
+  - Arquivo: `problems/medium/649_dota2-senate.py`
+  - Resolvido em: 16:05 - 08/11/26
 
 - [#862 Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
   - Question ID: 862
