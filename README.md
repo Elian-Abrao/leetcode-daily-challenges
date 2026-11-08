@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 799
+Total de questoes resolvidas: 800
 
 ### Easy
 
@@ -823,6 +823,11 @@ Total de questoes resolvidas: 799
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#805 Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)
+  - Question ID: 805
+  - Arquivo: `problems/medium/789_escape-the-ghosts.py`
+  - Resolvido em: 21:01 - 08/11/26
 
 - [#649 Dota2 Senate](https://leetcode.com/problems/dota2-senate/)
   - Question ID: 649
