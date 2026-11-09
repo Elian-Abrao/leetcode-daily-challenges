@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 802
+Total de questoes resolvidas: 803
 
 ### Easy
+
+- [#817 Design HashMap](https://leetcode.com/problems/design-hashmap/)
+  - Question ID: 817
+  - Arquivo: `problems/easy/706_design-hashmap.py`
+  - Resolvido em: 17:01 - 09/11/26
 
 - [#674 Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
   - Question ID: 674
