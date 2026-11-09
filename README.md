@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 801
+Total de questoes resolvidas: 802
 
 ### Easy
 
@@ -828,6 +828,11 @@ Total de questoes resolvidas: 801
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#875 Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+  - Question ID: 875
+  - Arquivo: `problems/medium/845_longest-mountain-in-array.py`
+  - Resolvido em: 15:37 - 09/11/26
 
 - [#805 Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)
   - Question ID: 805
