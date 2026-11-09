@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 800
+Total de questoes resolvidas: 801
 
 ### Easy
+
+- [#674 Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+  - Question ID: 674
+  - Arquivo: `problems/easy/674_longest-continuous-increasing-subsequence.py`
+  - Resolvido em: 13:34 - 09/11/26
 
 - [#830 Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)
   - Question ID: 830
