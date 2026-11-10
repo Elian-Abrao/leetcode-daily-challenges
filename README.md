@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 803
+Total de questoes resolvidas: 804
 
 ### Easy
+
+- [#920 Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
+  - Question ID: 920
+  - Arquivo: `problems/easy/884_uncommon-words-from-two-sentences.py`
+  - Resolvido em: 14:00 - 10/11/26
 
 - [#817 Design HashMap](https://leetcode.com/problems/design-hashmap/)
   - Question ID: 817
