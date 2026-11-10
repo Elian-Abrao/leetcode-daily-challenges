@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 804
+Total de questoes resolvidas: 805
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 804
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#769 Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)
+  - Question ID: 769
+  - Arquivo: `problems/medium/764_largest-plus-sign.py`
+  - Resolvido em: 16:47 - 10/11/26
 
 - [#875 Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
   - Question ID: 875
