@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 805
+Total de questoes resolvidas: 806
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 805
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#897 Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)
+  - Question ID: 897
+  - Arquivo: `problems/medium/866_prime-palindrome.py`
+  - Resolvido em: 21:05 - 10/11/26
 
 - [#769 Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/)
   - Question ID: 769
