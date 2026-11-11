@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 807
+Total de questoes resolvidas: 808
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 807
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#753 Open the Lock](https://leetcode.com/problems/open-the-lock/)
+  - Question ID: 753
+  - Arquivo: `problems/medium/752_open-the-lock.py`
+  - Resolvido em: 16:02 - 11/11/26
 
 - [#867 New 21 Game](https://leetcode.com/problems/new-21-game/)
   - Question ID: 867
