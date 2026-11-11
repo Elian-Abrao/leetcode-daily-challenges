@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 806
+Total de questoes resolvidas: 807
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 806
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#867 New 21 Game](https://leetcode.com/problems/new-21-game/)
+  - Question ID: 867
+  - Arquivo: `problems/medium/837_new-21-game.py`
+  - Resolvido em: 12:01 - 11/11/26
 
 - [#897 Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)
   - Question ID: 897
