@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 808
+Total de questoes resolvidas: 809
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 808
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#834 Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)
+  - Question ID: 834
+  - Arquivo: `problems/medium/816_ambiguous-coordinates.py`
+  - Resolvido em: 19:17 - 11/11/26
 
 - [#753 Open the Lock](https://leetcode.com/problems/open-the-lock/)
   - Question ID: 753
