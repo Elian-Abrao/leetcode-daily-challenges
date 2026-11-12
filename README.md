@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 810
+Total de questoes resolvidas: 811
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 810
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#900 Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
+  - Question ID: 900
+  - Arquivo: `problems/medium/869_reordered-power-of-2.py`
+  - Resolvido em: 15:03 - 12/11/26
 
 - [#834 Ambiguous Coordinates](https://leetcode.com/problems/ambiguous-coordinates/)
   - Question ID: 834
