@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 809
+Total de questoes resolvidas: 810
 
 ### Easy
 
@@ -2650,6 +2650,11 @@ Total de questoes resolvidas: 809
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#632 Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+  - Question ID: 632
+  - Arquivo: `problems/hard/632_smallest-range-covering-elements-from-k-lists.py`
+  - Resolvido em: 12:40 - 12/11/26
 
 - [#910 Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)
   - Question ID: 910
