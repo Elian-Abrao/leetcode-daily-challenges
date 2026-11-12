@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 811
+Total de questoes resolvidas: 812
 
 ### Easy
 
@@ -838,6 +838,11 @@ Total de questoes resolvidas: 811
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#905 Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
+  - Question ID: 905
+  - Arquivo: `problems/medium/873_length-of-longest-fibonacci-subsequence.py`
+  - Resolvido em: 18:01 - 12/11/26
 
 - [#900 Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)
   - Question ID: 900
