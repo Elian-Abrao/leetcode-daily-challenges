@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 814
+Total de questoes resolvidas: 815
 
 ### Easy
 
@@ -843,6 +843,11 @@ Total de questoes resolvidas: 814
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#926 Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
+  - Question ID: 926
+  - Arquivo: `problems/medium/890_find-and-replace-pattern.py`
+  - Resolvido em: 18:30 - 13/11/26
 
 - [#905 Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
   - Question ID: 905
