@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 812
+Total de questoes resolvidas: 813
 
 ### Easy
+
+- [#890 Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+  - Question ID: 890
+  - Arquivo: `problems/easy/860_lemonade-change.py`
+  - Resolvido em: 13:03 - 13/11/26
 
 - [#920 Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
   - Question ID: 920
