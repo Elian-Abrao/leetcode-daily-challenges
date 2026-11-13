@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 813
+Total de questoes resolvidas: 814
 
 ### Easy
 
@@ -2665,6 +2665,11 @@ Total de questoes resolvidas: 813
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2357 Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)
+  - Question ID: 2357
+  - Arquivo: `problems/hard/2276_count-integers-in-intervals.py`
+  - Resolvido em: 15:32 - 13/11/26
 
 - [#632 Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
   - Question ID: 632
