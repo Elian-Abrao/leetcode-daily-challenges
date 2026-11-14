@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 819
+Total de questoes resolvidas: 820
 
 ### Easy
 
@@ -2680,6 +2680,11 @@ Total de questoes resolvidas: 819
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1902 Car Fleet II](https://leetcode.com/problems/car-fleet-ii/)
+  - Question ID: 1902
+  - Arquivo: `problems/hard/1776_car-fleet-ii.py`
+  - Resolvido em: 22:33 - 14/11/26
 
 - [#1170 Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
   - Question ID: 1170
