@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 818
+Total de questoes resolvidas: 819
 
 ### Easy
 
@@ -2680,6 +2680,11 @@ Total de questoes resolvidas: 818
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1170 Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)
+  - Question ID: 1170
+  - Arquivo: `problems/hard/1092_shortest-common-supersequence.py`
+  - Resolvido em: 19:30 - 14/11/26
 
 - [#2198 Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
   - Question ID: 2198
