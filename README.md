@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 816
+Total de questoes resolvidas: 817
 
 ### Easy
 
@@ -848,6 +848,11 @@ Total de questoes resolvidas: 816
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#677 Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
+  - Question ID: 677
+  - Arquivo: `problems/medium/677_map-sum-pairs.py`
+  - Resolvido em: 14:30 - 14/11/26
 
 - [#926 Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)
   - Question ID: 926
