@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 817
+Total de questoes resolvidas: 818
 
 ### Easy
 
@@ -2680,6 +2680,11 @@ Total de questoes resolvidas: 817
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2198 Process Restricted Friend Requests](https://leetcode.com/problems/process-restricted-friend-requests/)
+  - Question ID: 2198
+  - Arquivo: `problems/hard/2076_process-restricted-friend-requests.py`
+  - Resolvido em: 17:30 - 14/11/26
 
 - [#2357 Count Integers in Intervals](https://leetcode.com/problems/count-integers-in-intervals/)
   - Question ID: 2357
