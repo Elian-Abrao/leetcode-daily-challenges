@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 815
+Total de questoes resolvidas: 816
 
 ### Easy
+
+- [#599 Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
+  - Question ID: 599
+  - Arquivo: `problems/easy/599_minimum-index-sum-of-two-lists.py`
+  - Resolvido em: 11:26 - 14/11/26
 
 - [#890 Lemonade Change](https://leetcode.com/problems/lemonade-change/)
   - Question ID: 890
