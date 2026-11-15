@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 820
+Total de questoes resolvidas: 821
 
 ### Easy
+
+- [#924 Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
+  - Question ID: 924
+  - Arquivo: `problems/easy/888_fair-candy-swap.py`
+  - Resolvido em: 12:10 - 15/11/26
 
 - [#599 Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
   - Question ID: 599
