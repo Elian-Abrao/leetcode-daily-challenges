@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 824
+Total de questoes resolvidas: 825
 
 ### Easy
 
@@ -2695,6 +2695,11 @@ Total de questoes resolvidas: 824
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1447 Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
+  - Question ID: 1447
+  - Arquivo: `problems/hard/1345_jump-game-iv.py`
+  - Resolvido em: 19:31 - 15/11/26
 
 - [#1815 Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
   - Question ID: 1815
