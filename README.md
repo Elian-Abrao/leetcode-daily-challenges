@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 825
+Total de questoes resolvidas: 826
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 825
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#852 Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
+  - Question ID: 852
+  - Arquivo: `problems/medium/825_friends-of-appropriate-ages.py`
+  - Resolvido em: 21:01 - 15/11/26
 
 - [#885 Exam Room](https://leetcode.com/problems/exam-room/)
   - Question ID: 885
