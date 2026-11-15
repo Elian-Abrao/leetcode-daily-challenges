@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 822
+Total de questoes resolvidas: 823
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 822
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#885 Exam Room](https://leetcode.com/problems/exam-room/)
+  - Question ID: 885
+  - Arquivo: `problems/medium/855_exam-room.py`
+  - Resolvido em: 16:01 - 15/11/26
 
 - [#624 Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
   - Question ID: 624
