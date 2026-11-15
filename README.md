@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 821
+Total de questoes resolvidas: 822
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 821
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#624 Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
+  - Question ID: 624
+  - Arquivo: `problems/medium/624_maximum-distance-in-arrays.py`
+  - Resolvido em: 13:30 - 15/11/26
 
 - [#677 Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)
   - Question ID: 677
