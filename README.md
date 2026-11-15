@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 823
+Total de questoes resolvidas: 824
 
 ### Easy
 
@@ -2695,6 +2695,11 @@ Total de questoes resolvidas: 823
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1815 Checking Existence of Edge Length Limited Paths](https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/)
+  - Question ID: 1815
+  - Arquivo: `problems/hard/1697_checking-existence-of-edge-length-limited-paths.py`
+  - Resolvido em: 18:00 - 15/11/26
 
 - [#1902 Car Fleet II](https://leetcode.com/problems/car-fleet-ii/)
   - Question ID: 1902
