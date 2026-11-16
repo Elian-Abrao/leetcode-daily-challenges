@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 826
+Total de questoes resolvidas: 827
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 826
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#921 Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+  - Question ID: 921
+  - Arquivo: `problems/medium/885_spiral-matrix-iii.py`
+  - Resolvido em: 13:34 - 16/11/26
 
 - [#852 Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)
   - Question ID: 852
