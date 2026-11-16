@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 827
+Total de questoes resolvidas: 828
 
 ### Easy
 
@@ -2705,6 +2705,11 @@ Total de questoes resolvidas: 827
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#911 Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
+  - Question ID: 911
+  - Arquivo: `problems/hard/879_profitable-schemes.py`
+  - Resolvido em: 15:37 - 16/11/26
 
 - [#1447 Jump Game IV](https://leetcode.com/problems/jump-game-iv/)
   - Question ID: 1447
