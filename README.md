@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 828
+Total de questoes resolvidas: 829
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 828
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#966 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
+  - Question ID: 966
+  - Arquivo: `problems/medium/930_binary-subarrays-with-sum.py`
+  - Resolvido em: 17:00 - 16/11/26
 
 - [#921 Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
   - Question ID: 921
