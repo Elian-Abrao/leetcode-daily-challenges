@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 829
+Total de questoes resolvidas: 830
 
 ### Easy
 
@@ -853,6 +853,11 @@ Total de questoes resolvidas: 829
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#811 Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+  - Question ID: 811
+  - Arquivo: `problems/medium/795_number-of-subarrays-with-bounded-maximum.py`
+  - Resolvido em: 14:00 - 17/11/26
 
 - [#966 Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)
   - Question ID: 966
