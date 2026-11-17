@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 830
+Total de questoes resolvidas: 831
 
 ### Easy
+
+- [#950 X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
+  - Question ID: 950
+  - Arquivo: `problems/easy/914_x-of-a-kind-in-a-deck-of-cards.py`
+  - Resolvido em: 16:34 - 17/11/26
 
 - [#924 Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
   - Question ID: 924
