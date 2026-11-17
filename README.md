@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 831
+Total de questoes resolvidas: 832
 
 ### Easy
 
@@ -2720,6 +2720,11 @@ Total de questoes resolvidas: 831
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#892 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+  - Question ID: 892
+  - Arquivo: `problems/hard/862_shortest-subarray-with-sum-at-least-k.py`
+  - Resolvido em: 21:00 - 17/11/26
 
 - [#911 Profitable Schemes](https://leetcode.com/problems/profitable-schemes/)
   - Question ID: 911
