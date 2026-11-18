@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 834
+Total de questoes resolvidas: 835
 
 ### Easy
+
+- [#749 Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
+  - Question ID: 749
+  - Arquivo: `problems/easy/748_shortest-completing-word.py`
+  - Resolvido em: 19:05 - 18/11/26
 
 - [#933 Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
   - Question ID: 933
