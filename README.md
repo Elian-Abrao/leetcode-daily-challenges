@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 832
+Total de questoes resolvidas: 833
 
 ### Easy
 
@@ -858,6 +858,11 @@ Total de questoes resolvidas: 832
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#987 Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
+  - Question ID: 987
+  - Arquivo: `problems/medium/950_reveal-cards-in-increasing-order.py`
+  - Resolvido em: 12:00 - 18/11/26
 
 - [#811 Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
   - Question ID: 811
