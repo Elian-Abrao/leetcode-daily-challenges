@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 833
+Total de questoes resolvidas: 834
 
 ### Easy
+
+- [#933 Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)
+  - Question ID: 933
+  - Arquivo: `problems/easy/897_increasing-order-search-tree.py`
+  - Resolvido em: 16:02 - 18/11/26
 
 - [#950 X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)
   - Question ID: 950
