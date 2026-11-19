@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 835
+Total de questoes resolvidas: 836
 
 ### Easy
 
@@ -868,6 +868,11 @@ Total de questoes resolvidas: 835
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#670 Maximum Swap](https://leetcode.com/problems/maximum-swap/)
+  - Question ID: 670
+  - Arquivo: `problems/medium/670_maximum-swap.py`
+  - Resolvido em: 12:30 - 19/11/26
 
 - [#987 Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)
   - Question ID: 987
