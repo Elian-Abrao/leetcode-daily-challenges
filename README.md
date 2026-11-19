@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 836
+Total de questoes resolvidas: 837
 
 ### Easy
+
+- [#563 Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
+  - Question ID: 563
+  - Arquivo: `problems/easy/563_binary-tree-tilt.py`
+  - Resolvido em: 15:01 - 19/11/26
 
 - [#749 Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)
   - Question ID: 749
