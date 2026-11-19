@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 837
+Total de questoes resolvidas: 838
 
 ### Easy
 
@@ -873,6 +873,11 @@ Total de questoes resolvidas: 837
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#883 Car Fleet](https://leetcode.com/problems/car-fleet/)
+  - Question ID: 883
+  - Arquivo: `problems/medium/853_car-fleet.py`
+  - Resolvido em: 18:01 - 19/11/26
 
 - [#670 Maximum Swap](https://leetcode.com/problems/maximum-swap/)
   - Question ID: 670
