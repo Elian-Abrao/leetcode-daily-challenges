@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 839
+Total de questoes resolvidas: 840
 
 ### Easy
 
@@ -2755,6 +2755,11 @@ Total de questoes resolvidas: 839
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2263 Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
+  - Question ID: 2263
+  - Arquivo: `problems/hard/2141_maximum-running-time-of-n-computers.py`
+  - Resolvido em: 15:31 - 20/11/26
 
 - [#892 Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
   - Question ID: 892
