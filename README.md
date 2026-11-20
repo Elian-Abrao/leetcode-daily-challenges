@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 838
+Total de questoes resolvidas: 839
 
 ### Easy
+
+- [#978 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+  - Question ID: 978
+  - Arquivo: `problems/easy/941_valid-mountain-array.py`
+  - Resolvido em: 13:01 - 20/11/26
 
 - [#563 Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/)
   - Question ID: 563
