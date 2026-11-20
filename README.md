@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 840
+Total de questoes resolvidas: 841
 
 ### Easy
 
@@ -878,6 +878,11 @@ Total de questoes resolvidas: 840
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#947 Online Election](https://leetcode.com/problems/online-election/)
+  - Question ID: 947
+  - Arquivo: `problems/medium/911_online-election.py`
+  - Resolvido em: 18:30 - 20/11/26
 
 - [#883 Car Fleet](https://leetcode.com/problems/car-fleet/)
   - Question ID: 883
