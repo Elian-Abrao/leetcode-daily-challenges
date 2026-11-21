@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 842
+Total de questoes resolvidas: 843
 
 ### Easy
 
@@ -878,6 +878,11 @@ Total de questoes resolvidas: 842
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#876 Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
+  - Question ID: 876
+  - Arquivo: `problems/medium/846_hand-of-straights.py`
+  - Resolvido em: 14:34 - 21/11/26
 
 - [#957 Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
   - Question ID: 957
