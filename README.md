@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 841
+Total de questoes resolvidas: 842
 
 ### Easy
 
@@ -878,6 +878,11 @@ Total de questoes resolvidas: 841
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#957 Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+  - Question ID: 957
+  - Arquivo: `problems/medium/921_minimum-add-to-make-parentheses-valid.py`
+  - Resolvido em: 11:00 - 21/11/26
 
 - [#947 Online Election](https://leetcode.com/problems/online-election/)
   - Question ID: 947
