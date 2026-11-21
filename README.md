@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 844
+Total de questoes resolvidas: 845
 
 ### Easy
 
@@ -2770,6 +2770,11 @@ Total de questoes resolvidas: 844
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2068 Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/)
+  - Question ID: 2068
+  - Arquivo: `problems/hard/1938_maximum-genetic-difference-query.py`
+  - Resolvido em: 19:31 - 21/11/26
 
 - [#1622 Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
   - Question ID: 1622
