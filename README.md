@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 843
+Total de questoes resolvidas: 844
 
 ### Easy
 
@@ -2770,6 +2770,11 @@ Total de questoes resolvidas: 843
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1622 Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
+  - Question ID: 1622
+  - Arquivo: `problems/hard/1499_max-value-of-equation.py`
+  - Resolvido em: 17:48 - 21/11/26
 
 - [#2263 Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/)
   - Question ID: 2263
