@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 845
+Total de questoes resolvidas: 846
 
 ### Easy
 
@@ -2770,6 +2770,11 @@ Total de questoes resolvidas: 845
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1531 Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
+  - Question ID: 1531
+  - Arquivo: `problems/hard/1434_number-of-ways-to-wear-different-hats-to-each-other.py`
+  - Resolvido em: 22:30 - 21/11/26
 
 - [#2068 Maximum Genetic Difference Query](https://leetcode.com/problems/maximum-genetic-difference-query/)
   - Question ID: 2068
