@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 847
+Total de questoes resolvidas: 848
 
 ### Easy
+
+- [#958 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+  - Question ID: 958
+  - Arquivo: `problems/easy/922_sort-array-by-parity-ii.py`
+  - Resolvido em: 13:30 - 22/11/26
 
 - [#978 Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
   - Question ID: 978
