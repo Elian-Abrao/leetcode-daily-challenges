@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 851
+Total de questoes resolvidas: 852
 
 ### Easy
 
@@ -2785,6 +2785,11 @@ Total de questoes resolvidas: 851
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#942 Super Palindromes](https://leetcode.com/problems/super-palindromes/)
+  - Question ID: 942
+  - Arquivo: `problems/hard/906_super-palindromes.py`
+  - Resolvido em: 21:35 - 22/11/26
 
 - [#2272 Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
   - Question ID: 2272
