@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 850
+Total de questoes resolvidas: 851
 
 ### Easy
 
@@ -2785,6 +2785,11 @@ Total de questoes resolvidas: 850
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2272 Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/)
+  - Question ID: 2272
+  - Arquivo: `problems/hard/2151_maximum-good-people-based-on-statements.py`
+  - Resolvido em: 19:34 - 22/11/26
 
 - [#2234 Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)
   - Question ID: 2234
