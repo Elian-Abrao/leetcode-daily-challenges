@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 848
+Total de questoes resolvidas: 849
 
 ### Easy
+
+- [#908 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+  - Question ID: 908
+  - Arquivo: `problems/easy/876_middle-of-the-linked-list.py`
+  - Resolvido em: 16:01 - 22/11/26
 
 - [#958 Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
   - Question ID: 958
