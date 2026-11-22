@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 849
+Total de questoes resolvidas: 850
 
 ### Easy
 
@@ -2785,6 +2785,11 @@ Total de questoes resolvidas: 849
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2234 Minimum Operations to Make the Array K-Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-k-increasing/)
+  - Question ID: 2234
+  - Arquivo: `problems/hard/2111_minimum-operations-to-make-the-array-k-increasing.py`
+  - Resolvido em: 18:00 - 22/11/26
 
 - [#1531 Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
   - Question ID: 1531
