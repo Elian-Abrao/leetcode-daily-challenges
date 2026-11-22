@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 846
+Total de questoes resolvidas: 847
 
 ### Easy
 
@@ -878,6 +878,11 @@ Total de questoes resolvidas: 846
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#896 Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
+  - Question ID: 896
+  - Arquivo: `problems/medium/865_smallest-subtree-with-all-the-deepest-nodes.py`
+  - Resolvido em: 12:00 - 22/11/26
 
 - [#876 Hand of Straights](https://leetcode.com/problems/hand-of-straights/)
   - Question ID: 876
