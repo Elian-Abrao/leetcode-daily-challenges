@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 852
+Total de questoes resolvidas: 853
 
 ### Easy
 
@@ -888,6 +888,11 @@ Total de questoes resolvidas: 852
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#983 Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
+  - Question ID: 983
+  - Arquivo: `problems/medium/946_validate-stack-sequences.py`
+  - Resolvido em: 13:30 - 23/11/26
 
 - [#896 Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
   - Question ID: 896
