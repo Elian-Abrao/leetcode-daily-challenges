@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 853
+Total de questoes resolvidas: 854
 
 ### Easy
 
@@ -2790,6 +2790,11 @@ Total de questoes resolvidas: 853
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#949 Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
+  - Question ID: 949
+  - Arquivo: `problems/hard/913_cat-and-mouse.py`
+  - Resolvido em: 15:30 - 23/11/26
 
 - [#942 Super Palindromes](https://leetcode.com/problems/super-palindromes/)
   - Question ID: 942
