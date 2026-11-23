@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 854
+Total de questoes resolvidas: 855
 
 ### Easy
 
@@ -888,6 +888,11 @@ Total de questoes resolvidas: 854
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#974 Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
+  - Question ID: 974
+  - Arquivo: `problems/medium/937_reorder-data-in-log-files.py`
+  - Resolvido em: 17:03 - 23/11/26
 
 - [#983 Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)
   - Question ID: 983
