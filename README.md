@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 855
+Total de questoes resolvidas: 856
 
 ### Easy
 
@@ -888,6 +888,11 @@ Total de questoes resolvidas: 855
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#948 Sort an Array](https://leetcode.com/problems/sort-an-array/)
+  - Question ID: 948
+  - Arquivo: `problems/medium/912_sort-an-array.py`
+  - Resolvido em: 14:05 - 24/11/26
 
 - [#974 Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
   - Question ID: 974
