@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 856
+Total de questoes resolvidas: 857
 
 ### Easy
 
@@ -888,6 +888,11 @@ Total de questoes resolvidas: 856
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#985 Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+  - Question ID: 985
+  - Arquivo: `problems/medium/948_bag-of-tokens.py`
+  - Resolvido em: 16:30 - 24/11/26
 
 - [#948 Sort an Array](https://leetcode.com/problems/sort-an-array/)
   - Question ID: 948
