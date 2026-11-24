@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 857
+Total de questoes resolvidas: 858
 
 ### Easy
 
@@ -888,6 +888,11 @@ Total de questoes resolvidas: 857
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#982 Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)
+  - Question ID: 982
+  - Arquivo: `problems/medium/945_minimum-increment-to-make-array-unique.py`
+  - Resolvido em: 21:00 - 24/11/26
 
 - [#985 Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
   - Question ID: 985
