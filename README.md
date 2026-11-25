@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 859
+Total de questoes resolvidas: 860
 
 ### Easy
+
+- [#953 Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
+  - Question ID: 953
+  - Arquivo: `problems/easy/917_reverse-only-letters.py`
+  - Resolvido em: 16:07 - 25/11/26
 
 - [#961 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
   - Question ID: 961
