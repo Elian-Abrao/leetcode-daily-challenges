@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 860
+Total de questoes resolvidas: 861
 
 ### Easy
 
@@ -2820,6 +2820,11 @@ Total de questoes resolvidas: 860
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#814 Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)
+  - Question ID: 814
+  - Arquivo: `problems/hard/798_smallest-rotation-with-highest-score.py`
+  - Resolvido em: 19:04 - 25/11/26
 
 - [#949 Cat and Mouse](https://leetcode.com/problems/cat-and-mouse/)
   - Question ID: 949
