@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 858
+Total de questoes resolvidas: 859
 
 ### Easy
+
+- [#961 Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+  - Question ID: 961
+  - Arquivo: `problems/easy/925_long-pressed-name.py`
+  - Resolvido em: 12:00 - 25/11/26
 
 - [#908 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
   - Question ID: 908
