@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 861
+Total de questoes resolvidas: 862
 
 ### Easy
 
@@ -898,6 +898,11 @@ Total de questoes resolvidas: 861
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#945 Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
+  - Question ID: 945
+  - Arquivo: `problems/medium/909_snakes-and-ladders.py`
+  - Resolvido em: 12:33 - 26/11/26
 
 - [#982 Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)
   - Question ID: 982
