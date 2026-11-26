@@ -8,9 +8,14 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 863
+Total de questoes resolvidas: 864
 
 ### Easy
+
+- [#979 DI String Match](https://leetcode.com/problems/di-string-match/)
+  - Question ID: 979
+  - Arquivo: `problems/easy/942_di-string-match.py`
+  - Resolvido em: 18:01 - 26/11/26
 
 - [#953 Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
   - Question ID: 953
