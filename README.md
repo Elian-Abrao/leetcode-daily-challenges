@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 862
+Total de questoes resolvidas: 863
 
 ### Easy
 
@@ -898,6 +898,11 @@ Total de questoes resolvidas: 862
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#952 Word Subsets](https://leetcode.com/problems/word-subsets/)
+  - Question ID: 952
+  - Arquivo: `problems/medium/916_word-subsets.py`
+  - Resolvido em: 15:05 - 26/11/26
 
 - [#945 Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)
   - Question ID: 945
