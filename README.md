@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 864
+Total de questoes resolvidas: 865
 
 ### Easy
 
@@ -903,6 +903,11 @@ Total de questoes resolvidas: 864
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#672 Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
+  - Question ID: 672
+  - Arquivo: `problems/medium/672_bulb-switcher-ii.py`
+  - Resolvido em: 13:33 - 27/11/26
 
 - [#952 Word Subsets](https://leetcode.com/problems/word-subsets/)
   - Question ID: 952
