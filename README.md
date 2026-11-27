@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 866
+Total de questoes resolvidas: 867
 
 ### Easy
 
@@ -2840,6 +2840,11 @@ Total de questoes resolvidas: 866
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#798 Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)
+  - Question ID: 798
+  - Arquivo: `problems/hard/782_transform-to-chessboard.py`
+  - Resolvido em: 18:37 - 27/11/26
 
 - [#2200 Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)
   - Question ID: 2200
