@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 865
+Total de questoes resolvidas: 866
 
 ### Easy
 
@@ -2840,6 +2840,11 @@ Total de questoes resolvidas: 865
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#2200 Stamping the Grid](https://leetcode.com/problems/stamping-the-grid/)
+  - Question ID: 2200
+  - Arquivo: `problems/hard/2132_stamping-the-grid.py`
+  - Resolvido em: 15:34 - 27/11/26
 
 - [#814 Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/)
   - Question ID: 814
