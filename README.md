@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 869
+Total de questoes resolvidas: 870
 
 ### Easy
 
@@ -2850,6 +2850,11 @@ Total de questoes resolvidas: 869
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1433 Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)
+  - Question ID: 1433
+  - Arquivo: `problems/hard/2227_encrypt-and-decrypt-strings.py`
+  - Resolvido em: 17:30 - 28/11/26
 
 - [#798 Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/)
   - Question ID: 798
