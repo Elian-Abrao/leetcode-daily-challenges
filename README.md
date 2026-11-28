@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 870
+Total de questoes resolvidas: 871
 
 ### Easy
 
@@ -2850,6 +2850,11 @@ Total de questoes resolvidas: 870
   - Resolvido em: 20:09 - 20/02/26
 
 ### Hard
+
+- [#1286 Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+  - Question ID: 1286
+  - Arquivo: `problems/hard/1425_constrained-subsequence-sum.py`
+  - Resolvido em: 19:34 - 28/11/26
 
 - [#1433 Encrypt and Decrypt Strings](https://leetcode.com/problems/encrypt-and-decrypt-strings/)
   - Question ID: 1433
