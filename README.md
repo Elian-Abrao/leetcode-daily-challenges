@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 867
+Total de questoes resolvidas: 868
 
 ### Easy
 
@@ -903,6 +903,11 @@ Total de questoes resolvidas: 867
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#986 Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
+  - Question ID: 986
+  - Arquivo: `problems/medium/949_largest-time-for-given-digits.py`
+  - Resolvido em: 11:10 - 28/11/26
 
 - [#672 Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)
   - Question ID: 672
