@@ -8,7 +8,7 @@
 
 ## LeetCode Progress
 
-Total de questoes resolvidas: 868
+Total de questoes resolvidas: 869
 
 ### Easy
 
@@ -903,6 +903,11 @@ Total de questoes resolvidas: 868
   - Resolvido em: 14:36 - 19/02/26
 
 ### Medium
+
+- [#999 Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)
+  - Question ID: 999
+  - Arquivo: `problems/medium/959_regions-cut-by-slashes.py`
+  - Resolvido em: 14:30 - 28/11/26
 
 - [#986 Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)
   - Question ID: 986
